@@ -65,6 +65,9 @@ class FakePage:
     def wait_for_timeout(self, ms):
         pass
 
+    def wait_for_function(self, script, timeout=None):
+        assert "data-reveal" in script
+
     def screenshot(self, path, full_page=False):
         self.shots.append(path)
         open(path, "wb").write(PNG)

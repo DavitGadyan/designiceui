@@ -59,6 +59,11 @@ platform, and optionally colours and fonts.
 
 ![buyme - Next.js, matched to the NowUtalk template](docs/showcase/buyme-web.jpg)
 
+Scroll, hover, the FAQ accordion and the closing call to action, recorded from the
+finished build:
+
+![buyme walkthrough](docs/showcase/buyme-walkthrough.gif)
+
 **A mental-fitness app for athletes, mobile.** Matched the Getahead template; the phone
 layout is derived from its desktop capture:
 
@@ -67,6 +72,20 @@ layout is derived from its desktop capture:
 ```
 
 ![JustDo - Expo / React Native, matched to the Getahead template](docs/showcase/justdo-mobile.jpg)
+
+Onboarding with draggable rating sliders, the plan and its calendar sheet, a week of
+sessions, the session-stats sheet and the skills wheel:
+
+![JustDo walkthrough](docs/showcase/justdo-walkthrough.gif)
+
+Both builds went through one critique pass before these captures. The `design-critic`
+agent put each next to its template and returned twelve findings apiece - a storefront
+mockup that was still a wireframe, section heads at 0.7x the reference scale, a FAQ
+with the wrong anatomy, session cards that had lost their fill to a style-merging
+`Link`, a stats ring that ignored its value, a calendar sheet and a skills wheel that
+were missing altogether - and the builder applied them. The reports it wrote are in
+[buyme-critique.md](docs/showcase/buyme-critique.md) and
+[justdo-critique.md](docs/showcase/justdo-critique.md).
 
 More prompts that work:
 

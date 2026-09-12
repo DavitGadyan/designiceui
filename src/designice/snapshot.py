@@ -36,6 +36,10 @@ REVEAL_JS = (
     "document.querySelectorAll('[data-reveal]')"
     ".forEach(n => n.setAttribute('data-reveal', 'shown'))"
 )
+HYDRATED_JS = (
+    "() => !document.querySelector('[data-reveal]')"
+    " || !!document.querySelector('[data-reveal=\"shown\"]')"
+)
 # Sticky navs overlap element screenshots taken further down the page.
 UNSTICK_JS = """() => {
   for (const el of document.querySelectorAll('body *')) {
@@ -165,6 +169,13 @@ def _capture_viewport(browser, url, out, name, w, h, is_mobile, sections, settle
     page.goto(url, wait_until="networkidle", timeout=timeout_ms)
     page.add_style_tag(content=HIDE_DEV_CSS)
     page.evaluate("document.fonts ? document.fonts.ready : true")
+    # Forcing reveal-on-scroll elements visible before React has hydrated would
+    # register as a hydration mismatch, so wait until the first above-the-fold
+    # one has been revealed by the app itself (or there are none to reveal).
+    try:
+        page.wait_for_function(HYDRATED_JS, timeout=min(timeout_ms, 8000))
+    except Exception:
+        pass
     page.evaluate(REVEAL_JS)
     page.wait_for_timeout(settle_ms)
 
