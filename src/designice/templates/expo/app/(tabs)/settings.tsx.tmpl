@@ -1,0 +1,36 @@
+import { Text, View, StyleSheet } from "react-native";
+import { Screen } from "@/components/Screen";
+import { Section } from "@/components/Section";
+import { theme } from "@/lib/theme";
+
+/**
+ * Where the web footer's contents go: links, legal, contact, version. Group
+ * them as a list of rows, not as columns - columns are a desktop idea.
+ */
+export default function SettingsScreen() {
+  return (
+    <Screen>
+      <Section>
+        <Text style={styles.heading}>{{TITLE}}</Text>
+        <Text style={styles.body}>
+          Links, legal and contact from the reference footer belong here, as rows.
+        </Text>
+      </Section>
+    </Screen>
+  );
+}
+
+const styles = StyleSheet.create({
+  heading: {
+    fontFamily: theme.fonts.displayBold,
+    fontSize: theme.type.h1,
+    color: theme.colors.ink,
+    marginBottom: theme.spacing.sm,
+  },
+  body: {
+    fontFamily: theme.fonts.body,
+    fontSize: theme.type.body,
+    lineHeight: theme.type.body * theme.type.leadingBody,
+    color: theme.colors.muted,
+  },
+});

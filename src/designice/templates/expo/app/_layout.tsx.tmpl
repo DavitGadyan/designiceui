@@ -1,0 +1,35 @@
+import { useEffect } from "react";
+import { Stack } from "expo-router";
+import { StatusBar } from "expo-status-bar";
+import { useFonts } from "expo-font";
+import * as SplashScreen from "expo-splash-screen";
+{{FONT_IMPORTS}}
+import { theme } from "@/lib/theme";
+
+// Hold the splash until fonts are in, so the first frame is set in the right
+// face rather than flashing a system font and then swapping.
+SplashScreen.preventAutoHideAsync().catch(() => {});
+
+export default function RootLayout() {
+  const [loaded, error] = useFonts({
+{{FONT_MAP}}
+  });
+
+  useEffect(() => {
+    if (loaded || error) SplashScreen.hideAsync().catch(() => {});
+  }, [loaded, error]);
+
+  if (!loaded && !error) return null;
+
+  return (
+    <>
+      <StatusBar style={theme.mode === "dark" ? "light" : "dark"} />
+      <Stack
+        screenOptions={{
+          headerShown: false,
+          contentStyle: { backgroundColor: theme.colors.ground },
+        }}
+      />
+    </>
+  );
+}

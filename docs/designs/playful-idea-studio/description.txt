@@ -1,0 +1,23 @@
+Playful Idea is loud on purpose. Thick black outlines, hard offset shadows, primary
+colours, and elements that look like stickers dropped onto the page.
+
+Hero. Cream #FFFDF5 ground. Headline in a chunky display face at clamp(3rem, 8vw, 7rem) with
+individual words rotated between -3 and +3 degrees. Behind the type, three flat shapes - a blob, a
+star, a squiggle - drift slowly and rotate. A yellow #FFE24B button with a 3px black border and a
+6px hard offset shadow that collapses to 2px on press, which is the single most satisfying
+interaction on the page.
+
+Cards. 3px #111 borders, 8px hard shadows, no blur. On hover they translate -4px and -4px so the
+shadow appears to grow. Rotation of 1-2 degrees at rest keeps the grid from feeling mechanical.
+
+Marquee. Two stacked tickers running in opposite directions, one black on yellow, one yellow on
+black, both at 20s per loop, separated by a 4px black rule.
+
+Colour rule. Four colours maximum, each fully saturated, never gradients, never tints. Maximalism
+works only when the palette is disciplined; the busyness has to come from composition.
+
+Type is a heavy geometric display with a neutral sans for body, and body copy stays at a
+comfortable 17px so the page is still readable under all the noise.
+
+Use for consumer apps, creative agencies, events, education, food brands and anything targeting
+a younger audience.

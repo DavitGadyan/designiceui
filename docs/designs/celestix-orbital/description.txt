@@ -1,0 +1,26 @@
+Celestix is a near-black orbital-technology landing page built around one idea: the
+product is infrastructure you cannot see, so the site shows the sky instead.
+
+Hero. Full-bleed WebGL starfield with slow parallax drift, roughly 3000 points at three depth
+layers moving at different rates. A thin planetary arc sits at the bottom edge, lit from behind
+by a cool rim light. The headline is a single restrained line in a light serif at clamp(3rem, 7vw,
+6.5rem), tracked slightly tight, sitting centred over the field. One primary button, one ghost
+link. No badge, no logo bar above the fold - the emptiness is the point.
+
+Scroll. The starfield does not scroll away; it stays pinned while sections pass over it, so the
+page reads as a single continuous descent. Section entrances are staggered fades with a 24px
+rise, 600ms, easeOutExpo, triggered at 25% viewport.
+
+Stats band. Four numbers - orbits, latency, uptime, payload mass - in oversized light weight
+against hairline dividers. Numbers count up once on first reveal.
+
+Feature grid. Three cards on a dark translucent surface with a 1px #FFFFFF14 border and a very
+soft inner glow. Each card holds a small technical diagram rather than an icon.
+
+Palette is deep navy-black #05070F with a single electric blue #4C7DFF used sparingly for the
+horizon glow and the primary button only. Everything else is cool grey. Typography pairs a
+high-contrast serif for display with Inter for body. Generous vertical rhythm: 160px section
+padding on desktop, 96px on mobile.
+
+Works well for aerospace, satellite, deep-tech hardware and anything that wants to feel
+inevitable rather than energetic.

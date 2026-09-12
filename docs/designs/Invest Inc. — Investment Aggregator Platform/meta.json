@@ -1,0 +1,17 @@
+{
+  "title": "Invest Inc.",
+  "use_case": "Website for an investment aggregator, stock research or trading platform",
+  "tags": {
+    "industry": ["fintech", "saas"],
+    "page_type": ["landing-page", "dashboard"],
+    "style": ["dark-tech", "corporate"],
+    "motion": ["reveal-on-scroll", "hover-tilt"],
+    "palette": ["dark", "high-contrast"],
+    "layout": ["centered", "full-bleed"],
+    "section": ["nav", "hero", "features", "logos", "team", "cta", "contact", "footer"]
+  },
+  "palette": ["#0A0F1E", "#0F1A30", "#3B82F6", "#FFFFFF", "#8A94A8"],
+  "fonts": ["Inter", "Inter"],
+  "source": "Kayen Peppa portfolio capture",
+  "reference_url": ""
+}

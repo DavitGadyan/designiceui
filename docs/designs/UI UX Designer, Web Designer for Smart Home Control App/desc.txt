@@ -1,0 +1,26 @@
+
+My role. UI UX design for the web app
+
+Project description.
+
+Smarty is a smart home control app, a single UI UX interface to manage lighting, climate, appliances, and a full security layer (door/window sensors, cameras, motion detection), plus custom automation scenarios. I owned the UX UI design end to end as lead UI UX Designer: UX wireframing, a consistent UI design system, mobile app design, branding, and a clickable prototype. Web design principles carried into the companion dashboard for cross device parity. The hard part was UX, turning a feature dense product into a simple, glanceable mobile UI UX experience.
+Skills and deliverables
+
+UX & UI
+UI Graphics
+UX Wireframe
+UX & UI Design
+Web Design
+
+About the project
+
+Smarty is a smart home app that lets users control their home remotely, from anywhere. They can manage the lights, adjust room temperature, and switch appliances and other connected devices on or off - all from a single interface.
+
+The app also handles home security: users can monitor the status of doors and windows and connect security cameras and motion sensors for full coverage.
+
+A clean, straightforward interface makes every setting easy to manage. Users can also build custom scenarios to automate the home - switching the lights on when they enter a room, or adjusting the temperature by time of day.
+
+My role:
+- UX wireframing
+- Branding design
+- UX/UI design with a clickable prototype

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "designice": {
+      "command": "python3",
+      "args": ["bin/designice-mcp"],
+      "env": {}
+    }
+  }
+}

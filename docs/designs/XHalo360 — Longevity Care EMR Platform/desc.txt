@@ -1,0 +1,5 @@
+My role. Full Stack UX/UI Design
+
+Project description.
+
+XHalo360 is a next-generation EMR platform for longevity and wellness clinics. Kayen Peppa designed the full brand identity and end-to-end product experience for two distinct user types: providers and patients. The provider side covers patient scheduling, electronic health records, AI-generated clinical notes, lab integrations, billing, and an in-app store. The patient side is a companion mobile app surfacing AI-powered health scores and longevity tracking.

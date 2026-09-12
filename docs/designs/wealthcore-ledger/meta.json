@@ -1,0 +1,53 @@
+{
+  "tags": {
+    "industry": [
+      "fintech"
+    ],
+    "page_type": [
+      "landing-page",
+      "marketing-site"
+    ],
+    "style": [
+      "luxury",
+      "minimal",
+      "swiss-editorial"
+    ],
+    "motion": [
+      "reveal-on-scroll",
+      "hover-tilt"
+    ],
+    "palette": [
+      "dark",
+      "jewel-tone"
+    ],
+    "layout": [
+      "split-screen",
+      "bento-grid"
+    ],
+    "section": [
+      "hero",
+      "features",
+      "stats",
+      "logos",
+      "pricing",
+      "cta",
+      "footer"
+    ]
+  },
+  "palette": [
+    "#0A0A0B",
+    "#141416",
+    "#C8A96A",
+    "#E8E6E1",
+    "#8A8A93"
+  ],
+  "fonts": [
+    "Canela",
+    "S\u00f6hne",
+    "Inter"
+  ],
+  "title": "Wealthcore",
+  "use_case": "Website for a private banking, wealth management or fintech product",
+  "source": "motionsites.ai (analysed reference, imagery not redistributed)",
+  "reference_url": "https://motionsites.ai/?prompt=wealthcore"
+}

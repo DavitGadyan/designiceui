@@ -1,0 +1,71 @@
+{
+  "expectations": [
+    {
+      "text": "Project is structurally complete (package.json, app/layout.tsx, app/page.tsx)",
+      "passed": true,
+      "evidence": "all present"
+    },
+    {
+      "text": "Colour lives in a central token system rather than scattered through components",
+      "passed": true,
+      "evidence": "10 colour tokens in CSS, 6 raw hex literals in components"
+    },
+    {
+      "text": "Palette mode matches the request (dark)",
+      "passed": true,
+      "evidence": "ground #0C0C0D luminance 12"
+    },
+    {
+      "text": "Honours prefers-reduced-motion",
+      "passed": true,
+      "evidence": "found"
+    },
+    {
+      "text": "Styles :focus-visible for keyboard users",
+      "passed": true,
+      "evidence": "found"
+    },
+    {
+      "text": "Ships real copy with no placeholder text",
+      "passed": true,
+      "evidence": "none found"
+    },
+    {
+      "text": "Uses no emoji as icons",
+      "passed": true,
+      "evidence": "none"
+    },
+    {
+      "text": "Adjacent sections differ (not identical stacked slabs)",
+      "passed": true,
+      "evidence": "5 sections (1 raw, 5 wrapped), 2 distinct treatments, tones: ['ground', 'surface']"
+    },
+    {
+      "text": "next.config sets output:'standalone'",
+      "passed": true,
+      "evidence": "set"
+    },
+    {
+      "text": "In-scope sections (Nav, Hero) are fully implemented, not left as stubs",
+      "passed": true,
+      "evidence": "Nav and Hero both implemented"
+    },
+    {
+      "text": "Hero ships subject-specific copy naming the actual product",
+      "passed": true,
+      "evidence": "hero prose: 'v0.9 \u00b7 Apache-2.0 \u00b7 written in Rust Vector search that shards before you outgrow it. shardq is an open-source vector dat'"
+    },
+    {
+      "text": "Hero has exactly one primary call to action",
+      "passed": true,
+      "evidence": "2 link/button elements in hero"
+    }
+  ],
+  "passed": 12,
+  "total": 12,
+  "summary": {
+    "pass_rate": 1.0,
+    "passed": 12,
+    "total": 12
+  }
+}

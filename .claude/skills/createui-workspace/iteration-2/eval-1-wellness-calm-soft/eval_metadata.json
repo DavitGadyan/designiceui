@@ -1,0 +1,21 @@
+{
+  "eval_id": 1,
+  "eval_name": "wellness-calm-soft",
+  "prompt": "i need a homepage for my meditation app, its called Stillwater. calm and soft, nothing aggressive or shouty. the audience is people with anxiety so it cant feel like a startup pitch. implement the nav, hero and one more section with real copy.",
+  "assertions": [
+    "Project is structurally complete (package.json, app/layout.tsx, app/page.tsx)",
+    "Colour lives in a central token system rather than scattered through components",
+    "Palette mode matches the request (light)",
+    "Honours prefers-reduced-motion",
+    "Styles :focus-visible for keyboard users",
+    "Ships real copy with no placeholder text",
+    "Uses no emoji as icons",
+    "Adjacent sections differ (not identical stacked slabs)",
+    "next.config sets output:'standalone'",
+    "No section is left as an unmodified scaffold stub",
+    "Hero ships subject-specific copy naming the actual product",
+    "Hero has exactly one primary call to action"
+  ],
+  "expected_mode": "light",
+  "note": "iteration 2 scopes the task to nav + hero only, so it completes inside the subagent budget and the implementation assertions actually get exercised"
+}

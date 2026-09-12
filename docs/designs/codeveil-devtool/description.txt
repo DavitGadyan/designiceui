@@ -1,0 +1,24 @@
+Codeveil is a developer-tool landing page that respects that its audience will judge
+it in four seconds and hates being marketed to. Almost no motion, very high information density,
+and a code block above the fold.
+
+Hero. Left-aligned in a 720px column, not centred. Headline at 3.25rem in a neutral sans, one
+sentence of subhead, then immediately an install command in a mono block with a copy button that
+swaps to a green check for 1.5 seconds. No illustration. The install line is the hero image.
+
+Code showcase. A tabbed panel with four language tabs. Syntax highlighting uses only three hues -
+foreground, muted, and one green #4ADE80 for strings - because a full rainbow theme reads as a toy.
+Switching tabs crossfades the block over 150ms with no height jump: the container is measured and
+locked before the swap.
+
+Feature list. Two columns of short entries, each a 14px bold line and two lines of grey body. No
+cards, no icons, hairline dividers only. Density is the message.
+
+Benchmarks. A small table with a bar rendered as a background gradient inside each cell. Real
+numbers, monospace, right-aligned.
+
+Palette is #0C0C0D ground, #161618 raised surfaces, zinc greys for text, one green used only for
+success states and strings. Body text is 15px with 1.65 line height - slightly smaller than a
+marketing site because developers read at density.
+
+Use for APIs, SDKs, CLIs, databases, infrastructure, security tooling and open source.

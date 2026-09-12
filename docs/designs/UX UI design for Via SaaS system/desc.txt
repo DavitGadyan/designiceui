@@ -1,0 +1,37 @@
+
+My role. UX/UI design
+
+Project description.
+
+The project provides a system for users to build a flow for an SMS campaign.
+
+What I did on the project.
+✔️ User flow, user and market research.
+✔️ Prototyping.
+✔️ Visual design and branding.
+✔️ Styleguide and tech requirements for developers.
+✔️ Mobile version.
+Skills and deliverables
+
+UX Wireframe
+UX Research
+UX & UI
+UIKit
+UI/UX Prototyping
+
+Description
+
+The project was divided into several important stages.
+
+1. Before starting work, market and user research was conducted.
+2. A user flow for each person was developed based on the data obtained.
+3. Then a prototype was developed.
+4. After approving the structure and logic of all screens, work was carried out on the visual part of the project.
+5. The final stage is preparing a style guide and a mobile version.
+
+
+
+
+
+
+

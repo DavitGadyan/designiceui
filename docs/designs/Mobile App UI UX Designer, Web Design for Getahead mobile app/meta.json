@@ -1,0 +1,17 @@
+{
+  "title": "Getahead",
+  "use_case": "Mobile app for mental fitness and mindset training for athletes - personalised training plans, guided audio sessions, self-assessment and progress tracking",
+  "tags": {
+    "industry": ["sports", "wellness", "healthcare"],
+    "page_type": ["app-shell", "auth", "dashboard"],
+    "style": ["dark-tech", "minimal"],
+    "motion": ["reveal-on-scroll"],
+    "palette": ["dark", "monochrome"],
+    "layout": ["single-column", "bento-grid"],
+    "section": ["nav", "hero", "features", "stats", "timeline", "faq"]
+  },
+  "palette": ["#000000", "#1F1F1F", "#849CFF", "#FFFFFF", "#8E8E93", "#313131"],
+  "fonts": ["Satoshi", "Satoshi"],
+  "source": "Kayen Peppa portfolio capture. Native iOS app: My Plan / Progress / + / Support / More tabs; onboarding (event, sport chips, goal cards, mental-strength sliders); session detail; week list with AUDIO / 5 MINS / skill chips; progress bars per skill; session-stats ring; mood check-in. image_original7 is the design-system sheet.",
+  "reference_url": ""
+}

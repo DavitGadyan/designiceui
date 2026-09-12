@@ -1,0 +1,52 @@
+{
+  "tags": {
+    "industry": [
+      "travel",
+      "hospitality"
+    ],
+    "page_type": [
+      "marketing-site"
+    ],
+    "style": [
+      "editorial-photo",
+      "luxury",
+      "minimal"
+    ],
+    "motion": [
+      "parallax",
+      "scroll-driven",
+      "video-background",
+      "pinned-sections"
+    ],
+    "palette": [
+      "light",
+      "high-contrast"
+    ],
+    "layout": [
+      "full-bleed",
+      "horizontal-scroll"
+    ],
+    "section": [
+      "hero",
+      "gallery",
+      "timeline",
+      "cta",
+      "footer"
+    ]
+  },
+  "palette": [
+    "#0D1117",
+    "#F7F9FB",
+    "#A8C4D8",
+    "#2C4A5E"
+  ],
+  "fonts": [
+    "Ogg",
+    "Neue Montreal",
+    "Inter"
+  ],
+  "title": "Frostbound",
+  "use_case": "Website for a travel, hotel or destination booking brand",
+  "source": "motionsites.ai (analysed reference, imagery not redistributed)",
+  "reference_url": "https://motionsites.ai/?prompt=frostbound"
+}

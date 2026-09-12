@@ -1,0 +1,64 @@
+{
+  "expectations": [
+    {
+      "text": "Output is an Expo React Native project (the request said mobile app React Native)",
+      "passed": true,
+      "evidence": "expo dep: True, next dep: False"
+    },
+    {
+      "text": "Project is structurally complete for its platform",
+      "passed": true,
+      "evidence": "all present"
+    },
+    {
+      "text": "Requested primary #1E3A8A is a colour token",
+      "passed": true,
+      "evidence": "found in token file"
+    },
+    {
+      "text": "Requested secondary #F97316 is a colour token",
+      "passed": true,
+      "evidence": "found in token file"
+    },
+    {
+      "text": "Hero copy names the company (Nova Health)",
+      "passed": true,
+      "evidence": "found in Hero"
+    },
+    {
+      "text": "No template product name leaks into user-visible source",
+      "passed": true,
+      "evidence": "clean"
+    },
+    {
+      "text": "Reference screenshots are present in the project",
+      "passed": true,
+      "evidence": "1 reference images"
+    },
+    {
+      "text": "Layout inventory recorded from the reference (LAYOUT.md rows filled)",
+      "passed": true,
+      "evidence": "28 filled rows"
+    },
+    {
+      "text": "Colour lives in a token system, not scattered through components",
+      "passed": true,
+      "evidence": "6 tokens, 0 raw hex in components"
+    },
+    {
+      "text": "Ships real copy with no placeholder text",
+      "passed": true,
+      "evidence": "none"
+    },
+    {
+      "text": "Reports which tokens changed versus the template",
+      "passed": true,
+      "evidence": "NOTES.md discusses template tokens"
+    }
+  ],
+  "passed": 11,
+  "total": 11,
+  "summary": {
+    "pass_rate": 1.0
+  }
+}

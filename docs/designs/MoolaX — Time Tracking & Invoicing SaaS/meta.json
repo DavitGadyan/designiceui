@@ -1,0 +1,32 @@
+{
+  "title": "MoolaX Time Tracking & Invoicing SaaS",
+  "use_case": "Marketing/landing site for a time-tracking and invoicing SaaS built for creative agencies and freelancers - nav, hero with product mockup, how-it-works steps, feature detail, pricing tiers.",
+  "tags": {
+    "industry": [
+      "saas",
+      "fintech"
+    ],
+    "section": [
+      "hero",
+      "pricing",
+      "features"
+    ],
+    "style": [
+      "dark",
+      "bold"
+    ]
+  },
+  "palette": [
+    "#0B0B1E",
+    "#14152B",
+    "#8B5CF6",
+    "#FFFFFF",
+    "#A3E635"
+  ],
+  "fonts": [
+    "Poppins",
+    "Inter"
+  ],
+  "source": "",
+  "reference_url": ""
+}

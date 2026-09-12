@@ -1,0 +1,51 @@
+My role. Senior UX/UI Designer
+
+Project description.
+
+Paladir is a security posture management platform for SMBs working toward SOC 2 / ISO 27001 readiness.
+
+Requirements & IA work. Took raw product documentation (functionality specs, target-market notes, a competitive comparison with another compliance tool) and translated it into a structured information architecture - six core areas (Onboarding, Dashboard, Frameworks, Policies, Tasks, Settings), each with a defined user need, primary CTA, and empty-state strategy.
+
+I did
+- User flow
+- UX system & principles
+- UI design
+- AI integration in UX
+Skills and deliverables
+
+User Flow
+Figma
+SaaS Development
+UX & UI
+SaaS
+Persistent "Things to do" checklist turns first-run confusion into a guided sequence the user returns to until complete.
+Outcome
+
+A GRC platform that reads less like a regulatory inventory and more like a guided, AI-assisted workflow. Compliance progress is visible at every level (framework → control → task → evidence), the AI feels woven into the product rather than bolted on, and onboarding gets a non-technical SMB owner from "I don't know where to start" to a configured framework in a structured wizard flow.
+Сhallenge
+
+Compliance tools dump dozens of frameworks, hundreds of controls, and stacks of policies on users who already have day jobs. The previous version followed that pattern: users entered company info, the product surfaced what they had to comply with, and left them to figure out the rest.
+
+The redesign reframes the product from a regulatory inventory into a guided workflow. Same core feature, but now the user lands on a clear picture of where they stand, what's next, and why it matters. AI is woven in to surface relevant content and give real-time feedback as users move through the work.
+
+The design question: how do you make a GRC platform feel like a journey toward audit-readiness, not a wall of checklists?
+Approach
+
+- Requirements & IA. Translated raw product docs and competitive analysis into six core areas (Onboarding, Dashboard, Frameworks, Policies, Tasks, Settings) - each with a defined user need, primary CTA, and empty-state strategy.
+- User flows. Mapped the end-to-end journey: framework selection → policy generation → AI task assignment → evidence collection → post-audit feedback loop. Every screen ties to a progress metric.
+- UX system. Cross-product rules to cut cognitive load: one-line context explainer per page, single primary CTA, empty states that teach, and an AI Assistant that surfaces the next action in context - not as a separate feature.
+- UI design. Built the full interface in Figma - Green/Yellow/Red triage dashboards, drill-down for control gaps, inline evidence upload on task views, and an onboarding wizard handling the messy setup (existing vs. starter policies, frameworks, team invites).
+- AI in UX. Embedded AI as native moments, not a section: framework recommendations at onboarding, "+5% to compliance" task hints, framework gap analysis, policy generation in empty states.
+Compliance status at a glance - Frameworks, Policies, Tasks split by state. Same design system, two themes.
+Compliance status at a glance - Frameworks, Policies, Tasks split by state. Same design system, two themes.
+Tasks grouped by status with inline metadata (framework, owner, frequency, due date). Admins adjust without opening a modal.
+Tasks grouped by status with inline metadata (framework, owner, frequency, due date). Admins adjust without opening a modal.
+
+
+Three input modes (AI, manual, file upload) on one screen - fits teams with existing policies and teams starting from scratch.
+Three input modes (AI, manual, file upload) on one screen - fits teams with existing policies and teams starting from scratch.
+
+
+
+
+Published on Apr 28, 2026

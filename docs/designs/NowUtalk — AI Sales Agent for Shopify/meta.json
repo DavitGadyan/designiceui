@@ -1,0 +1,17 @@
+{
+  "title": "NowUtalk",
+  "use_case": "Marketing site for an AI sales agent or conversational commerce app that plugs into Shopify",
+  "tags": {
+    "industry": ["ai", "ecommerce", "saas"],
+    "page_type": ["landing-page", "marketing-site", "pricing-page", "blog"],
+    "style": ["playful", "minimal", "corporate"],
+    "motion": ["gradient-mesh", "reveal-on-scroll"],
+    "palette": ["light", "gradient-heavy", "duotone"],
+    "layout": ["split-screen", "centered"],
+    "section": ["nav", "hero", "features", "integrations", "timeline", "gallery", "faq", "cta", "footer", "pricing", "team"]
+  },
+  "palette": ["#FFFFFF", "#F7F7FA", "#7B3FE4", "#111111", "#5B5B66", "#E040A0"],
+  "fonts": ["Work Sans", "Inter"],
+  "source": "Kayen Peppa portfolio capture; image_original3.png duplicates image_original2.png",
+  "reference_url": ""
+}

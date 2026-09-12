@@ -1,0 +1,7 @@
+
+My role. UI UX Designer | Web Design | Figma | Landing & Product Pages
+
+Project description.
+
+Lead UI UX Designer owning end to end web design for the Pickaxe marketing site in Figma. Defined site map and information architecture, delivered high fidelity web design across desktop, tablet, and mobile breakpoints, and built a reusable Figma component library with tokens and auto layout for engineering handoff. Shaped visual direction and UI UX system for hero, product surfaces, pricing, and CMS driven pages. Iterated on conversion critical sections (value prop, social proof, CTA logic) and prepared developer ready specs.
+Skills and deliverables

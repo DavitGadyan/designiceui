@@ -1,0 +1,48 @@
+My role. Senior UI UX Designer, Web designer, Motion Designer
+
+Project description.
+
+Getahead is an on demand mental fitness app for athletes, official mental training partner of HYROX and Ultra X.
+What I did. End to end UI UX Designer role: restructured the app around personalized training plans (My Plan, Progress, Support, More), redesigned onboarding with an AI driven mental assessment, and delivered three full UI UX visual identity directions so the client chose between systems, not aesthetics. Web design principles applied across mobile UI for cross device consistency.
+Outcome. Coherent UX UI shipped live on iOS and Android.
+Skills and deliverables
+
+iOS Development
+Mobile App
+UX & UI
+Mobile UI Design
+Mobile App Redesign
+Home dashboard - four metrics that matter most to the user, surfaced at a glance with the next action one tap away.
+Home dashboard - four metrics that matter most to the user, surfaced at a glance with the next action one tap away.
+Outcome
+
+Live on iOS and Android with a defined visual language and four-surface structure that reads as performance gear, not therapy. Official mental training partner of HYROX and Ultra X - the brand earned category positioning a generic mindfulness product can't reach.
+Challenge
+
+Two problems to solve. Two challenges to overcome.
+- First, the product itself was too feature-centric and not journey-centric enough. Users want a plan to follow and a way to track and manage their progress.
+- Second, the visual expression of the brand struggled to land in a tight category gap between premium and high-performance, yet calm, and structured but not SaaS, and intentional but not a journaling app.
+Approach
+
+- IA & user flows. We moved towards outlining the app around mental training plans instead of individual training sessions. We defined four core areas of the app and the user journeys along those areas, including onboarding through taking a mental assessment, generating a plan, daily journeys through the app, audio playback and journaling.
+- Onboarding redesign: Turning sign-up into the first value delivered to the customer. An AI-powered assessment is given to the user and they receive a highly personal initial plan as a result.
+- Visual Identity Exploration. Of these explorations three truly unique design systems were developed; not variations on a theme, but each a complete solution to the initial brand brief.
+- The new visual identity for Performance Energy features structured panels, high contrast colours and electric accents on a deep black background.
+- Muted / Mindful - typography led hierarchy, almost no boxes and a lots of space.
+- Abstract / Atmospheric - full-bleed gradients, glass overlays, glowing progress indicators.
+
+Each direction included Plan Overview and Profile Overview screens with full typography, color logic, button language, progress treatment and tone - so the client chose between systems, not aesthetics.
+UI design. Designed the core screens in Figma (onboarding, My Plan, session overview, audio session, journal) and produced a style guide for extending the system across the product.
+Onboarding flow - multi-step setup with progress indicator and skip options to reduce drop-off before first value.
+Onboarding flow - multi-step setup with progress indicator and skip options to reduce drop-off before first value.
+
+Form validation states - inline feedback (focus, success, error) calibrated to feel precise without being noisy.
+Form validation states - inline feedback (focus, success, error) calibrated to feel precise without being noisy.
+
+Discover map with clustering and category filters - solves density without losing precision.
+Discover map with clustering and category filters - solves density without losing precision.
+
+
+
+
+ui ux designer | ui ux designer shopify | game ui ux designer | ui ux designer ai | ui ux designer crypto | ui ux designer wix | figma | graphic designer | product designer | web design | web designer | website designer | wix web design | webflow designer | shopify website design | wordpress website designer | ux designer | ui | ui/ux designer | web developer | wordpress | website | mobile app design | mobile app designer | figma mobile app designer | mobile app design ai | mobile app logo design | AI-powered | SaaS | landing page | Wireframing | user flow | developer handoff | design system | reusable components | CSS | UX & UI | User Experience Design | Adobe Photoshop | JavaScript | HTML | Landing Page | User Interface Design | Logo Design | HTML5 | Mobile UI Design | PHP | Adobe Illustrator | CSS 3 | Webflow | Web Application | Responsive Design | Mobile App Design | Ecommerce | User Experience | UI/UX Prototyping | Branding | Adobe InDesign | UX & UI Design | Custom Web Design | Logo | Brand Identity | Website Redesign | Design Concept | Marketing | Interactive Design | Web Development | Elementor | Cryptocurrency | UIKit | Mobile App | Mobile App Redesign | UI Graphics | Software Design | Cryptography | Real Estate | Illustration | jQuery | Mobile App Development | Prototyping | Adobe XD | Flutter | Android App Development | iOS Development | UX Research | Android | Usability Testing | Data Visualization | App Development | Smartphone | App Design | React Native | Android App | Firebase | Node.js | User Testing | Hybrid App Development | Product Demonstration | React | Mockup | Swift | MongoDB | Dashboard | Information Architecture | Adobe After Effects | Brand Identity Design | User Experience Strategy | Health & Fitness | API Integration | Full-Stack Development | iOS | Growth Strategy | Gamification | Mobile App Development Consultation | AI Mobile App Development | Case Studies | Java | Desktop Application | Kotlin | Animals & Pets | Pets | Front-End Development

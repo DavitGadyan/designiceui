@@ -1,0 +1,41 @@
+# Layout inventory - {{REFERENCE_TITLE}} -> {{COMPANY}}
+
+Fill this in **before** writing any component. Open every file listed under
+"Screens" and record what you see, top to bottom. The images are the template;
+this file is the contract you build against. Rows here become components; a
+component with no row here is an invention, and inventions are how a re-skin
+drifts back into a generic page.
+
+## Template tokens (read off the images)
+
+| | Template (from the image) | Yours |
+|---|---|---|
+| mode | | {{MODE}} |
+| ground | | {{COLOR_GROUND}} |
+| surface | | {{COLOR_SURFACE}} |
+| ink | | {{COLOR_INK}} |
+| accent | | {{COLOR_ACCENT}} |
+| accent2 | | {{COLOR_ACCENT2}} |
+| display font | | {{FONT_DISPLAY}} |
+| body font | | {{FONT_BODY}} |
+| corner radius | | |
+| nav pattern | | |
+| card style | | |
+
+If the "Yours" column matches what you read off the image, the brief had no
+overrides for it - say so to the user, because a re-skin that keeps the
+template's brand colour is not a re-skin.
+
+{{SCREEN_BLOCKS}}
+
+## Section plan
+
+The ordered list of blocks to build, derived from the screens above. This is
+what `--sections` should have been; if it differs from `designice.json`, this
+file wins.
+
+1.
+2.
+3.
+
+{{MOBILE_BLOCK}}

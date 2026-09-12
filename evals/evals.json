@@ -1,0 +1,59 @@
+{
+  "skill_name": "createui",
+  "evals": [
+    {
+      "id": 0,
+      "name": "robotics-dark-technical",
+      "prompt": "build me a landing page for my robotics startup. we make autonomous warehouse picking arms and we sell to logistics companies. it needs to feel serious and technical, not startup-cute. dark. implement at least the nav, hero and one content section with real copy.",
+      "expected_output": "A Next.js project matched to a dark technical reference, with a real design token system, section variety, and copy about warehouse robotics.",
+      "files": [],
+      "assertions": [
+        "Project is structurally complete (package.json, app/layout.tsx, app/page.tsx)",
+        "Colour lives in a central token system rather than scattered through components",
+        "Palette mode matches the request (dark)",
+        "Honours prefers-reduced-motion",
+        "Styles :focus-visible for keyboard users",
+        "Ships real copy with no placeholder text",
+        "Uses no emoji as icons",
+        "Adjacent sections differ (not identical stacked slabs)",
+        "next.config sets output:'standalone'"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "wellness-calm-soft",
+      "prompt": "i need a homepage for my meditation app, its called Stillwater. calm and soft, nothing aggressive or shouty. the audience is people with anxiety so it cant feel like a startup pitch. implement the nav, hero and one more section with real copy.",
+      "expected_output": "A light, soft, pastel-leaning page with slow motion and generous type, not a dark SaaS template.",
+      "files": [],
+      "assertions": [
+        "Project is structurally complete (package.json, app/layout.tsx, app/page.tsx)",
+        "Colour lives in a central token system rather than scattered through components",
+        "Palette mode matches the request (light)",
+        "Honours prefers-reduced-motion",
+        "Styles :focus-visible for keyboard users",
+        "Ships real copy with no placeholder text",
+        "Uses no emoji as icons",
+        "Adjacent sections differ (not identical stacked slabs)",
+        "next.config sets output:'standalone'"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "devtool-dense-credible",
+      "prompt": "make the homepage for our open source vector database CLI, its called shardq. developers will judge it in about 4 seconds and they hate being marketed to. implement nav, hero and one more section with real copy.",
+      "expected_output": "A dense, dark, low-motion developer page with an install command above the fold and no marketing fluff.",
+      "files": [],
+      "assertions": [
+        "Project is structurally complete (package.json, app/layout.tsx, app/page.tsx)",
+        "Colour lives in a central token system rather than scattered through components",
+        "Palette mode matches the request (dark)",
+        "Honours prefers-reduced-motion",
+        "Styles :focus-visible for keyboard users",
+        "Ships real copy with no placeholder text",
+        "Uses no emoji as icons",
+        "Adjacent sections differ (not identical stacked slabs)",
+        "next.config sets output:'standalone'"
+      ]
+    }
+  ]
+}

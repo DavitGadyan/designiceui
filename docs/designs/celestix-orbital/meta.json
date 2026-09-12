@@ -1,0 +1,49 @@
+{
+  "tags": {
+    "industry": [
+      "space",
+      "hardware"
+    ],
+    "page_type": [
+      "landing-page"
+    ],
+    "style": [
+      "dark-tech",
+      "luxury"
+    ],
+    "motion": [
+      "3d-webgl",
+      "scroll-driven",
+      "particle-field"
+    ],
+    "palette": [
+      "dark",
+      "high-contrast"
+    ],
+    "layout": [
+      "full-bleed",
+      "centered"
+    ],
+    "section": [
+      "hero",
+      "stats",
+      "features",
+      "cta"
+    ]
+  },
+  "palette": [
+    "#05070F",
+    "#0E1628",
+    "#4C7DFF",
+    "#B8C6E8",
+    "#F5F7FF"
+  ],
+  "fonts": [
+    "Instrument Serif",
+    "Inter"
+  ],
+  "title": "Celestix",
+  "use_case": "Website for a space technology or satellite company",
+  "source": "motionsites.ai (analysed reference, imagery not redistributed)",
+  "reference_url": "https://motionsites.ai/?prompt=celestix"
+}

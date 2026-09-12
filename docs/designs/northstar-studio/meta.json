@@ -1,0 +1,53 @@
+{
+  "tags": {
+    "industry": [
+      "agency",
+      "portfolio"
+    ],
+    "page_type": [
+      "portfolio-page",
+      "marketing-site"
+    ],
+    "style": [
+      "swiss-editorial",
+      "minimal",
+      "brutalist"
+    ],
+    "motion": [
+      "magnetic-cursor",
+      "reveal-on-scroll",
+      "marquee"
+    ],
+    "palette": [
+      "light",
+      "monochrome",
+      "high-contrast"
+    ],
+    "layout": [
+      "magazine",
+      "asymmetric"
+    ],
+    "section": [
+      "hero",
+      "gallery",
+      "team",
+      "contact",
+      "footer"
+    ]
+  },
+  "palette": [
+    "#FFFFFF",
+    "#0A0A0A",
+    "#EDEDED",
+    "#FF4A1C"
+  ],
+  "fonts": [
+    "Helvetica Now Display",
+    "Suisse Int'l",
+    "Inter"
+  ],
+  "title": "Northstar",
+  "use_case": "Website for a creative agency or design studio portfolio",
+  "source": "motionsites.ai (analysed reference, imagery not redistributed)",
+  "reference_url": "https://motionsites.ai/?prompt=northstar"
+}

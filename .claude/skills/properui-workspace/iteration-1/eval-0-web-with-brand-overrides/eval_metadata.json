@@ -1,0 +1,19 @@
+{
+  "eval_id": 0,
+  "eval_name": "web-with-brand-overrides",
+  "prompt": "Acme Ledger, invoicing and time tracking for freelancers. website with Next.js React. primary #0F766E secondary #F59E0B, Space Grotesk for headings. implement the nav and hero with real copy.",
+  "assertions": [
+    "Output is the requested platform",
+    "Project is structurally complete for its platform",
+    "Hero copy names the company",
+    "No template product name leaks into user-visible source",
+    "Reference screenshots are present in the project",
+    "Layout inventory recorded from the reference (LAYOUT.md rows filled)",
+    "Colour lives in a token system, not scattered through components",
+    "Ships real copy with no placeholder text",
+    "Reports which tokens changed versus the template",
+    "Requested primary #0F766E is a colour token",
+    "Requested secondary #F59E0B is a colour token",
+    "Requested display font (Space Grotesk) is wired"
+  ]
+}

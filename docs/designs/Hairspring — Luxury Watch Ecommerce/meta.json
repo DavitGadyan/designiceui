@@ -1,0 +1,18 @@
+{
+  "title": "Hairspring Luxury Watch Ecommerce",
+  "use_case": "Luxury watch ecommerce storefront: cinematic full-bleed hero with product photography, exclusives/finds product grids, journal editorial content, and a product detail page.",
+  "tags": {
+    "industry": [
+      "ecommerce",
+      "luxury-retail"
+    ],
+    "style": [
+      "luxury",
+      "minimal"
+    ]
+  },
+  "palette": ["#0A0A0A", "#141414", "#EDEAE2", "#0A0A0A", "#8A8A85"],
+  "fonts": ["Playfair Display", "Inter"],
+  "source": "",
+  "reference_url": "hairspring.com"
+}

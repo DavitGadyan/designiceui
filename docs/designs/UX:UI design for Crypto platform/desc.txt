@@ -1,0 +1,1 @@
+The project was the Crypto exchange mobile app. The mobile application was developed with more than 100+ screens and a web application based on this.

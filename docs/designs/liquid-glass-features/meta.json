@@ -1,0 +1,46 @@
+{
+  "tags": {
+    "industry": [
+      "saas",
+      "ai"
+    ],
+    "page_type": [
+      "component"
+    ],
+    "style": [
+      "glassmorphic",
+      "minimal"
+    ],
+    "motion": [
+      "hover-tilt",
+      "gradient-mesh",
+      "reveal-on-scroll"
+    ],
+    "palette": [
+      "dark",
+      "gradient-heavy"
+    ],
+    "layout": [
+      "bento-grid"
+    ],
+    "section": [
+      "features",
+      "bento"
+    ]
+  },
+  "palette": [
+    "#0A0A12",
+    "#1A1A2E",
+    "#8B5CF6",
+    "#22D3EE",
+    "#F1F1F5"
+  ],
+  "fonts": [
+    "Inter",
+    "Inter Tight"
+  ],
+  "title": "Liquid Glass Features",
+  "use_case": "A reusable features section with frosted glass cards for any product site",
+  "source": "motionsites.ai (analysed reference, imagery not redistributed)",
+  "reference_url": "https://motionsites.ai/sections"
+}

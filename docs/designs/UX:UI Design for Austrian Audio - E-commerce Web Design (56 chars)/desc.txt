@@ -1,0 +1,20 @@
+
+My role. Senior UX/UI Designer, Web Design Lead, Product Design and E-commerce UX
+
+Project description.
+
+Austrian Audio needed a web design that matched the precision and prestige of their high-end audio hardware. The existing product pages lacked visual hierarchy and failed to communicate technical specs in a way that converted professional buyers. I redesigned the full web design and product UX in Figma, restructuring information hierarchy, building a responsive component system, and creating a product page design that balanced technical detail with clean UI. The new web design improved content scannability and delivered a consistent experience.
+Skills and deliverables
+
+Product Design
+Ecommerce
+UX & UI
+Figma
+Web Design
+Austrian Audio - Austrian Audio
+High end microphones, headphones and professional audio tools for the modern sound engineer, producer, musician, recordist and content creator. Made in Austria. Again.
+austrian.audio
+
+𝗛𝗼𝘄 𝗜 𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵𝗲𝗱 𝘁𝗵𝗶𝘀 𝗨𝗫/𝗨𝗜 𝗗𝗲𝘀𝗶𝗴𝗻 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲
+
+The challenge with premium hardware e-commerce is that the audience is technically sophisticated and skeptical. Generic product page web design templates fail because they prioritize aesthetics over specification clarity. My UX design process started with a competitive audit of leading pro-audio brands and a heuristic review of the existing site to identify where users were losing context or trust. From that research I built a revised UX architecture in Figma, separating product detail, use case, and technical specification into distinct page zones. The UI design used a restrained visual language that let product photography and hardware detail carry the brand weight. Component-level design decisions in Figma were documented for developer handoff with responsive breakpoint specs for mobile web. The result was a web design system that Austrian Audio could extend across new product lines without losing visual consistency or UX logic.

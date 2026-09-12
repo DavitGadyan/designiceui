@@ -1,0 +1,12 @@
+{
+  "name": "designiceui",
+  "version": "0.1.0",
+  "description": "One-command installer for the designiceui Claude Code skills: /design matches your prompt to a real UI template and rebuilds it as Next.js or React Native in your brand; /createui designs from an art-direction brief.",
+  "bin": { "designiceui": "bin/designiceui.js" },
+  "files": ["bin/designiceui.js"],
+  "engines": { "node": ">=18" },
+  "repository": { "type": "git", "url": "https://github.com/DavitGadyan/designiceui.git" },
+  "homepage": "https://github.com/DavitGadyan/designiceui#readme",
+  "keywords": ["claude-code", "claude", "skills", "design", "nextjs", "react-native", "expo", "mcp"],
+  "license": "MIT"
+}

@@ -1,0 +1,40 @@
+import { Tabs } from "expo-router";
+import { Ionicons } from "@expo/vector-icons";
+import { theme } from "@/lib/theme";
+
+/**
+ * The web reference's top navigation becomes a bottom tab bar here - that is
+ * where a phone's thumb already is. Keep it to five tabs at most; a web nav
+ * with more links than that gets grouped, not squeezed.
+ */
+export default function TabsLayout() {
+  return (
+    <Tabs
+      screenOptions={{
+        headerShown: false,
+        tabBarActiveTintColor: theme.colors.accent,
+        tabBarInactiveTintColor: theme.colors.muted,
+        tabBarStyle: {
+          backgroundColor: theme.colors.surface,
+          borderTopColor: theme.colors.hairline,
+        },
+        tabBarLabelStyle: { fontFamily: theme.fonts.body, fontSize: 11 },
+      }}
+    >
+      <Tabs.Screen
+        name="index"
+        options={{
+          title: "Home",
+          tabBarIcon: ({ color, size }) => <Ionicons name="home-outline" color={color} size={size} />,
+        }}
+      />
+      <Tabs.Screen
+        name="settings"
+        options={{
+          title: "More",
+          tabBarIcon: ({ color, size }) => <Ionicons name="ellipsis-horizontal" color={color} size={size} />,
+        }}
+      />
+    </Tabs>
+  );
+}

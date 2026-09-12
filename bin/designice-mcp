@@ -1,0 +1,18 @@
+#!/usr/bin/env python3
+"""Launcher for the designice MCP server.
+
+Self-locating on purpose: it puts this repo's `src/` on sys.path by walking up
+from its own file, so registering the server needs no PYTHONPATH, no install
+step and no editor-specific path variables. `designice mcp` does the same job
+once the package is installed; this is the zero-setup route.
+"""
+
+import pathlib
+import sys
+
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent / "src"))
+
+from designice.mcp_server import serve  # noqa: E402
+
+if __name__ == "__main__":
+    serve()

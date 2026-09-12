@@ -1,0 +1,24 @@
+A drop-in features section built on frosted glass over a moving colour field. Designed
+to be lifted into any dark product site without dragging a whole design system with it.
+
+Structure. A 3-column grid on desktop collapsing to 1 on mobile, sitting on a dark #0A0A12 ground.
+Behind the grid, two large blurred radial gradients - violet #8B5CF6 and cyan #22D3EE - drift on
+slow independent paths, 25s and 31s, deliberately co-prime so the pattern never visibly repeats.
+
+The card. background: rgba(255,255,255,0.04); backdrop-filter: blur(16px) saturate(140%); a 1px
+border of rgba(255,255,255,0.10); 20px radius. A single inset highlight along the top edge -
+inset 0 1px 0 rgba(255,255,255,0.14) - is what actually sells the glass, more than the blur does.
+
+Hover. The card lifts 6px and a soft radial highlight follows the cursor inside it, driven by
+CSS custom properties updated in a pointermove handler. Tilt is subtle, 4 degrees maximum, spring
+damped so it settles rather than snapping.
+
+Reveal. Cards stagger in at 80ms intervals, 20px rise, opacity 0 to 1, 500ms easeOutCubic, fired
+once at 20% viewport with IntersectionObserver.
+
+The trap to avoid. backdrop-filter is expensive; more than about six blurred surfaces on screen
+will drop frames on mid-range hardware. Keep the count low and never nest one glass card inside
+another.
+
+Falls back cleanly: without backdrop-filter support the cards become solid rgba(255,255,255,0.06)
+and nothing looks broken.

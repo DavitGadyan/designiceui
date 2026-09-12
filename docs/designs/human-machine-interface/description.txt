@@ -1,0 +1,25 @@
+Human Machine is an AI-platform landing page whose whole visual argument is the seam
+between a person and a system. Monochrome photography of hands and faces, interrupted by
+machine-precise type and mono-spaced labels.
+
+Hero. Large duotone photograph bleeding to all four edges, desaturated to near-greyscale with a
+faint violet #7A5CFF cast in the shadows. Over it, a headline that assembles itself: the words
+arrive as scrambled characters and resolve left to right over 900ms, a text-scramble effect
+using a fixed glyph pool. Below it, a monospaced eyebrow in 11px uppercase with a blinking caret.
+
+Capability rail. Horizontal scroll section, pinned for the duration, with four panels sliding
+past as the user scrolls vertically. Each panel is a single verb - Observe, Reason, Act, Report -
+set enormous, with a small technical illustration and two lines of copy.
+
+Live surface. A dark card that mimics a terminal: mono type, a green #00E5A0 status dot, lines
+appearing one at a time with a 60ms stagger as if streaming. This is the section that makes the
+product feel real, so it deserves the most motion budget on the page.
+
+Integration grid. 12 logos on a hairline grid, each cell 1px bordered #FFFFFF0F, logos in flat
+white at 60% opacity.
+
+Palette is near-black #0B0B0C, paper-white text, one violet and one signal green used only for
+state. Type pairs a tight grotesque for display with JetBrains Mono for anything the machine
+"says". Section padding 140px desktop.
+
+Use for AI agents, ML infrastructure, developer platforms, observability and automation.

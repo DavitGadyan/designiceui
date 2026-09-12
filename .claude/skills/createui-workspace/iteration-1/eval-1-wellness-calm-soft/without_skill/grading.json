@@ -1,0 +1,51 @@
+{
+  "expectations": [
+    {
+      "text": "Project is structurally complete (package.json, app/layout.tsx, app/page.tsx)",
+      "passed": false,
+      "evidence": "missing: ['app/layout.tsx', 'app/page.tsx']"
+    },
+    {
+      "text": "Colour lives in a central token system rather than scattered through components",
+      "passed": false,
+      "evidence": "0 colour tokens in CSS, 0 raw hex literals in components"
+    },
+    {
+      "text": "Palette mode matches the request (light/soft)",
+      "passed": true,
+      "evidence": "no ground token found; 0 dark-background signals"
+    },
+    {
+      "text": "Honours prefers-reduced-motion",
+      "passed": false,
+      "evidence": "absent"
+    },
+    {
+      "text": "Styles :focus-visible for keyboard users",
+      "passed": false,
+      "evidence": "absent"
+    },
+    {
+      "text": "Ships real copy with no placeholder text",
+      "passed": true,
+      "evidence": "none found"
+    },
+    {
+      "text": "Uses no emoji as icons",
+      "passed": true,
+      "evidence": "none"
+    },
+    {
+      "text": "Adjacent sections differ (not identical stacked slabs)",
+      "passed": false,
+      "evidence": "0 sections (0 raw, 0 wrapped), 0 distinct treatments, tones: none"
+    },
+    {
+      "text": "next.config sets output:'standalone'",
+      "passed": false,
+      "evidence": "not set"
+    }
+  ],
+  "passed": 3,
+  "total": 9
+}

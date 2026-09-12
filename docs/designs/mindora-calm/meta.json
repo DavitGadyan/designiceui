@@ -1,0 +1,52 @@
+{
+  "tags": {
+    "industry": [
+      "wellness",
+      "healthcare"
+    ],
+    "page_type": [
+      "landing-page"
+    ],
+    "style": [
+      "minimal",
+      "organic",
+      "playful"
+    ],
+    "motion": [
+      "gradient-mesh",
+      "morphing",
+      "reveal-on-scroll"
+    ],
+    "palette": [
+      "pastel",
+      "light"
+    ],
+    "layout": [
+      "centered",
+      "single-column"
+    ],
+    "section": [
+      "hero",
+      "features",
+      "testimonials",
+      "pricing",
+      "faq",
+      "cta"
+    ]
+  },
+  "palette": [
+    "#FBF7F4",
+    "#E9DFF7",
+    "#C9E4DE",
+    "#3B3746",
+    "#F2C6B4"
+  ],
+  "fonts": [
+    "Fraunces",
+    "Inter"
+  ],
+  "title": "Mindora",
+  "use_case": "Website for a meditation, therapy or wellness app",
+  "source": "motionsites.ai (analysed reference, imagery not redistributed)",
+  "reference_url": "https://motionsites.ai/?prompt=mindora"
+}

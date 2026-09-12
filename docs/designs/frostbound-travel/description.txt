@@ -1,0 +1,25 @@
+Frostbound sells a place, so photography is the interface and the UI gets out of its
+way.
+
+Hero. Full-viewport looping video of a cold landscape, muted, autoplay, playsinline, with a poster
+frame that matches the first frame exactly so there is no flash on load. A near-black scrim at 35%
+sits over it so white type stays readable. The headline is a single word in a high-contrast
+display serif at 12vw, letter-spaced -0.02em, with a thin line of location metadata beneath in
+11px uppercase.
+
+Pinned sequence. Three destination panels pinned in turn while the background image cross-dissolves
+between them, scrubbed to scroll. The type for each panel enters from 40px below with a 700ms
+easeOutQuart and leaves upward. Total pin duration about 300vh.
+
+Horizontal gallery. A sideways-scrolling strip of portrait-format photographs driven by vertical
+scroll, each image scaling from 1.06 to 1.0 as it reaches centre so the strip feels like it
+breathes.
+
+Booking bar. A frosted glass panel, backdrop-filter blur 20px with a 1px white border at 20%
+opacity, floating over the imagery. It is the only chrome on the page and it stays sticky at the
+bottom on mobile.
+
+Palette is drawn from the photography: cold blue-grey #A8C4D8 and deep slate #2C4A5E, with near-
+white text on imagery and near-black #0D1117 on the light sections.
+
+Use for travel, hotels, resorts, destinations, outdoor gear and real estate.

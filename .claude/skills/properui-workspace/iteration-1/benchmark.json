@@ -1,0 +1,493 @@
+{
+  "metadata": {
+    "skill_name": "properui",
+    "skill_path": "<path/to/skill>",
+    "executor_model": "<model-name>",
+    "analyzer_model": "<model-name>",
+    "timestamp": "2026-09-11T16:09:18Z",
+    "evals_run": [
+      0,
+      1,
+      2
+    ],
+    "runs_per_configuration": 3
+  },
+  "runs": [
+    {
+      "eval_id": 0,
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 1.0,
+        "passed": 0,
+        "failed": 0,
+        "total": 0,
+        "time_seconds": 376.8,
+        "tokens": 133143,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Output is a Next.js project (the request said website with Next.js React)",
+          "passed": true,
+          "evidence": "next dep: True, expo dep: False"
+        },
+        {
+          "text": "Project is structurally complete for its platform",
+          "passed": true,
+          "evidence": "all present"
+        },
+        {
+          "text": "Requested primary #0F766E is a colour token",
+          "passed": true,
+          "evidence": "found in token file"
+        },
+        {
+          "text": "Requested secondary #F59E0B is a colour token",
+          "passed": true,
+          "evidence": "found in token file"
+        },
+        {
+          "text": "Requested display font (Space Grotesk) is wired",
+          "passed": true,
+          "evidence": "found"
+        },
+        {
+          "text": "Hero copy names the company (Acme Ledger)",
+          "passed": true,
+          "evidence": "found in Hero"
+        },
+        {
+          "text": "No template product name leaks into user-visible source",
+          "passed": true,
+          "evidence": "clean"
+        },
+        {
+          "text": "Reference screenshots are present in the project",
+          "passed": true,
+          "evidence": "8 reference images"
+        },
+        {
+          "text": "Layout inventory recorded from the reference (LAYOUT.md rows filled)",
+          "passed": true,
+          "evidence": "29 filled rows"
+        },
+        {
+          "text": "Colour lives in a token system, not scattered through components",
+          "passed": true,
+          "evidence": "12 tokens, 3 raw hex in components"
+        },
+        {
+          "text": "Ships real copy with no placeholder text",
+          "passed": true,
+          "evidence": "none"
+        },
+        {
+          "text": "Reports which tokens changed versus the template",
+          "passed": true,
+          "evidence": "NOTES.md discusses template tokens"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 1,
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 1.0,
+        "passed": 0,
+        "failed": 0,
+        "total": 0,
+        "time_seconds": 366.1,
+        "tokens": 106582,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Output is an Expo React Native project (the request said mobile app React Native)",
+          "passed": true,
+          "evidence": "expo dep: True, next dep: False"
+        },
+        {
+          "text": "Project is structurally complete for its platform",
+          "passed": true,
+          "evidence": "all present"
+        },
+        {
+          "text": "Requested primary #1E3A8A is a colour token",
+          "passed": true,
+          "evidence": "found in token file"
+        },
+        {
+          "text": "Requested secondary #F97316 is a colour token",
+          "passed": true,
+          "evidence": "found in token file"
+        },
+        {
+          "text": "Hero copy names the company (Nova Health)",
+          "passed": true,
+          "evidence": "found in Hero"
+        },
+        {
+          "text": "No template product name leaks into user-visible source",
+          "passed": true,
+          "evidence": "clean"
+        },
+        {
+          "text": "Reference screenshots are present in the project",
+          "passed": true,
+          "evidence": "1 reference images"
+        },
+        {
+          "text": "Layout inventory recorded from the reference (LAYOUT.md rows filled)",
+          "passed": true,
+          "evidence": "28 filled rows"
+        },
+        {
+          "text": "Colour lives in a token system, not scattered through components",
+          "passed": true,
+          "evidence": "6 tokens, 0 raw hex in components"
+        },
+        {
+          "text": "Ships real copy with no placeholder text",
+          "passed": true,
+          "evidence": "none"
+        },
+        {
+          "text": "Reports which tokens changed versus the template",
+          "passed": true,
+          "evidence": "NOTES.md discusses template tokens"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 2,
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 0.8889,
+        "passed": 0,
+        "failed": 0,
+        "total": 0,
+        "time_seconds": 403.4,
+        "tokens": 102756,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Output is a Next.js project (the request said website with Next.js React)",
+          "passed": true,
+          "evidence": "next dep: True, expo dep: False"
+        },
+        {
+          "text": "Project is structurally complete for its platform",
+          "passed": true,
+          "evidence": "all present"
+        },
+        {
+          "text": "Hero copy names the company (Chrono Atelier)",
+          "passed": true,
+          "evidence": "found in Hero"
+        },
+        {
+          "text": "No template product name leaks into user-visible source",
+          "passed": true,
+          "evidence": "clean"
+        },
+        {
+          "text": "Reference screenshots are present in the project",
+          "passed": true,
+          "evidence": "1 reference images"
+        },
+        {
+          "text": "Layout inventory recorded from the reference (LAYOUT.md rows filled)",
+          "passed": true,
+          "evidence": "19 filled rows"
+        },
+        {
+          "text": "Colour lives in a token system, not scattered through components",
+          "passed": false,
+          "evidence": "12 tokens, 8 raw hex in components"
+        },
+        {
+          "text": "Ships real copy with no placeholder text",
+          "passed": true,
+          "evidence": "none"
+        },
+        {
+          "text": "Reports which tokens changed versus the template",
+          "passed": true,
+          "evidence": "NOTES.md discusses template tokens"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 0,
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 0.75,
+        "passed": 0,
+        "failed": 0,
+        "total": 0,
+        "time_seconds": 87.2,
+        "tokens": 52260,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Output is a Next.js project (the request said website with Next.js React)",
+          "passed": true,
+          "evidence": "next dep: True, expo dep: False"
+        },
+        {
+          "text": "Project is structurally complete for its platform",
+          "passed": true,
+          "evidence": "all present"
+        },
+        {
+          "text": "Requested primary #0F766E is a colour token",
+          "passed": true,
+          "evidence": "found in token file"
+        },
+        {
+          "text": "Requested secondary #F59E0B is a colour token",
+          "passed": true,
+          "evidence": "found in token file"
+        },
+        {
+          "text": "Requested display font (Space Grotesk) is wired",
+          "passed": true,
+          "evidence": "found"
+        },
+        {
+          "text": "Hero copy names the company (Acme Ledger)",
+          "passed": true,
+          "evidence": "found in Hero"
+        },
+        {
+          "text": "No template product name leaks into user-visible source",
+          "passed": true,
+          "evidence": "clean"
+        },
+        {
+          "text": "Reference screenshots are present in the project",
+          "passed": false,
+          "evidence": "0 reference images"
+        },
+        {
+          "text": "Layout inventory recorded from the reference (LAYOUT.md rows filled)",
+          "passed": false,
+          "evidence": "no LAYOUT.md"
+        },
+        {
+          "text": "Colour lives in a token system, not scattered through components",
+          "passed": true,
+          "evidence": "7 tokens, 0 raw hex in components"
+        },
+        {
+          "text": "Ships real copy with no placeholder text",
+          "passed": true,
+          "evidence": "none"
+        },
+        {
+          "text": "Reports which tokens changed versus the template",
+          "passed": false,
+          "evidence": "NOTES.md does not relate tokens to a template"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 1,
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 0.6364,
+        "passed": 0,
+        "failed": 0,
+        "total": 0,
+        "time_seconds": 86.3,
+        "tokens": 51621,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Output is an Expo React Native project (the request said mobile app React Native)",
+          "passed": true,
+          "evidence": "expo dep: True, next dep: False"
+        },
+        {
+          "text": "Project is structurally complete for its platform",
+          "passed": true,
+          "evidence": "all present"
+        },
+        {
+          "text": "Requested primary #1E3A8A is a colour token",
+          "passed": true,
+          "evidence": "found in token file"
+        },
+        {
+          "text": "Requested secondary #F97316 is a colour token",
+          "passed": true,
+          "evidence": "found in token file"
+        },
+        {
+          "text": "Hero copy names the company (Nova Health)",
+          "passed": true,
+          "evidence": "found in Hero"
+        },
+        {
+          "text": "No template product name leaks into user-visible source",
+          "passed": true,
+          "evidence": "clean"
+        },
+        {
+          "text": "Reference screenshots are present in the project",
+          "passed": false,
+          "evidence": "0 reference images"
+        },
+        {
+          "text": "Layout inventory recorded from the reference (LAYOUT.md rows filled)",
+          "passed": false,
+          "evidence": "no LAYOUT.md"
+        },
+        {
+          "text": "Colour lives in a token system, not scattered through components",
+          "passed": false,
+          "evidence": "1 tokens, 0 raw hex in components"
+        },
+        {
+          "text": "Ships real copy with no placeholder text",
+          "passed": true,
+          "evidence": "none"
+        },
+        {
+          "text": "Reports which tokens changed versus the template",
+          "passed": false,
+          "evidence": "NOTES.md does not relate tokens to a template"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 2,
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 0.6667,
+        "passed": 0,
+        "failed": 0,
+        "total": 0,
+        "time_seconds": 109.8,
+        "tokens": 54541,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Output is a Next.js project (the request said website with Next.js React)",
+          "passed": true,
+          "evidence": "next dep: True, expo dep: False"
+        },
+        {
+          "text": "Project is structurally complete for its platform",
+          "passed": true,
+          "evidence": "all present"
+        },
+        {
+          "text": "Hero copy names the company (Chrono Atelier)",
+          "passed": true,
+          "evidence": "found in Hero"
+        },
+        {
+          "text": "No template product name leaks into user-visible source",
+          "passed": true,
+          "evidence": "clean"
+        },
+        {
+          "text": "Reference screenshots are present in the project",
+          "passed": false,
+          "evidence": "0 reference images"
+        },
+        {
+          "text": "Layout inventory recorded from the reference (LAYOUT.md rows filled)",
+          "passed": false,
+          "evidence": "no LAYOUT.md"
+        },
+        {
+          "text": "Colour lives in a token system, not scattered through components",
+          "passed": true,
+          "evidence": "6 tokens, 2 raw hex in components"
+        },
+        {
+          "text": "Ships real copy with no placeholder text",
+          "passed": true,
+          "evidence": "none"
+        },
+        {
+          "text": "Reports which tokens changed versus the template",
+          "passed": false,
+          "evidence": "NOTES.md does not relate tokens to a template"
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "run_summary": {
+    "with_skill": {
+      "pass_rate": {
+        "mean": 0.963,
+        "stddev": 0.0641,
+        "min": 0.8889,
+        "max": 1.0
+      },
+      "time_seconds": {
+        "mean": 382.1,
+        "stddev": 19.2065,
+        "min": 366.1,
+        "max": 403.4
+      },
+      "tokens": {
+        "mean": 114160.3333,
+        "stddev": 16550.4016,
+        "min": 102756,
+        "max": 133143
+      }
+    },
+    "without_skill": {
+      "pass_rate": {
+        "mean": 0.6844,
+        "stddev": 0.0588,
+        "min": 0.6364,
+        "max": 0.75
+      },
+      "time_seconds": {
+        "mean": 94.4333,
+        "stddev": 13.3155,
+        "min": 86.3,
+        "max": 109.8
+      },
+      "tokens": {
+        "mean": 52807.3333,
+        "stddev": 1535.018,
+        "min": 51621,
+        "max": 54541
+      }
+    },
+    "delta": {
+      "pass_rate": "+0.28",
+      "time_seconds": "+287.7",
+      "tokens": "+61353"
+    }
+  },
+  "notes": []
+}

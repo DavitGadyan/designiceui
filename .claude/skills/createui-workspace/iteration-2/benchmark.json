@@ -1,0 +1,533 @@
+{
+  "metadata": {
+    "skill_name": "createui",
+    "skill_path": "<path/to/skill>",
+    "executor_model": "<model-name>",
+    "analyzer_model": "<model-name>",
+    "timestamp": "2026-09-09T04:46:16Z",
+    "evals_run": [
+      0,
+      1,
+      2
+    ],
+    "runs_per_configuration": 3
+  },
+  "runs": [
+    {
+      "eval_id": 0,
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 0.9167,
+        "passed": 11,
+        "failed": 0,
+        "total": 12,
+        "time_seconds": 387.2,
+        "tokens": 98490,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Project is structurally complete (package.json, app/layout.tsx, app/page.tsx)",
+          "passed": true,
+          "evidence": "all present"
+        },
+        {
+          "text": "Colour lives in a central token system rather than scattered through components",
+          "passed": false,
+          "evidence": "10 colour tokens in CSS, 7 raw hex literals in components"
+        },
+        {
+          "text": "Palette mode matches the request (dark)",
+          "passed": true,
+          "evidence": "ground #05070F luminance 7"
+        },
+        {
+          "text": "Honours prefers-reduced-motion",
+          "passed": true,
+          "evidence": "found"
+        },
+        {
+          "text": "Styles :focus-visible for keyboard users",
+          "passed": true,
+          "evidence": "found"
+        },
+        {
+          "text": "Ships real copy with no placeholder text",
+          "passed": true,
+          "evidence": "none found"
+        },
+        {
+          "text": "Uses no emoji as icons",
+          "passed": true,
+          "evidence": "none"
+        },
+        {
+          "text": "Adjacent sections differ (not identical stacked slabs)",
+          "passed": true,
+          "evidence": "4 sections (2 raw, 4 wrapped), 2 distinct treatments, tones: ['ground', 'surface']"
+        },
+        {
+          "text": "next.config sets output:'standalone'",
+          "passed": true,
+          "evidence": "set"
+        },
+        {
+          "text": "In-scope sections (Nav, Hero) are fully implemented, not left as stubs",
+          "passed": true,
+          "evidence": "Nav and Hero both implemented"
+        },
+        {
+          "text": "Hero ships subject-specific copy naming the actual product",
+          "passed": true,
+          "evidence": "hero prose: 'Autonomous picking arms for the warehouse floor. Kinetix arms pick, sort and palletize SKUs at a throughput you\\n        '"
+        },
+        {
+          "text": "Hero has exactly one primary call to action",
+          "passed": true,
+          "evidence": "2 link/button elements in hero"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 1,
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 1.0,
+        "passed": 12,
+        "failed": 0,
+        "total": 12,
+        "time_seconds": 0.0,
+        "tokens": 0,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Project is structurally complete (package.json, app/layout.tsx, app/page.tsx)",
+          "passed": true,
+          "evidence": "all present"
+        },
+        {
+          "text": "Colour lives in a central token system rather than scattered through components",
+          "passed": true,
+          "evidence": "10 colour tokens in CSS, 6 raw hex literals in components"
+        },
+        {
+          "text": "Palette mode matches the request (light/soft)",
+          "passed": true,
+          "evidence": "ground #FBF7F4 luminance 248"
+        },
+        {
+          "text": "Honours prefers-reduced-motion",
+          "passed": true,
+          "evidence": "found"
+        },
+        {
+          "text": "Styles :focus-visible for keyboard users",
+          "passed": true,
+          "evidence": "found"
+        },
+        {
+          "text": "Ships real copy with no placeholder text",
+          "passed": true,
+          "evidence": "none found"
+        },
+        {
+          "text": "Uses no emoji as icons",
+          "passed": true,
+          "evidence": "none"
+        },
+        {
+          "text": "Adjacent sections differ (not identical stacked slabs)",
+          "passed": true,
+          "evidence": "7 sections (1 raw, 7 wrapped), 2 distinct treatments, tones: ['ground', 'surface']"
+        },
+        {
+          "text": "next.config sets output:'standalone'",
+          "passed": true,
+          "evidence": "set"
+        },
+        {
+          "text": "In-scope sections (Nav, Hero) are fully implemented, not left as stubs",
+          "passed": true,
+          "evidence": "Nav and Hero both implemented"
+        },
+        {
+          "text": "Hero ships subject-specific copy naming the actual product",
+          "passed": true,
+          "evidence": "hero prose: 'Meditation for anxious minds A few quiet minutes, built for a mind that won&rsquo;t sit still. Stillwater is guided medi'"
+        },
+        {
+          "text": "Hero has exactly one primary call to action",
+          "passed": true,
+          "evidence": "1 link/button elements in hero"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 2,
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 1.0,
+        "passed": 12,
+        "failed": 0,
+        "total": 12,
+        "time_seconds": 448.3,
+        "tokens": 84128,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Project is structurally complete (package.json, app/layout.tsx, app/page.tsx)",
+          "passed": true,
+          "evidence": "all present"
+        },
+        {
+          "text": "Colour lives in a central token system rather than scattered through components",
+          "passed": true,
+          "evidence": "10 colour tokens in CSS, 6 raw hex literals in components"
+        },
+        {
+          "text": "Palette mode matches the request (dark)",
+          "passed": true,
+          "evidence": "ground #0C0C0D luminance 12"
+        },
+        {
+          "text": "Honours prefers-reduced-motion",
+          "passed": true,
+          "evidence": "found"
+        },
+        {
+          "text": "Styles :focus-visible for keyboard users",
+          "passed": true,
+          "evidence": "found"
+        },
+        {
+          "text": "Ships real copy with no placeholder text",
+          "passed": true,
+          "evidence": "none found"
+        },
+        {
+          "text": "Uses no emoji as icons",
+          "passed": true,
+          "evidence": "none"
+        },
+        {
+          "text": "Adjacent sections differ (not identical stacked slabs)",
+          "passed": true,
+          "evidence": "5 sections (1 raw, 5 wrapped), 2 distinct treatments, tones: ['ground', 'surface']"
+        },
+        {
+          "text": "next.config sets output:'standalone'",
+          "passed": true,
+          "evidence": "set"
+        },
+        {
+          "text": "In-scope sections (Nav, Hero) are fully implemented, not left as stubs",
+          "passed": true,
+          "evidence": "Nav and Hero both implemented"
+        },
+        {
+          "text": "Hero ships subject-specific copy naming the actual product",
+          "passed": true,
+          "evidence": "hero prose: 'v0.9 \u00b7 Apache-2.0 \u00b7 written in Rust Vector search that shards before you outgrow it. shardq is an open-source vector dat'"
+        },
+        {
+          "text": "Hero has exactly one primary call to action",
+          "passed": true,
+          "evidence": "2 link/button elements in hero"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 0,
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 0.5833,
+        "passed": 7,
+        "failed": 0,
+        "total": 12,
+        "time_seconds": 224.8,
+        "tokens": 49688,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Project is structurally complete (package.json, app/layout.tsx, app/page.tsx)",
+          "passed": true,
+          "evidence": "all present"
+        },
+        {
+          "text": "Colour lives in a central token system rather than scattered through components",
+          "passed": false,
+          "evidence": "18 colour tokens in CSS, 9 raw hex literals in components"
+        },
+        {
+          "text": "Palette mode matches the request (dark)",
+          "passed": true,
+          "evidence": "ground #0a0b0d luminance 11"
+        },
+        {
+          "text": "Honours prefers-reduced-motion",
+          "passed": false,
+          "evidence": "absent"
+        },
+        {
+          "text": "Styles :focus-visible for keyboard users",
+          "passed": false,
+          "evidence": "absent"
+        },
+        {
+          "text": "Ships real copy with no placeholder text",
+          "passed": true,
+          "evidence": "none found"
+        },
+        {
+          "text": "Uses no emoji as icons",
+          "passed": true,
+          "evidence": "none"
+        },
+        {
+          "text": "Adjacent sections differ (not identical stacked slabs)",
+          "passed": false,
+          "evidence": "1 sections (1 raw, 0 wrapped), 1 distinct treatments, tones: none"
+        },
+        {
+          "text": "next.config sets output:'standalone'",
+          "passed": false,
+          "evidence": "not set"
+        },
+        {
+          "text": "In-scope sections (Nav, Hero) are fully implemented, not left as stubs",
+          "passed": true,
+          "evidence": "Nav and Hero both implemented"
+        },
+        {
+          "text": "Hero ships subject-specific copy naming the actual product",
+          "passed": true,
+          "evidence": "hero prose: 'UNIT: RA-7 PICKING ARM REV 4.2 / PRODUCTION DEPLOYED: 41 FACILITIES Autonomous picking arms built for warehouse floors t'"
+        },
+        {
+          "text": "Hero has exactly one primary call to action",
+          "passed": true,
+          "evidence": "2 link/button elements in hero"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 1,
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 0.75,
+        "passed": 9,
+        "failed": 0,
+        "total": 12,
+        "time_seconds": 179.3,
+        "tokens": 50767,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Project is structurally complete (package.json, app/layout.tsx, app/page.tsx)",
+          "passed": true,
+          "evidence": "all present"
+        },
+        {
+          "text": "Colour lives in a central token system rather than scattered through components",
+          "passed": false,
+          "evidence": "0 colour tokens in CSS, 10 raw hex literals in components"
+        },
+        {
+          "text": "Palette mode matches the request (light/soft)",
+          "passed": true,
+          "evidence": "no ground token; 3/10 CSS colours are dark, 0 dark bg classes"
+        },
+        {
+          "text": "Honours prefers-reduced-motion",
+          "passed": true,
+          "evidence": "found"
+        },
+        {
+          "text": "Styles :focus-visible for keyboard users",
+          "passed": false,
+          "evidence": "absent"
+        },
+        {
+          "text": "Ships real copy with no placeholder text",
+          "passed": true,
+          "evidence": "none found"
+        },
+        {
+          "text": "Uses no emoji as icons",
+          "passed": true,
+          "evidence": "none"
+        },
+        {
+          "text": "Adjacent sections differ (not identical stacked slabs)",
+          "passed": true,
+          "evidence": "2 sections (2 raw, 0 wrapped), 2 distinct treatments, tones: none"
+        },
+        {
+          "text": "next.config sets output:'standalone'",
+          "passed": false,
+          "evidence": "not set"
+        },
+        {
+          "text": "In-scope sections (Nav, Hero) are fully implemented, not left as stubs",
+          "passed": true,
+          "evidence": "Nav and Hero both implemented"
+        },
+        {
+          "text": "Hero ships subject-specific copy naming the actual product",
+          "passed": true,
+          "evidence": "hero prose: 'for anxious minds, at any hour You don&apos;t have to fix anything right now. Stillwater is a small, quiet space for whe'"
+        },
+        {
+          "text": "Hero has exactly one primary call to action",
+          "passed": true,
+          "evidence": "2 link/button elements in hero"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 2,
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 0.5833,
+        "passed": 7,
+        "failed": 0,
+        "total": 12,
+        "time_seconds": 209.6,
+        "tokens": 51107,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Project is structurally complete (package.json, app/layout.tsx, app/page.tsx)",
+          "passed": true,
+          "evidence": "all present"
+        },
+        {
+          "text": "Colour lives in a central token system rather than scattered through components",
+          "passed": false,
+          "evidence": "12 colour tokens in CSS, 11 raw hex literals in components"
+        },
+        {
+          "text": "Palette mode matches the request (dark)",
+          "passed": true,
+          "evidence": "ground #08090a luminance 9"
+        },
+        {
+          "text": "Honours prefers-reduced-motion",
+          "passed": false,
+          "evidence": "absent"
+        },
+        {
+          "text": "Styles :focus-visible for keyboard users",
+          "passed": false,
+          "evidence": "absent"
+        },
+        {
+          "text": "Ships real copy with no placeholder text",
+          "passed": true,
+          "evidence": "none found"
+        },
+        {
+          "text": "Uses no emoji as icons",
+          "passed": true,
+          "evidence": "none"
+        },
+        {
+          "text": "Adjacent sections differ (not identical stacked slabs)",
+          "passed": false,
+          "evidence": "1 sections (1 raw, 0 wrapped), 1 distinct treatments, tones: none"
+        },
+        {
+          "text": "next.config sets output:'standalone'",
+          "passed": false,
+          "evidence": "not set"
+        },
+        {
+          "text": "In-scope sections (Nav, Hero) are fully implemented, not left as stubs",
+          "passed": true,
+          "evidence": "Nav and Hero both implemented"
+        },
+        {
+          "text": "Hero ships subject-specific copy naming the actual product",
+          "passed": true,
+          "evidence": "hero prose: 'vector database \u00b7 CLI \u00b7 single binary Embed, index, and query vectors without leaving your terminal. shardq is an open-s'"
+        },
+        {
+          "text": "Hero has exactly one primary call to action",
+          "passed": true,
+          "evidence": "2 link/button elements in hero"
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "run_summary": {
+    "with_skill": {
+      "pass_rate": {
+        "mean": 0.9722,
+        "stddev": 0.0481,
+        "min": 0.9167,
+        "max": 1.0
+      },
+      "time_seconds": {
+        "mean": 278.5,
+        "stddev": 243.1152,
+        "min": 0.0,
+        "max": 448.3
+      },
+      "tokens": {
+        "mean": 60872.6667,
+        "stddev": 53204.1156,
+        "min": 0,
+        "max": 98490
+      }
+    },
+    "without_skill": {
+      "pass_rate": {
+        "mean": 0.6389,
+        "stddev": 0.0962,
+        "min": 0.5833,
+        "max": 0.75
+      },
+      "time_seconds": {
+        "mean": 204.5667,
+        "stddev": 23.1638,
+        "min": 179.3,
+        "max": 224.8
+      },
+      "tokens": {
+        "mean": 50520.6667,
+        "stddev": 740.8781,
+        "min": 49688,
+        "max": 51107
+      }
+    },
+    "delta": {
+      "pass_rate": "+0.33",
+      "time_seconds": "+73.9",
+      "tokens": "+10352"
+    }
+  },
+  "notes": []
+}

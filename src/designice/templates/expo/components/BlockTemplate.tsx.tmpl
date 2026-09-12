@@ -1,0 +1,29 @@
+import { Text, StyleSheet } from "react-native";
+import { Section } from "@/components/Section";
+import { theme } from "@/lib/theme";
+
+/**
+ * {{SECTION_TITLE}}
+ *
+ * From the reference "{{REFERENCE_TITLE}}":
+{{SECTION_GUIDANCE}}
+ *
+ * Phone treatment: see LAYOUT.md's "Mobile derivation" table for how this web
+ * region translates. This is a correct shell, not a finished block.
+ */
+export function {{COMPONENT}}() {
+  return (
+    <Section tone="{{SECTION_TONE}}">
+      <Text style={styles.heading}>{{SECTION_TITLE}}</Text>
+    </Section>
+  );
+}
+
+const styles = StyleSheet.create({
+  heading: {
+    fontFamily: theme.fonts.displayBold,
+    fontSize: theme.type.h2,
+    lineHeight: theme.type.h2 * theme.type.leadingDisplay,
+    color: theme.colors.ink,
+  },
+});

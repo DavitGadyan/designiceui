@@ -1,0 +1,64 @@
+{
+  "skill_name": "properui",
+  "evals": [
+    {
+      "id": 0,
+      "name": "web-with-brand-overrides",
+      "prompt": "Acme Ledger, invoicing and time tracking for freelancers. website with Next.js React. primary #0F766E secondary #F59E0B, Space Grotesk for headings. implement the nav and hero with real copy.",
+      "expected_output": "Matches the MoolaX capture, reproduces its nav/hero structure, accent is #0F766E and accent2 #F59E0B, Space Grotesk wired, copy about Acme Ledger with no MoolaX leakage.",
+      "files": [],
+      "assertions": [
+        "Output is the requested platform",
+        "Project is structurally complete for its platform",
+        "Hero copy names the company",
+        "No template product name leaks into user-visible source",
+        "Reference screenshots are present in the project",
+        "Layout inventory recorded from the reference (LAYOUT.md rows filled)",
+        "Colour lives in a token system, not scattered through components",
+        "Ships real copy with no placeholder text",
+        "Reports which tokens changed versus the template",
+        "Requested primary #0F766E is a colour token",
+        "Requested secondary #F59E0B is a colour token",
+        "Requested display font (Space Grotesk) is wired"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "mobile-derived-from-desktop",
+      "prompt": "Nova Health - telehealth for patients who want a doctor without a waiting room. mobile app React Native. navy #1E3A8A and coral #F97316. implement the home screen hero block with real copy.",
+      "expected_output": "Matches the Wellmedr capture, produces an Expo project with a tab shell, derives the phone layout from the desktop reference, navy accent, coral accent2, copy about Nova Health.",
+      "files": [],
+      "assertions": [
+        "Output is the requested platform",
+        "Project is structurally complete for its platform",
+        "Hero copy names the company",
+        "No template product name leaks into user-visible source",
+        "Reference screenshots are present in the project",
+        "Layout inventory recorded from the reference (LAYOUT.md rows filled)",
+        "Colour lives in a token system, not scattered through components",
+        "Ships real copy with no placeholder text",
+        "Reports which tokens changed versus the template",
+        "Requested primary #1E3A8A is a colour token",
+        "Requested secondary #F97316 is a colour token"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "web-no-colours-given",
+      "prompt": "make a site for my luxury watch shop, its called Chrono Atelier. website with Next.js React. implement nav and hero with real copy.",
+      "expected_output": "Matches the Hairspring capture; because no colours were given it keeps the template tokens but explicitly tells the user which tokens are still the template's; copy about Chrono Atelier with no Hairspring leakage.",
+      "files": [],
+      "assertions": [
+        "Output is the requested platform",
+        "Project is structurally complete for its platform",
+        "Hero copy names the company",
+        "No template product name leaks into user-visible source",
+        "Reference screenshots are present in the project",
+        "Layout inventory recorded from the reference (LAYOUT.md rows filled)",
+        "Colour lives in a token system, not scattered through components",
+        "Ships real copy with no placeholder text",
+        "Reports which tokens changed versus the template"
+      ]
+    }
+  ]
+}

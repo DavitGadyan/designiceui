@@ -1,0 +1,55 @@
+{
+  "tags": {
+    "industry": [
+      "saas",
+      "logistics"
+    ],
+    "page_type": [
+      "landing-page",
+      "dashboard"
+    ],
+    "style": [
+      "corporate",
+      "minimal",
+      "glassmorphic"
+    ],
+    "motion": [
+      "reveal-on-scroll",
+      "hover-tilt",
+      "gradient-mesh"
+    ],
+    "palette": [
+      "light",
+      "duotone"
+    ],
+    "layout": [
+      "bento-grid",
+      "centered"
+    ],
+    "section": [
+      "hero",
+      "logos",
+      "features",
+      "bento",
+      "stats",
+      "pricing",
+      "faq",
+      "cta"
+    ]
+  },
+  "palette": [
+    "#FAFAFC",
+    "#FFFFFF",
+    "#1B1D2A",
+    "#3D5AFE",
+    "#6B7280"
+  ],
+  "fonts": [
+    "Inter",
+    "Inter Tight"
+  ],
+  "title": "Skytrace",
+  "use_case": "Website for a B2B SaaS analytics or logistics platform",
+  "source": "motionsites.ai (analysed reference, imagery not redistributed)",
+  "reference_url": "https://motionsites.ai/?prompt=skytrace"
+}

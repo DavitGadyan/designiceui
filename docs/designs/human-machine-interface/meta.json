@@ -1,0 +1,54 @@
+{
+  "tags": {
+    "industry": [
+      "ai",
+      "developer-tools"
+    ],
+    "page_type": [
+      "landing-page"
+    ],
+    "style": [
+      "dark-tech",
+      "minimal",
+      "editorial-photo"
+    ],
+    "motion": [
+      "scroll-driven",
+      "text-effects",
+      "gradient-mesh",
+      "reveal-on-scroll"
+    ],
+    "palette": [
+      "dark",
+      "monochrome",
+      "neon"
+    ],
+    "layout": [
+      "asymmetric",
+      "full-bleed"
+    ],
+    "section": [
+      "hero",
+      "features",
+      "timeline",
+      "integrations",
+      "cta"
+    ]
+  },
+  "palette": [
+    "#0B0B0C",
+    "#17181B",
+    "#E7E7EA",
+    "#7A5CFF",
+    "#00E5A0"
+  ],
+  "fonts": [
+    "Neue Haas Grotesk",
+    "Inter",
+    "JetBrains Mono"
+  ],
+  "title": "Human Machine",
+  "use_case": "Website for an AI agent, copilot or machine-learning platform",
+  "source": "motionsites.ai (analysed reference, imagery not redistributed)",
+  "reference_url": "https://motionsites.ai/?prompt=human-machine"
+}

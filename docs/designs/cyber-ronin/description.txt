@@ -1,0 +1,25 @@
+Cyber Ronin is a high-aggression dark landing page: neon noir, hard edges, and type
+that behaves like a HUD.
+
+Hero. A slowly rotating low-poly 3D object - a faceted blade or mask - lit by two coloured rim
+lights, magenta #FF2E63 from the left and cyan #00F0FF from the right, on near-black. Rendered
+with Three.js, ACES filmic tone mapping applied so the model does not render dark and muddy, an
+environment map at low intensity, and no ambient light beyond a 0.15 hemisphere.
+
+Type. Condensed uppercase display with heavy tracking on the eyebrow and none on the headline. A
+1-2px RGB split on hover for the primary CTA, plus a 40ms glitch displacement fired every 6-9
+seconds at random on the headline so it never feels scheduled.
+
+Scan lines. A repeating linear-gradient overlay at 3% opacity, 3px period, plus a horizontal
+sweep bar that crosses the viewport every 11 seconds.
+
+Feature blocks. Hard-cornered panels, no radius, 1px #FF2E6344 borders, corner ticks drawn as
+small L shapes at each corner. Numbered 01 through 04 in mono.
+
+Palette is black with exactly two neons. They never blend into a gradient; they stay separate and
+always sit on black. Restricting to two is what keeps it menacing instead of chaotic.
+
+Respect prefers-reduced-motion by dropping the glitch and the sweep and holding the 3D object
+still - this style is the most likely of any to cause discomfort.
+
+Use for cybersecurity, gaming, esports, crypto and hardware with an edge.

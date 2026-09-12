@@ -1,0 +1,28 @@
+Heritage Grove is a warm, paper-toned site for a land and sustainability brand. It is
+the counterweight to dark tech: cream backgrounds, deep olive text, photography that looks shot
+on film.
+
+Hero. Not a full-bleed image. A wide cream field with a serif headline at the optical centre and
+a single landscape photograph inset into a rounded-corner frame that extends past the right
+margin. The image drifts up at 0.85x scroll speed for a gentle parallax.
+
+Grain. A subtle noise overlay at 4% opacity sits over the whole page, animated at 8fps rather
+than 60 so it reads as film grain rather than shimmer. This one detail does most of the work of
+making the page feel analogue.
+
+Story timeline. A vertical rule down the left with year markers. Each entry fades and rises as it
+enters, and the rule itself draws downward as the section scrolls, scrubbed to scroll position.
+
+Marquee. A slow horizontal ticker of place names in the serif at 96px, moving right to left at
+about 25 seconds per loop, clipped by the section edges. Slow enough to be readable, which is what
+separates a good marquee from a nervous one.
+
+Footer. Oversized wordmark set as a full-width lockup, cropped by the bottom of the viewport, with
+the navigation in small caps above it.
+
+Palette is bone #F4EFE6, deep olive #2F3A2C for text, tan #8A6A43 for accents. No pure black, no
+pure white anywhere - that is deliberate and it is why the page feels warm. Type is a
+high-contrast literary serif for display with a neutral sans for UI.
+
+Use for sustainability, agriculture, wineries, hospitality, heritage brands and anything where
+the story is longer than the product.

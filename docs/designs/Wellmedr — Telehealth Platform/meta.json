@@ -1,0 +1,34 @@
+{
+  "title": "Wellmedr Telehealth Platform",
+  "use_case": "Consumer telehealth marketing site - patients browse treatment categories (weight loss, hormones, hair, sexual health), get matched with licensed providers, and start a quiz/consult flow to get prescribed care without visiting a clinic.",
+  "tags": {
+    "industry": [
+      "healthcare",
+      "telehealth",
+      "wellness"
+    ],
+    "section": [
+      "hero",
+      "nav",
+      "timeline"
+    ],
+    "style": [
+      "warm",
+      "corporate",
+      "minimal"
+    ]
+  },
+  "palette": [
+    "#F7F2E9",
+    "#15323B",
+    "#C99A5B",
+    "#1B2A2E",
+    "#8A9296"
+  ],
+  "fonts": [
+    "Outfit",
+    "Inter"
+  ],
+  "source": "",
+  "reference_url": "wellmedr.com"
+}

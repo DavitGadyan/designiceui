@@ -1,0 +1,18 @@
+My role. Full Stack UX/UI Design & Developer
+
+Project description.
+
+Kayen Peppa is a premium UX/UI and product design studio based in Miami. Full design and development of the studio's own portfolio — built with Next.js, Sanity CMS, and Netlify. Features a scroll-hijack homepage with cinematic animations, filterable work grid, 28 case study pages, an interactive services carousel, pricing section, and a working contact form. Content fully managed through a custom Sanity CMS with automatic GitHub deploys.
+Skills and deliverables
+
+Brand Identity
+Web Development
+UX & UI Design
+Next.js
+Web Design
+kayenpeppa.com
+kayenpeppa.com
+
+
+
+Published on Jan 22, 2018

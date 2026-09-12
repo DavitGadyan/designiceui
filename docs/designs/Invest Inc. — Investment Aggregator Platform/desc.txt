@@ -1,0 +1,14 @@
+My role. Lead Product Designer
+
+Project description.
+
+Invest Inc. is an investment aggregator platform that consolidates fundamental and market data across stocks so retail investors can assess, analyze and track holdings in one place. The marketing site opens on a ticker search ("Capital Markets in Full View") with a row of live stock cards, then walks through the product suite - trading tournaments, watchlist trackers, a desktop terminal and AI tools - backed by a featured-providers logo strip (Benzinga, Quotemedia, MT Newswires), a "Built for Investors, By Investors" team section, an app-download block with App Store and Google Play badges, and a full sign-up form. A companion news dashboard surfaces featured articles, top news and most-read stories with source attribution.
+
+Visual character: a dark navy fintech aesthetic - near-black blue ground, electric blue headlines and primary buttons, white body type, rounded pill inputs and cards, 3D-tilted product mockups, and greyscale team portraits. Dense but orderly, built to feel like a trading terminal rather than a consumer app.
+
+Skills and deliverables
+
+UX & UI Design
+Web Design
+Fintech
+Dashboard Design

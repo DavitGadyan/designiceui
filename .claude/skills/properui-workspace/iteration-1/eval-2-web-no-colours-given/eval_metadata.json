@@ -1,0 +1,16 @@
+{
+  "eval_id": 2,
+  "eval_name": "web-no-colours-given",
+  "prompt": "make a site for my luxury watch shop, its called Chrono Atelier. website with Next.js React. implement nav and hero with real copy.",
+  "assertions": [
+    "Output is the requested platform",
+    "Project is structurally complete for its platform",
+    "Hero copy names the company",
+    "No template product name leaks into user-visible source",
+    "Reference screenshots are present in the project",
+    "Layout inventory recorded from the reference (LAYOUT.md rows filled)",
+    "Colour lives in a token system, not scattered through components",
+    "Ships real copy with no placeholder text",
+    "Reports which tokens changed versus the template"
+  ]
+}

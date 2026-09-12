@@ -1,0 +1,21 @@
+import { Section } from "@/components/Section";
+import { Reveal } from "@/components/Reveal";
+
+/**
+ * {{SECTION_TITLE}}
+ *
+ * From the brief for "{{REFERENCE_TITLE}}":
+{{SECTION_GUIDANCE}}
+ *
+ * This is a correct shell, not a finished section - real copy, real content and
+ * the layout the brief describes still need to land here. See DESIGN.md.
+ */
+export function {{COMPONENT}}() {
+  return (
+    <Section id="{{SECTION_ID}}" tone="{{SECTION_TONE}}">
+      <Reveal>
+        <h2 style={{ fontSize: "var(--size-h2)" }}>{{SECTION_TITLE}}</h2>
+      </Reveal>
+    </Section>
+  );
+}

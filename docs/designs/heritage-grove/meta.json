@@ -1,0 +1,52 @@
+{
+  "tags": {
+    "industry": [
+      "environmental",
+      "food-drink"
+    ],
+    "page_type": [
+      "marketing-site"
+    ],
+    "style": [
+      "organic",
+      "vintage",
+      "editorial-photo"
+    ],
+    "motion": [
+      "parallax",
+      "reveal-on-scroll",
+      "marquee"
+    ],
+    "palette": [
+      "earth-tone",
+      "light"
+    ],
+    "layout": [
+      "magazine",
+      "asymmetric"
+    ],
+    "section": [
+      "hero",
+      "gallery",
+      "timeline",
+      "team",
+      "footer"
+    ]
+  },
+  "palette": [
+    "#F4EFE6",
+    "#2F3A2C",
+    "#8A6A43",
+    "#C4B69A",
+    "#1A1B18"
+  ],
+  "fonts": [
+    "Editorial New",
+    "GT Alpina",
+    "Inter"
+  ],
+  "title": "Heritage Grove",
+  "use_case": "Website for a sustainability, agriculture or heritage brand",
+  "source": "motionsites.ai (analysed reference, imagery not redistributed)",
+  "reference_url": "https://motionsites.ai/?prompt=heritage-grove"
+}

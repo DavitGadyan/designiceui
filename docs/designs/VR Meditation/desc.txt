@@ -1,0 +1,31 @@
+My role. Lead Designer, Motion Designer
+
+Project description.
+
+YourHaven is a meditation app for Meta Quest - guided sessions across imaginary galaxies and tranquil vistas. Live in the Meta Store alongside Tripp, Headspace XR, and Guided Meditation VR.
+
+What I did
+- Spatial navigation and session library
+- Custom-environment selection flow
+- Onboarding into the VR meditation paradigm
+- Visual language calibrated for headset immersion
+Skills and deliverables
+
+Branding
+UX & UI
+UI Graphics
+Web Design
+UI Animation
+
+Outcome
+
+Shipped on Meta Quest. 38.5K views and 3.2K appreciations on the project's Behance publication.
+Approach
+
+- Spatial navigation and session library
+- Custom-environment selection flow
+- Onboarding into the VR meditation paradigm
+- Visual language calibrated for headset immersion
+Challenge
+
+Translate flat-screen meditation conventions (timer, library, stats) into spatial UI that works inside an immersive 3D environment - without breaking the calm the app is built to deliver.

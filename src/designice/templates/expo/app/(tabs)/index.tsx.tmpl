@@ -1,0 +1,16 @@
+import { Screen } from "@/components/Screen";
+{{BLOCK_IMPORTS}}
+
+/**
+ * Home composes every block in the order the reference page presents them.
+ * The web hero is the top of this screen; the web footer lives in the
+ * "More" tab instead, because a footer at the end of an infinite scroll is a
+ * place nobody on a phone ever arrives at.
+ */
+export default function HomeScreen() {
+  return (
+    <Screen>
+{{BLOCK_TAGS}}
+    </Screen>
+  );
+}

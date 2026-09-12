@@ -1,0 +1,24 @@
+Skytrace is the well-executed version of the standard B2B SaaS landing page. It does
+not try to be unusual; it tries to be legible, fast and trustworthy, and it wins on craft.
+
+Hero. Centred, max-width 880px. Eyebrow pill with a subtle border, headline at clamp(2.5rem, 5vw,
+4rem) with the key phrase in a blue-to-indigo gradient clip, one line of subhead at 18px in grey,
+two buttons, then a product screenshot below in a browser-chrome frame. The screenshot is tilted
+back 6 degrees on the X axis with a perspective of 1200px and straightens to 0 as it scrolls into
+view, scrubbed to scroll progress. That single move is what makes the page feel modern.
+
+Ambient light. A soft blue radial gradient behind the hero, 900px wide, 30% opacity, which is the
+only colour on an otherwise near-white page.
+
+Bento. A 4-column, 2-row asymmetric grid. One 2x2 card holds an animated chart; three 1x1 cards
+hold a stat, an integration cluster and a short quote; one 2x1 card holds a feature with a small
+looping UI animation. Cards are white on #FAFAFC with a 1px #0000000D border, 16px radius, and a
+shadow that appears only on hover.
+
+Pricing. Three tiers, middle one raised with a border in the accent and a "Most popular" ribbon.
+Monthly/annual toggle animates the price with a 200ms count.
+
+Palette is near-white ground, one indigo #3D5AFE accent, near-black #1B1D2A text, grey #6B7280
+secondary. Inter throughout with tighter Inter Tight for display sizes.
+
+Use for B2B SaaS, analytics, logistics, fleet, developer platforms and internal tools.

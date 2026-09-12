@@ -1,0 +1,21 @@
+
+My role. Lead UX/UI Designer, Product Design, Fintech Web Application Design
+
+Project description.
+
+Omniwire is a next-generation fintech platform covering core banking, issuer processing, and card services. The UX/UI design challenge was translating a highly complex set of financial workflows into a product design that operations teams could navigate without training overhead. I led the full UX/UI design process in Figma, from flow mapping and wireframing through to a production-ready design system. The product design prioritized information clarity, role-based UI states, and mobile app consistency across the platform. The fintech UX design reduced workflow complexity.
+Skills and deliverables
+
+Product Design
+UX & UI
+Web Design
+Mobile App
+Figma
+Omniwire - New generation financial services provider for Fintechs & B
+At Omniwire, we're not just a financial services provider; we're your partner in financial empowerment. Whether you're looking to streamline payments, optimize investments, or connect your applications to the future of finance we have the solutions for you.
+omniwire.com
+
+𝗗𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴 𝗨𝗫/𝗨𝗜 𝗳𝗼𝗿 𝗙𝗶𝗻𝘁𝗲𝗰𝗵 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝘀 𝗮𝘁 𝗦𝗰𝗮𝗹𝗲
+
+Fintech product design requires a different approach than consumer UX/UI. The users are operations teams, compliance managers, and financial analysts who need density of information without cognitive overload. My UX research phase for Omniwire included workflow mapping across three core user roles and a UX audit of the existing interface to identify friction points and inconsistency in the UI design patterns. From this foundation I rebuilt the UX architecture in Figma, creating a consistent navigation model, a role-specific dashboard design, and a card issuance workflow that reduced click depth by restructuring the UX flow. The UI design system I built in Figma covered typography, color, data table components, status indicators, and form patterns, all documented for developer handoff. This level of structured UX/UI design work meant the engineering team could implement the product design without repeated design questions, cutting handoff friction significantly for a fintech team shipping at speed.
+Published on Jun 12, 2025

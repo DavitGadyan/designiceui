@@ -1,0 +1,54 @@
+{
+  "tags": {
+    "industry": [
+      "agency",
+      "social"
+    ],
+    "page_type": [
+      "landing-page"
+    ],
+    "style": [
+      "neo-brutalist",
+      "playful",
+      "maximalist"
+    ],
+    "motion": [
+      "hover-tilt",
+      "morphing",
+      "marquee",
+      "magnetic-cursor"
+    ],
+    "palette": [
+      "high-contrast",
+      "neon",
+      "light"
+    ],
+    "layout": [
+      "asymmetric",
+      "bento-grid"
+    ],
+    "section": [
+      "hero",
+      "features",
+      "gallery",
+      "testimonials",
+      "cta"
+    ]
+  },
+  "palette": [
+    "#FFFDF5",
+    "#111111",
+    "#FFE24B",
+    "#FF5C39",
+    "#3B82F6"
+  ],
+  "fonts": [
+    "Clash Display",
+    "Satoshi",
+    "Inter"
+  ],
+  "title": "Playful Idea",
+  "use_case": "Website for a playful consumer brand or a bold creative agency",
+  "source": "motionsites.ai (analysed reference, imagery not redistributed)",
+  "reference_url": "https://motionsites.ai/?prompt=playful-idea"
+}

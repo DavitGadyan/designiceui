@@ -1,0 +1,25 @@
+Wealthcore is a private-banking landing page that reads as expensive by being quiet.
+Nothing bounces. Every transition is a fade and a small rise.
+
+Hero. Split screen, 55/45. Left holds a serif headline at clamp(2.75rem, 5.5vw, 4.75rem) with a
+one-sentence subhead in muted grey and a single gold-bordered CTA. Right holds a floating account
+card rendered in dark glass with a 1px #C8A96A33 border, tilting up to 6 degrees toward the
+cursor with a spring, and a live-looking balance figure that ticks by small amounts every few
+seconds. The tilt is the only playful thing on the page and that restraint is what sells it.
+
+Trust bar. Six client wordmarks at 40% opacity, greyscale, lifting to 100% on hover.
+
+Bento block. A 4-column asymmetric grid: one wide card holding a line chart with an animated
+draw-on path, two square cards for security and custody, one tall card with a portrait-format
+photograph of a hand and a document, warm-lit. Cards sit on #141416 with 20px radius and no
+shadow at all - separation comes from the border and the background delta only.
+
+Numbers. Assets under management, average tenure, jurisdictions. Set in the serif at large size
+with the label beneath in 11px uppercase, 0.14em tracking.
+
+Palette is off-black #0A0A0B, a single champagne gold #C8A96A for accents and rules, and a warm
+off-white #E8E6E1 for text. Gold never fills a large area; it appears as hairlines, small caps
+labels and one button border. Type pairs a high-contrast display serif with a neutral grotesque.
+
+Use for private banking, wealth platforms, family offices, insurance, legal and anything where
+the buyer needs to feel that the brand is older and steadier than they are.

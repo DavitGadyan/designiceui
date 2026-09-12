@@ -1,0 +1,46 @@
+
+My role. UI UX design, Web design
+
+Project description.
+
+Context. Chladni is an industrial IoT platform for asset performance management, monitoring pumps, motors, and production lines via wireless sensors deployed across plants worldwide.
+
+Role. End to end UI UX Designer, owning user flows, IA, web design, and UI design system.
+
+What I did. Mapped UX flows across Dashboard, Explorer, Incidents, Work Orders, and Devices. Delivered web design and UI UX for the real time fleet view with map, health scored cards, and asset drill downs. Built the UI design system for engineering handoff.
+Skills and deliverables
+
+UX & UI
+UX Wireframe
+UI Graphics
+UI/UX Prototyping
+SaaS
+Dashboard surfaces the four metrics maintenance teams actually act on - health score, incidents, open work orders, savings and downtime. 
+Dashboard surfaces the four metrics maintenance teams actually act on - health score, incidents, open work orders, savings and downtime.
+Outcome
+
+A platform that reads industrial telemetry as actionable signals - not raw data engineers have to interpret.
+Challenge
+
+Surface telemetry from hundreds of sensors as actionable signals for maintenance teams - not a data dump engineers have to interpret.
+What I did
+
+- Mapped user flow across 9 product areas
+- Designed geo-zoned fleet map with health states
+- Built asset drill-down (6 tabs)
+- IoT device view tracking signal & battery
+- Design system, light/dark, Orbitron identity
+Site explorer with geo-zoned health colors - green/yellow/red plant boundaries make global fleet status legible at a glance.
+Site explorer with geo-zoned health colors - green/yellow/red plant boundaries make global fleet status legible at a glance.
+Devices monitored as a grid with status, signal strength, battery, and asset linkage - IoT fleet management without the spreadsheet feel.
+Devices monitored as a grid with status, signal strength, battery, and asset linkage - IoT fleet management without the spreadsheet feel.
+Schedule-for-later, activity log with attachments, and the full screen map covering 9 product areas - system designed for scale. 
+Schedule-for-later, activity log with attachments, and the full screen map covering 9 product areas - system designed for scale.
+Close-up of the user flow showing how Login branches into Dashboard, Header, Explorer, Incidents, Work Orders, Settings.
+Close-up of the user flow showing how Login branches into Dashboard, Header, Explorer, Incidents, Work Orders, Settings.
+
+
+
+
+
+ui ux designer | ui ux designer shopify | game ui ux designer | ui ux designer ai | ui ux designer crypto | ui ux designer wix | figma | graphic designer | product designer | web design | web designer | website designer | wix web design | webflow designer | shopify website design | wordpress website designer | ux designer | ui | ui/ux designer | web developer | wordpress | website | mobile app design | mobile app designer | figma mobile app designer | mobile app design ai | mobile app logo design | AI-powered | SaaS | landing page | Wireframing | user flow | developer handoff | design system | reusable components | CSS | UX & UI | User Experience Design | Adobe Photoshop | JavaScript | HTML | Landing Page | User Interface Design | Logo Design | HTML5 | Mobile UI Design | PHP | Adobe Illustrator | CSS 3 | Webflow | Web Application | Responsive Design | Mobile App Design | Ecommerce | User Experience | UI/UX Prototyping | Branding | Adobe InDesign | UX & UI Design | Custom Web Design | Logo | Brand Identity | Website Redesign | Design Concept | Marketing | Interactive Design | Web Development | Elementor | Cryptocurrency | UIKit | Mobile App | Mobile App Redesign | UI Graphics | Software Design | Cryptography | Real Estate | Illustration | jQuery | Mobile App Development | Prototyping | Adobe XD | Flutter | Android App Development | iOS Development | UX Research | Android | Usability Testing | Data Visualization | App Development | Smartphone | App Design | React Native | Android App | Firebase | Node.js | User Testing | Hybrid App Development | Product Demonstration | React | Mockup | Swift | MongoDB | Dashboard | Information Architecture | Adobe After Effects | Brand Identity Design | User Experience Strategy | Health & Fitness | API Integration | Full-Stack Development | iOS | Growth Strategy | Gamification | Mobile App Development Consultation | AI Mobile App Development | Case Studies | Java | Desktop Application | Kotlin | Animals & Pets | Pets | Front-End Development

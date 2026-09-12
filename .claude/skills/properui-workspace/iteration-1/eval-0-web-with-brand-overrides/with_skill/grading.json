@@ -1,0 +1,69 @@
+{
+  "expectations": [
+    {
+      "text": "Output is a Next.js project (the request said website with Next.js React)",
+      "passed": true,
+      "evidence": "next dep: True, expo dep: False"
+    },
+    {
+      "text": "Project is structurally complete for its platform",
+      "passed": true,
+      "evidence": "all present"
+    },
+    {
+      "text": "Requested primary #0F766E is a colour token",
+      "passed": true,
+      "evidence": "found in token file"
+    },
+    {
+      "text": "Requested secondary #F59E0B is a colour token",
+      "passed": true,
+      "evidence": "found in token file"
+    },
+    {
+      "text": "Requested display font (Space Grotesk) is wired",
+      "passed": true,
+      "evidence": "found"
+    },
+    {
+      "text": "Hero copy names the company (Acme Ledger)",
+      "passed": true,
+      "evidence": "found in Hero"
+    },
+    {
+      "text": "No template product name leaks into user-visible source",
+      "passed": true,
+      "evidence": "clean"
+    },
+    {
+      "text": "Reference screenshots are present in the project",
+      "passed": true,
+      "evidence": "8 reference images"
+    },
+    {
+      "text": "Layout inventory recorded from the reference (LAYOUT.md rows filled)",
+      "passed": true,
+      "evidence": "29 filled rows"
+    },
+    {
+      "text": "Colour lives in a token system, not scattered through components",
+      "passed": true,
+      "evidence": "12 tokens, 3 raw hex in components"
+    },
+    {
+      "text": "Ships real copy with no placeholder text",
+      "passed": true,
+      "evidence": "none"
+    },
+    {
+      "text": "Reports which tokens changed versus the template",
+      "passed": true,
+      "evidence": "NOTES.md discusses template tokens"
+    }
+  ],
+  "passed": 12,
+  "total": 12,
+  "summary": {
+    "pass_rate": 1.0
+  }
+}

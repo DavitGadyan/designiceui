@@ -1,0 +1,71 @@
+{
+  "expectations": [
+    {
+      "text": "Project is structurally complete (package.json, app/layout.tsx, app/page.tsx)",
+      "passed": true,
+      "evidence": "all present"
+    },
+    {
+      "text": "Colour lives in a central token system rather than scattered through components",
+      "passed": false,
+      "evidence": "12 colour tokens in CSS, 11 raw hex literals in components"
+    },
+    {
+      "text": "Palette mode matches the request (dark)",
+      "passed": true,
+      "evidence": "ground #08090a luminance 9"
+    },
+    {
+      "text": "Honours prefers-reduced-motion",
+      "passed": false,
+      "evidence": "absent"
+    },
+    {
+      "text": "Styles :focus-visible for keyboard users",
+      "passed": false,
+      "evidence": "absent"
+    },
+    {
+      "text": "Ships real copy with no placeholder text",
+      "passed": true,
+      "evidence": "none found"
+    },
+    {
+      "text": "Uses no emoji as icons",
+      "passed": true,
+      "evidence": "none"
+    },
+    {
+      "text": "Adjacent sections differ (not identical stacked slabs)",
+      "passed": false,
+      "evidence": "1 sections (1 raw, 0 wrapped), 1 distinct treatments, tones: none"
+    },
+    {
+      "text": "next.config sets output:'standalone'",
+      "passed": false,
+      "evidence": "not set"
+    },
+    {
+      "text": "In-scope sections (Nav, Hero) are fully implemented, not left as stubs",
+      "passed": true,
+      "evidence": "Nav and Hero both implemented"
+    },
+    {
+      "text": "Hero ships subject-specific copy naming the actual product",
+      "passed": true,
+      "evidence": "hero prose: 'vector database \u00b7 CLI \u00b7 single binary Embed, index, and query vectors without leaving your terminal. shardq is an open-s'"
+    },
+    {
+      "text": "Hero has exactly one primary call to action",
+      "passed": true,
+      "evidence": "2 link/button elements in hero"
+    }
+  ],
+  "passed": 7,
+  "total": 12,
+  "summary": {
+    "pass_rate": 0.5833,
+    "passed": 7,
+    "total": 12
+  }
+}

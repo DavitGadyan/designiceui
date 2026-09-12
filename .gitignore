@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.env
+node_modules/
+.next/
+out/
+docs/designs/.designice/
+.DS_Store
+
+# Generated projects. Each is a complete, reproducible Next.js or Expo app;
+# it belongs in its own repo once someone starts working on it, not in here.
+output/*
+!output/README.md
+.expo/
+dist/
+# Packaged .skill files are build output; regenerate with scripts/package-skills.sh
+release/
+
+# Eval runs: each contains a generated Next.js project. The eval definitions in
+# evals/ are the thing worth versioning; the outputs are reproducible.
+.claude/skills/*-workspace/*/eval-*/*/outputs/

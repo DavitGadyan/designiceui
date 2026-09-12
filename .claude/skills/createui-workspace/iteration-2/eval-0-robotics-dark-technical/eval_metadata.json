@@ -1,0 +1,21 @@
+{
+  "eval_id": 0,
+  "eval_name": "robotics-dark-technical",
+  "prompt": "build me a landing page for my robotics startup. we make autonomous warehouse picking arms and we sell to logistics companies. it needs to feel serious and technical, not startup-cute. dark. implement at least the nav, hero and one content section with real copy.",
+  "assertions": [
+    "Project is structurally complete (package.json, app/layout.tsx, app/page.tsx)",
+    "Colour lives in a central token system rather than scattered through components",
+    "Palette mode matches the request (dark)",
+    "Honours prefers-reduced-motion",
+    "Styles :focus-visible for keyboard users",
+    "Ships real copy with no placeholder text",
+    "Uses no emoji as icons",
+    "Adjacent sections differ (not identical stacked slabs)",
+    "next.config sets output:'standalone'",
+    "No section is left as an unmodified scaffold stub",
+    "Hero ships subject-specific copy naming the actual product",
+    "Hero has exactly one primary call to action"
+  ],
+  "expected_mode": "dark",
+  "note": "iteration 2 scopes the task to nav + hero only, so it completes inside the subagent budget and the implementation assertions actually get exercised"
+}

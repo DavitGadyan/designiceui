@@ -1,0 +1,51 @@
+{
+  "expectations": [
+    {
+      "text": "Project is structurally complete (package.json, app/layout.tsx, app/page.tsx)",
+      "passed": true,
+      "evidence": "all present"
+    },
+    {
+      "text": "Colour lives in a central token system rather than scattered through components",
+      "passed": true,
+      "evidence": "10 colour tokens in CSS, 6 raw hex literals in components"
+    },
+    {
+      "text": "Palette mode matches the request (dark)",
+      "passed": true,
+      "evidence": "ground #05070F luminance 7"
+    },
+    {
+      "text": "Honours prefers-reduced-motion",
+      "passed": true,
+      "evidence": "found"
+    },
+    {
+      "text": "Styles :focus-visible for keyboard users",
+      "passed": true,
+      "evidence": "found"
+    },
+    {
+      "text": "Ships real copy with no placeholder text",
+      "passed": true,
+      "evidence": "none found"
+    },
+    {
+      "text": "Uses no emoji as icons",
+      "passed": true,
+      "evidence": "none"
+    },
+    {
+      "text": "Adjacent sections differ (not identical stacked slabs)",
+      "passed": true,
+      "evidence": "6 sections (1 raw, 6 wrapped), 2 distinct treatments, tones: ['ground', 'surface']"
+    },
+    {
+      "text": "next.config sets output:'standalone'",
+      "passed": true,
+      "evidence": "set"
+    }
+  ],
+  "passed": 9,
+  "total": 9
+}

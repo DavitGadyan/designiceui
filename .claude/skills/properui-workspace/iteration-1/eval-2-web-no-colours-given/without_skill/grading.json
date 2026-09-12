@@ -1,0 +1,54 @@
+{
+  "expectations": [
+    {
+      "text": "Output is a Next.js project (the request said website with Next.js React)",
+      "passed": true,
+      "evidence": "next dep: True, expo dep: False"
+    },
+    {
+      "text": "Project is structurally complete for its platform",
+      "passed": true,
+      "evidence": "all present"
+    },
+    {
+      "text": "Hero copy names the company (Chrono Atelier)",
+      "passed": true,
+      "evidence": "found in Hero"
+    },
+    {
+      "text": "No template product name leaks into user-visible source",
+      "passed": true,
+      "evidence": "clean"
+    },
+    {
+      "text": "Reference screenshots are present in the project",
+      "passed": false,
+      "evidence": "0 reference images"
+    },
+    {
+      "text": "Layout inventory recorded from the reference (LAYOUT.md rows filled)",
+      "passed": false,
+      "evidence": "no LAYOUT.md"
+    },
+    {
+      "text": "Colour lives in a token system, not scattered through components",
+      "passed": true,
+      "evidence": "6 tokens, 2 raw hex in components"
+    },
+    {
+      "text": "Ships real copy with no placeholder text",
+      "passed": true,
+      "evidence": "none"
+    },
+    {
+      "text": "Reports which tokens changed versus the template",
+      "passed": false,
+      "evidence": "NOTES.md does not relate tokens to a template"
+    }
+  ],
+  "passed": 6,
+  "total": 9,
+  "summary": {
+    "pass_rate": 0.6667
+  }
+}

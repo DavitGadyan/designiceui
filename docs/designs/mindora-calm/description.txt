@@ -1,0 +1,25 @@
+Mindora is a wellness landing page built on softness. Every corner is round, every
+transition is slow, and nothing on the page moves faster than a breath.
+
+Hero. Centred, single column, max-width 720px. Behind it, an animated mesh gradient in lilac
+#E9DFF7, sage #C9E4DE and blush #F2C6B4, implemented as three large blurred radial blobs drifting
+on independent 20-30 second sine paths. The blur is heavy - 120px - so the colours never resolve
+into distinct shapes.
+
+Breathing element. A circle that scales 1.0 to 1.08 over a 4s inhale, holds 1s, returns over 4s.
+It is the page's metronome and every other duration on the site is derived from it: entrances are
+600ms, hovers 240ms, so the whole page feels like it shares one pulse.
+
+Typography. A soft variable serif for display, weight 400, generous 1.15 line height on headings
+and 1.7 on body. Body copy is set at 18px minimum because the audience reads rather than scans.
+
+Cards. 24px radius, no border, a single very soft shadow 0 8px 32px rgba(59,55,70,0.06). White
+cards on the warm off-white ground, separated by shadow alone.
+
+Testimonials. Three quotes in a slow auto-advancing carousel, 7 second dwell, crossfade rather
+than slide, paused on hover and on focus.
+
+Palette is warm off-white with three desaturated pastels. Text is a soft near-black #3B3746, never
+pure black - pure black against pastel reads as harsh and undoes the whole effect.
+
+Use for meditation, therapy, sleep, fertility, mental health, skincare and gentle consumer apps.

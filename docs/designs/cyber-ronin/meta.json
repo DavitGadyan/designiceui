@@ -1,0 +1,53 @@
+{
+  "tags": {
+    "industry": [
+      "security",
+      "gaming"
+    ],
+    "page_type": [
+      "landing-page"
+    ],
+    "style": [
+      "cyberpunk",
+      "brutalist",
+      "dark-tech"
+    ],
+    "motion": [
+      "3d-webgl",
+      "text-effects",
+      "particle-field",
+      "scroll-driven"
+    ],
+    "palette": [
+      "dark",
+      "neon",
+      "high-contrast"
+    ],
+    "layout": [
+      "full-bleed",
+      "asymmetric"
+    ],
+    "section": [
+      "hero",
+      "features",
+      "stats",
+      "cta"
+    ]
+  },
+  "palette": [
+    "#08070A",
+    "#12101A",
+    "#FF2E63",
+    "#00F0FF",
+    "#EDEDF2"
+  ],
+  "fonts": [
+    "Chakra Petch",
+    "Space Grotesk",
+    "IBM Plex Mono"
+  ],
+  "title": "Cyber Ronin",
+  "use_case": "Website for a cybersecurity product or a gaming/esports brand",
+  "source": "motionsites.ai (analysed reference, imagery not redistributed)",
+  "reference_url": "https://motionsites.ai/?prompt=cyber-ronin"
+}

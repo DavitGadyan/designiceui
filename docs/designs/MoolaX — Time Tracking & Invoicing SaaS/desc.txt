@@ -1,0 +1,14 @@
+My role. Lead UX/UI Designer, Product Design, Mobile App and Web Application Design
+
+Project description.
+
+MoolaX is a SaaS time-tracking and invoicing platform built for boutique creative agencies and freelancers. As the sole designer and product owner, I designed and shipped the full product — including onboarding flows, timesheet management, invoice generation, cash flow tracking, bank sync via Plaid, Stripe payment processing, and a team management system. The platform includes a React frontend, Deno/TypeScript backend, and integrations with Plaid, Stripe, and Resend. Currently live at moolax.ai with real users acquired via Google Ads.
+Skills and deliverables
+
+Brand Design
+UX & UI
+Web Application
+Web Development
+Web Design
+moolax.ai
+moolax.ai

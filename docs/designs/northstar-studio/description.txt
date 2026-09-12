@@ -1,0 +1,24 @@
+Northstar is a Swiss-grid studio portfolio. White page, black type, one orange accent,
+and a 12-column grid that is visible in the alignment of everything.
+
+Hero. No image. A four-line headline set in a tight grotesque at clamp(3rem, 9vw, 8rem), leading
+0.92, ranged left, occupying columns 1 through 9. Availability status sits in column 11 as a
+small-caps line with a pulsing orange dot. The confidence of using type alone above the fold is
+the entire brand statement.
+
+Custom cursor. A 12px dot that scales to 64px and inverts to a "View" label over project
+thumbnails, following the pointer with a lerp factor of 0.15 so it trails slightly. Buttons are
+magnetic - they translate up to 8px toward the cursor within a 60px radius and spring back.
+
+Work index. Not a grid of cards. A list. Each row is a project: index number, title, discipline,
+year, separated by hairlines. Hovering a row reveals a project image that follows the cursor,
+clipped to a 320x400 frame, with a 0.08 lerp so it lags behind the pointer. Rows shift their type
+right by 16px on hover.
+
+Marquee. A single line of "Selected Work — Selected Work —" in the display face at 120px, moving
+at 30s per loop, direction reversing when the user scrolls up.
+
+Palette is pure white, pure black, one signal orange #FF4A1C used for exactly three things: the
+status dot, link underlines on hover, and the footer CTA. Nothing else is coloured.
+
+Use for design studios, agencies, photographers, architects and individual portfolios.
