@@ -1,0 +1,43 @@
+{
+  "title": "Kayenpeppa.com Design Studio Portfolio 2026",
+  "use_case": "Premium design studio / consultant site: cinematic dark hero with one italic accent word, a light image-grid work section, a dark services grid of priced cards (starting-at price, includes list, process, turnaround), pricing, and a book-a-call CTA",
+  "tags": {
+    "industry": [
+      "agency",
+      "portfolio",
+      "consulting"
+    ],
+    "page_type": [
+      "landing-page",
+      "portfolio",
+      "services"
+    ],
+    "section": [
+      "nav",
+      "hero",
+      "gallery",
+      "services",
+      "pricing",
+      "contact"
+    ],
+    "style": [
+      "dark",
+      "luxury",
+      "editorial",
+      "bold-type"
+    ]
+  },
+  "palette": [
+    "#141414",
+    "#1c1c1c",
+    "#e8431a",
+    "#f3f1ec",
+    "#9a9a9a"
+  ],
+  "fonts": [
+    "Helvetica Neue",
+    "Helvetica Neue"
+  ],
+  "source": "",
+  "reference_url": "https://kayenpeppa.com"
+}

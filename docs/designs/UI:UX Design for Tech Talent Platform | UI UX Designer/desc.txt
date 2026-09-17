@@ -1,0 +1,65 @@
+My role. UI UX Designer, UX/UI Designer
+
+Project description.
+
+⚡ As a UI/UX Designer, I created a confident, people-focused interface for Extendix — a platform that connects businesses with pre-vetted tech specialists on demand.
+
+The design highlights real individuals, shows live availability, and keeps the flow clean and direct, enabling fast decisions and full transparency across devices.
+
+| ui ux designer, ux ui designer, saas ux, recruitment ux, talent platform design, responsive ux, web ui designer, mobile ux, figma ux designer |
+Skills and deliverables
+
+UIKit
+UX & UI
+UX Research
+UI/UX Prototyping
+UI Graphics
+
+
+Extendix – UI/UX Design for an On-Demand Tech Talent Platform 👩‍💻⚡
+
+
+As the UI/UX Designer for Extendix, I crafted a confident, streamlined platform that helps product teams instantly connect with pre-vetted tech specialists. Unlike generic talent pools, Extendix highlights real people—ready to integrate directly into growing teams with speed, trust, and transparency.
+
+➡️ Process
+
+UI/UX Research & Strategy:
+We began by analyzing recruitment platforms and gathering insights from fast-scaling product companies. The core challenge was to balance clarity with speed: making talent discovery frictionless while maintaining a professional, trust-building feel. Wireframes and user flows were developed to prioritize transparency and fast decision-making.
+
+User Interface Design:
+The design focuses on people, not just profiles. Individual specialists are featured with availability indicators and role highlights, allowing teams to quickly assess fit. A confident visual style was chosen: bold typography, clean grids, and sharp contrasts emphasize clarity, while subtle orange accents guide attention to critical actions.
+
+Content & Flow:
+From the homepage, users are met with a strong positioning message and a streamlined browsing experience. The flow naturally guides them from talent discovery to selection, reducing noise and keeping interactions direct and purposeful.
+
+Responsive & Mobile-Optimized:
+Built with a mobile-first mindset, the interface adapts across devices, ensuring managers can discover and hire talent seamlessly—whether at their desk or on the move.
+
+🎯 Results:
+The final design positions Extendix as more than a recruitment platform—it’s a bridge between growing product teams and trusted specialists. By highlighting real people and real availability, Extendix sets a new benchmark in talent transparency and speed.
+
+🔑 Skills & Tools Used:
+UI/UX Design
+Talent Platform UX
+Responsive Web Design
+Mobile UX/UI
+Wireframing & Prototyping
+User Flow Design
+UX Strategy
+Brand-Driven UI
+Information Architecture
+Figma
+
+💼 Key Highlights:
+
+Designed a focused, confident UI for a tech talent platform
+
+Highlighted real specialists with availability for transparency and speed
+
+Balanced professional credibility with clean, human-centered design
+
+Delivered responsive layouts optimized for both web and mobile
+
+Elevated the hiring process through simplicity and trust-driven storytelling
+
+This project redefines how digital platforms can connect people and businesses—clearer, faster, and more human.

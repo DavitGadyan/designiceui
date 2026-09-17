@@ -1,0 +1,58 @@
+My role. UI UX Designer, Webflow Designer & Developer
+
+Project description.
+
+🏝️ As a UI/UX Designer & Webflow Developer, I designed and built a responsive website for Selva Venao, a real estate project in Panama 🇵🇦
+
+The design reflects sustainable luxury, with immersive visuals and intuitive UX, all developed in Webflow for smooth performance and easy content management.
+
+| ui ux designer, webflow developer, real estate web design, figma designer, responsive web design, ux researcher, tropical real estate, eco design, cms webflow, mobile ui ux |
+Skills and deliverables
+
+UX & UI
+UX & UI Design
+Webflow
+UIKit
+Web Design
+
+
+🏝️ Real Estate Website – UI/UX Design & Webflow Development for a Sustainable Property Brand in Panama
+
+As a UI/UX Designer and Webflow Developer, I created a fully responsive website for Selva Venao – a real estate company building eco-conscious homes on the Pacific coast of Panama. The goal was to translate their vision of sustainable tropical living into a seamless digital experience that attracts international buyers.
+
+➡️ Process:
+
+UI/UX Research & Brand Strategy:
+I started with market and competitor research to understand the landscape of high-end real estate in Central America. Collaborating closely with the client, I mapped out a customer journey tailored for nature-conscious investors and travelers. This informed a user-friendly structure that emphasizes lifestyle storytelling.
+
+UI Design:
+The visual direction combines warm, earthy tones with high-resolution imagery of the jungle and coastal scenery. The layout was kept clean and elegant to let the content breathe, while still guiding users naturally toward key sections like available lots, community values, and contact forms.
+
+Responsive Web Design:
+Designed mobile-first and optimized for all screen sizes, the site delivers a consistent experience across desktop, tablet, and mobile. Special care was taken to ensure performance and design coherence in every viewport.
+
+Webflow Development:
+Beyond just design, I built the site entirely in Webflow, allowing for pixel-perfect translation of the UI and enabling the client to easily manage content post-launch. Interactions and animations were added to enhance user engagement without distracting from the core message.
+
+🎯 Results:
+The final website positioned Selva Venao as a premium eco-living destination. Thanks to smooth navigation, immersive visuals, and performance-optimized Webflow development, the site is both a brand showcase and an effective marketing tool for real estate sales.
+
+🔑 Skills & Tools Used:
+UI/UX Design
+Webflow Development
+Responsive Web Design
+Figma
+UX Research
+Prototyping & Wireframing
+User Flow Mapping
+Interaction Design
+Real Estate Web Design
+Content Strategy
+CMS Setup (Webflow)
+
+💼 Key Highlights:
+• Delivered end-to-end design & Webflow development for a sustainable real estate brand
+• Built a responsive, immersive website that connects with international audiences
+• Integrated storytelling and strong UX to drive engagement and conversions
+• Empowered the client with a CMS-backed, easy-to-edit Webflow solution
+• Merged aesthetics with performance to reflect the values of eco-luxury living

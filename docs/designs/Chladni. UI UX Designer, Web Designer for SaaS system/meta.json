@@ -1,0 +1,17 @@
+{
+  "title": "Chladni - Industrial IoT Asset Performance SaaS",
+  "use_case": "Multi-screen SaaS product UI (app shell, not marketing): floating icon-rail sidebar with avatar, search-first top bar with '/' shortcut, uppercase display page titles with muted subtitle and right-aligned action buttons (Filter, Export, List/Map segmented toggle), a full-bleed Explorer panel with a floating detail card (status pill, name, timestamp, big health % with area sparkline, 2x3 stats grid, CTA), a drill-down page with breadcrumb, title + health pill, two device summary cards, a 6-tab strip and a 2-col grid of status cards, a Devices page with a 3-col card grid and pagination, a filter bar of dropdowns, and a nested 'line' card with collapsible child list. Best template for any operations console, monitoring dashboard, trading workstation, incident/ticket system or agent session UI that needs sessions -> detail -> log screens.",
+  "tags": {
+    "industry": ["saas", "hardware", "logistics", "developer-tools", "ai"],
+    "page_type": ["app-shell", "dashboard", "product-detail", "auth"],
+    "palette": ["light", "monochrome", "high-contrast"],
+    "section": ["stats", "nav", "features", "timeline"],
+    "style": ["minimal", "swiss-editorial", "retro-futurist"],
+    "motion": ["static"],
+    "layout": ["sidebar", "bento-grid"]
+  },
+  "palette": ["#F0F2F4", "#FFFFFF", "#4930FF", "#191A1B", "#858585"],
+  "fonts": ["Orbitron", "Inter"],
+  "source": "Upwork portfolio - Chladni industrial IoT platform",
+  "reference_url": ""
+}

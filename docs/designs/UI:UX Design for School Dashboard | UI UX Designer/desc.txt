@@ -1,0 +1,65 @@
+
+My role. UI UX Designer, UX/UI Designer
+
+Project description.
+
+As a UI/UX Designer, I created a responsive scheduling dashboard for Synclly—an EdTech platform for schools. Focused on UX/UI Design, I developed a clean, intuitive User Interface with role-based access for students, teachers, and admins. Features include Google Calendar sync, real-time collaboration, and smart event actions.
+
+The design process involved UI Research, User Flow mapping, wireframing, and Mobile Design to ensure a seamless User Experience across all devices.
+
+
+Skills and deliverables
+
+UX & UI Design
+UX Wireframe
+UIKit
+UX & UI
+Dashboard
+
+
+Synclly – UI/UX Design for an Intuitive School Scheduling Dashboard 📅
+
+
+As a UI/UX Designer, I designed a responsive, role-based scheduling dashboard for Synclly, a calendar system built specifically for schools, teachers, and students. The goal was to create a User Experience Design that simplifies even the most complex academic schedules—turning a typical calendar into a smart, collaborative platform.
+
+➡️ Process:
+
+UX/UI Strategy & UI Research:
+I conducted user interviews and UX Research to understand the needs of admins, educators, and students. This shaped the User Flow and informed a clean, role-specific UI Design structure. Every interaction was mapped to support real-time collaboration and accessibility.
+
+User Interface Design:
+The dashboard features intuitive color-coding, Google Calendar integration, and quick actions (like joining meetings or approving events). The UI Design is minimal yet informative—built to reduce cognitive load and increase task efficiency.
+
+Responsive & Mobile Design:
+From desktop to mobile, the Responsive Design ensures seamless scheduling access for all users, including busy teachers and students on the go. The layout and controls adapt fluidly to different screen sizes.
+
+🎯 Results:
+The final UX/UI Design system supports clear communication, fast scheduling, and a better-managed school environment. Synclly acts as a digital command center, balancing simplicity with powerful functionality.
+
+🔑 Skills & Tools Used:
+UI/UX Designer
+UX Design
+User Interface Design
+Mobile Design
+App Design
+UX Research
+Responsive Design
+User Flow Mapping
+Wireframing & Prototyping
+Figma
+Education Tech UI/UX
+Web Designer
+UI System Design
+Interaction Design
+
+Keywords:
+ui ux designer, ui ux designer figma, ui designer, ux designer, ux design, ux researcher, ux ui designer, ux ui, ux product designer, saas ux ui, saas ux designer, ux ui figma, ux ui web design, mobile ui designer, mobile ui ux designer, ux designer mobile, game ui designer, saas ui designer, ui ux designer react, ui ux web designer, ui ux designer saas, shopify ux, design, graphic designer, web designer, interior designer, logo designer, ui ux, ui ux designer, ui ux designer figma, ui ux designer, ui ux designer figma.
+
+
+💼 Key Highlights:
+• Designed an intuitive calendar platform tailored to education
+• Built a responsive, role-specific dashboard for multiple user types
+• Simplified scheduling with color-coded UI and smart UX patterns
+• Improved event collaboration and time management in school environments
+
+This project showcases how strong UX/UI Design can turn everyday tools into essential, time-saving experiences for educational teams.

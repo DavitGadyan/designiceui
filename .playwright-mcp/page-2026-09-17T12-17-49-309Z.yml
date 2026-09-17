@@ -1,0 +1,175 @@
+- main [ref=f15e2]:
+  - generic [ref=f15e3]:
+    - generic [ref=f15e4]:
+      - textbox "Search" [ref=f15e9]:
+        - /placeholder: "Search address, MLS #, zoning…"
+      - button "Voice search" [ref=f15e10]
+      - generic [ref=f15e14]:
+        - button "Notifications" [ref=f15e15]
+        - generic [ref=f15e20]: JH
+        - button "Menu" [ref=f15e21] [cursor=pointer]
+    - generic [ref=f15e24]:
+      - navigation "App" [ref=f15e25]:
+        - link "Dashboard" [ref=f15e26] [cursor=pointer]:
+          - /url: /app
+        - link "Lot search" [ref=f15e32] [cursor=pointer]:
+          - /url: /app/search
+        - link "Lot analysis" [ref=f15e41] [cursor=pointer]:
+          - /url: /app/lot
+        - link "AI analyst" [ref=f15e47] [cursor=pointer]:
+          - /url: /app/ask
+        - button "Support" [ref=f15e55]
+        - button "Settings" [ref=f15e61]
+      - generic [ref=f15e65]:
+        - generic [ref=f15e66]:
+          - heading "Search the feed" [level=1] [ref=f15e67]:
+            - generic [ref=f15e68]: Search
+            - generic [ref=f15e70]: the feed
+          - paragraph [ref=f15e72]: Filters run against the stored MLS database - every field an estimator asks for, re-run after each sync.
+        - generic [ref=f15e73]:
+          - 'button "City: Boise, Meridian, Eagle" [ref=f15e75]':
+            - generic [ref=f15e76]: "City:"
+            - generic [ref=f15e77]: Boise, Meridian, Eagle
+          - 'button "Zoning: R1 · R2 · RM-1 · MU" [ref=f15e81]':
+            - generic [ref=f15e82]: "Zoning:"
+            - generic [ref=f15e83]: R1 · R2 · RM-1 · MU
+          - 'button "Lot size: 0.2 – 0.6 ac" [ref=f15e87]':
+            - generic [ref=f15e88]: "Lot size:"
+            - generic [ref=f15e89]: 0.2 – 0.6 ac
+          - 'button "Price: ≤ $450k" [ref=f15e93]':
+            - generic [ref=f15e94]: "Price:"
+            - generic [ref=f15e95]: ≤ $450k
+          - 'button "Year built: Any / vacant" [ref=f15e99]':
+            - generic [ref=f15e100]: "Year built:"
+            - generic [ref=f15e101]: Any / vacant
+          - 'button "Unit type: Any" [ref=f15e105]':
+            - generic [ref=f15e106]: "Unit type:"
+            - generic [ref=f15e107]: Any
+          - 'button "Days on market: ≤ 60" [ref=f15e111]':
+            - generic [ref=f15e112]: "Days on market:"
+            - generic [ref=f15e113]: ≤ 60
+          - button "All 22 filters" [ref=f15e117] [cursor=pointer]
+        - generic [ref=f15e120]:
+          - generic [ref=f15e121]:
+            - generic [ref=f15e122]:
+              - generic [ref=f15e123]:
+                - paragraph [ref=f15e124]: 6 lots match
+                - paragraph [ref=f15e125]: of 2,418 · updated today 06:00
+              - generic [ref=f15e126]:
+                - button "score" [ref=f15e127]
+                - button "ROI" [ref=f15e129]
+                - button "price" [ref=f15e130]
+            - generic [ref=f15e132]:
+              - generic [ref=f15e133]:
+                - generic [ref=f15e134]: Lot
+                - generic [ref=f15e135]: Zoning
+                - generic [ref=f15e136]: Size
+                - generic [ref=f15e137]: Best use
+                - generic [ref=f15e138]: ROI
+                - generic [ref=f15e139]: Price
+              - generic [ref=f15e140]:
+                - button "92 1842 Ridgeview Dr Boise · built 1962 · 6d R2 0.41 ac Duplex 24.1% $285k" [ref=f15e141]:
+                  - generic [ref=f15e142]:
+                    - generic [ref=f15e143]: "92"
+                    - generic [ref=f15e144]:
+                      - generic [ref=f15e145]: 1842 Ridgeview Dr
+                      - generic [ref=f15e146]: Boise · built 1962 · 6d
+                  - generic [ref=f15e147]: R2
+                  - generic [ref=f15e149]: 0.41 ac
+                  - generic [ref=f15e150]: Duplex
+                  - generic [ref=f15e151]: 24.1%
+                  - generic [ref=f15e152]: $285k
+                - button "88 4410 W Emerald St Meridian · vacant · 14d RM-1 0.58 ac Multi-unit ×6 21.6% $412k" [ref=f15e153]:
+                  - generic [ref=f15e154]:
+                    - generic [ref=f15e155]: "88"
+                    - generic [ref=f15e156]:
+                      - generic [ref=f15e157]: 4410 W Emerald St
+                      - generic [ref=f15e158]: Meridian · vacant · 14d
+                  - generic [ref=f15e159]: RM-1
+                  - generic [ref=f15e161]: 0.58 ac
+                  - generic [ref=f15e162]: Multi-unit ×6
+                  - generic [ref=f15e163]: 21.6%
+                  - generic [ref=f15e164]: $412k
+                - button "81 77 Larkspur Ln Eagle · built 1978 · 2d R1-C 0.29 ac Cottage 17.4% $219k" [ref=f15e165]:
+                  - generic [ref=f15e166]:
+                    - generic [ref=f15e167]: "81"
+                    - generic [ref=f15e168]:
+                      - generic [ref=f15e169]: 77 Larkspur Ln
+                      - generic [ref=f15e170]: Eagle · built 1978 · 2d
+                  - generic [ref=f15e171]: R1-C
+                  - generic [ref=f15e173]: 0.29 ac
+                  - generic [ref=f15e174]: Cottage
+                  - generic [ref=f15e175]: 17.4%
+                  - generic [ref=f15e176]: $219k
+                - button "76 2205 S Vista Ave Boise · built 1954 · 31d MU 0.36 ac Mixed-use 15.9% $398k" [ref=f15e177]:
+                  - generic [ref=f15e178]:
+                    - generic [ref=f15e179]: "76"
+                    - generic [ref=f15e180]:
+                      - generic [ref=f15e181]: 2205 S Vista Ave
+                      - generic [ref=f15e182]: Boise · built 1954 · 31d
+                  - generic [ref=f15e183]: MU
+                  - generic [ref=f15e185]: 0.36 ac
+                  - generic [ref=f15e186]: Mixed-use
+                  - generic [ref=f15e187]: 15.9%
+                  - generic [ref=f15e188]: $398k
+                - button "64 910 N Locust Grove Rd Meridian · built 1985 · 48d R1 0.24 ac Cottage 11.2% $176k" [ref=f15e189]:
+                  - generic [ref=f15e190]:
+                    - generic [ref=f15e191]: "64"
+                    - generic [ref=f15e192]:
+                      - generic [ref=f15e193]: 910 N Locust Grove Rd
+                      - generic [ref=f15e194]: Meridian · built 1985 · 48d
+                  - generic [ref=f15e195]: R1
+                  - generic [ref=f15e197]: 0.24 ac
+                  - generic [ref=f15e198]: Cottage
+                  - generic [ref=f15e199]: 11.2%
+                  - generic [ref=f15e200]: $176k
+                - button "58 3391 E Chinden Blvd Eagle · built 1970 · 63d R2 0.5 ac Townhome ×4 9.6% $331k" [ref=f15e201]:
+                  - generic [ref=f15e202]:
+                    - generic [ref=f15e203]: "58"
+                    - generic [ref=f15e204]:
+                      - generic [ref=f15e205]: 3391 E Chinden Blvd
+                      - generic [ref=f15e206]: Eagle · built 1970 · 63d
+                  - generic [ref=f15e207]: R2
+                  - generic [ref=f15e209]: 0.5 ac
+                  - generic [ref=f15e210]: Townhome ×4
+                  - generic [ref=f15e211]: 9.6%
+                  - generic [ref=f15e212]: $331k
+            - generic [ref=f15e213]:
+              - button "Save search · re-run after sync" [ref=f15e214] [cursor=pointer]
+              - button "Analyse selected" [ref=f15e215] [cursor=pointer]
+          - generic [ref=f15e216]:
+            - generic [ref=f15e217]:
+              - generic [ref=f15e218]:
+                - paragraph [ref=f15e219]: Results on the map
+                - generic [ref=f15e220]: AI ranked
+              - link "Open search" [ref=f15e224] [cursor=pointer]:
+                - /url: /app/search
+            - paragraph [ref=f15e227]: Click a marker to select the lot
+            - generic [ref=f15e228]:
+              - button "1842 Ridgeview Dr, score 92":
+                - generic:
+                  - generic: "92"
+                  - text: R2
+              - button "4410 W Emerald St, score 88":
+                - generic:
+                  - generic: "88"
+                  - text: RM-1
+              - button "77 Larkspur Ln, score 81":
+                - generic:
+                  - generic: "81"
+                  - text: R1-C
+              - button "2205 S Vista Ave, score 76":
+                - generic:
+                  - generic: "76"
+                  - text: MU
+              - button "910 N Locust Grove Rd, score 64":
+                - generic:
+                  - generic: "64"
+                  - text: R1
+              - button "3391 E Chinden Blvd, score 58":
+                - generic:
+                  - generic: "58"
+                  - text: R2
+              - generic [ref=f15e241]:
+                - generic [ref=f15e242]: score ≥ 85
+                - generic [ref=f15e244]: 60 – 84

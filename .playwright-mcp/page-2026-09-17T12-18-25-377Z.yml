@@ -1,0 +1,191 @@
+- main [ref=f16e2]:
+  - generic [ref=f16e3]:
+    - generic [ref=f16e4]:
+      - textbox "Search" [ref=f16e9]:
+        - /placeholder: "Search address, MLS #, zoning…"
+      - button "Voice search" [ref=f16e10]
+      - generic [ref=f16e14]:
+        - button "Notifications" [ref=f16e15]
+        - generic [ref=f16e20]: JH
+        - button "Menu" [ref=f16e21] [cursor=pointer]
+    - generic [ref=f16e24]:
+      - navigation "App" [ref=f16e25]:
+        - link "Dashboard" [ref=f16e26] [cursor=pointer]:
+          - /url: /app
+        - link "Lot search" [ref=f16e32] [cursor=pointer]:
+          - /url: /app/search
+        - link "Lot analysis" [ref=f16e40] [cursor=pointer]:
+          - /url: /app/lot
+        - link "AI analyst" [ref=f16e47] [cursor=pointer]:
+          - /url: /app/ask
+        - button "Support" [ref=f16e55]
+        - button "Settings" [ref=f16e61]
+      - generic [ref=f16e65]:
+        - generic [ref=f16e66]:
+          - generic [ref=f16e67]:
+            - heading "1842 Ridgeview Dr Boise · R2" [level=1] [ref=f16e68]:
+              - generic [ref=f16e69]: 1842 Ridgeview Dr
+              - generic [ref=f16e71]: Boise · R2
+            - paragraph [ref=f16e73]: "MLS #98765431 · 0.41 ac (17,860 sqft) · listed $285,000 · 6 days on market"
+          - generic [ref=f16e74]:
+            - generic [ref=f16e75]: Score 92
+            - button "Share analysis" [ref=f16e79] [cursor=pointer]
+        - generic [ref=f16e80]:
+          - generic [ref=f16e81]:
+            - paragraph [ref=f16e82]: Development cost · Duplex
+            - paragraph [ref=f16e83]: $841k
+            - paragraph [ref=f16e84]: revenue $1,045k · profit $204k
+          - generic [ref=f16e85]:
+            - generic [ref=f16e86]:
+              - generic [ref=f16e87]: Land
+              - generic [ref=f16e88]: Hard cost
+              - generic [ref=f16e89]: Soft cost
+              - generic [ref=f16e90]: Margin
+            - generic [ref=f16e91]:
+              - generic: 27%
+              - generic: 45%
+              - generic: 8%
+              - generic: 20%
+        - generic [ref=f16e92]:
+          - generic [ref=f16e93]:
+            - generic [ref=f16e94]:
+              - generic [ref=f16e95]:
+                - generic [ref=f16e96]:
+                  - paragraph [ref=f16e97]: Unit-type scenarios
+                  - paragraph [ref=f16e98]: Your cost model v3 · comps from 83702, last 6 months
+                - generic [ref=f16e99]: AI ranked
+              - generic [ref=f16e103]:
+                - generic [ref=f16e104]: Scenario
+                - generic [ref=f16e105]: Units
+                - generic [ref=f16e106]: All-in cost
+                - generic [ref=f16e107]: ROI
+                - generic [ref=f16e108]: Margin
+                - generic [ref=f16e109]: Months
+              - generic [ref=f16e110]:
+                - button "Cottage Under-uses the R2 entitlement 1 $655k 13.7% 12.1% 9" [ref=f16e111]:
+                  - generic [ref=f16e112]:
+                    - generic [ref=f16e113]: Cottage
+                    - generic [ref=f16e114]: Under-uses the R2 entitlement
+                  - generic [ref=f16e115]: "1"
+                  - generic [ref=f16e116]: $655k
+                  - generic [ref=f16e117]: 13.7%
+                  - generic [ref=f16e118]: 12.1%
+                  - generic [ref=f16e119]: "9"
+                - button "Duplex Best risk-adjusted return 2 $841k 24.1% 19.8% 11" [ref=f16e120]:
+                  - generic [ref=f16e121]:
+                    - generic [ref=f16e122]: Duplex
+                    - generic [ref=f16e123]: Best risk-adjusted return
+                  - generic [ref=f16e124]: "2"
+                  - generic [ref=f16e125]: $841k
+                  - generic [ref=f16e126]: 24.1%
+                  - generic [ref=f16e127]: 19.8%
+                  - generic [ref=f16e128]: "11"
+                - button "Townhome ×4 not by-right Needs CUP - 4 units exceed R2 by-right 4 $1,321k 18% 15.2% 15" [ref=f16e129]:
+                  - generic [ref=f16e130]:
+                    - generic [ref=f16e131]:
+                      - text: Townhome ×4
+                      - generic [ref=f16e132]: not by-right
+                    - generic [ref=f16e133]: Needs CUP - 4 units exceed R2 by-right
+                  - generic [ref=f16e134]: "4"
+                  - generic [ref=f16e135]: $1,321k
+                  - generic [ref=f16e136]: 18%
+                  - generic [ref=f16e137]: 15.2%
+                  - generic [ref=f16e138]: "15"
+                - button "Multi-unit ×6 not by-right Not permitted in R2 6 $1,730k 16.2% 13.9% 19" [ref=f16e139]:
+                  - generic [ref=f16e140]:
+                    - generic [ref=f16e141]:
+                      - text: Multi-unit ×6
+                      - generic [ref=f16e142]: not by-right
+                    - generic [ref=f16e143]: Not permitted in R2
+                  - generic [ref=f16e144]: "6"
+                  - generic [ref=f16e145]: $1,730k
+                  - generic [ref=f16e146]: 16.2%
+                  - generic [ref=f16e147]: 13.9%
+                  - generic [ref=f16e148]: "19"
+            - generic [ref=f16e149]:
+              - generic [ref=f16e150]:
+                - generic [ref=f16e152]:
+                  - paragraph [ref=f16e153]: What can be built
+                  - paragraph [ref=f16e154]: R2 - Two-family residential
+                - paragraph [ref=f16e159]: By-right
+                - generic [ref=f16e160]:
+                  - generic [ref=f16e161]: Single-family detached
+                  - generic [ref=f16e165]: Duplex / two-family
+                  - generic [ref=f16e169]: ADU up to 800 sqft
+                - paragraph [ref=f16e173]: Conditional use permit
+                - generic [ref=f16e174]:
+                  - generic [ref=f16e175]: Townhomes (3-4 units) with CUP
+                  - generic [ref=f16e177]: Small daycare
+                - generic [ref=f16e179]:
+                  - generic [ref=f16e180]:
+                    - generic [ref=f16e181]: Max height
+                    - generic [ref=f16e182]: 35 ft
+                  - generic [ref=f16e183]:
+                    - generic [ref=f16e184]: Lot coverage
+                    - generic [ref=f16e185]: 40%
+                  - generic [ref=f16e186]:
+                    - generic [ref=f16e187]: Setbacks
+                    - generic [ref=f16e188]: 20 / 5 / 15 ft
+                  - generic [ref=f16e189]:
+                    - generic [ref=f16e190]: Min lot / unit
+                    - generic [ref=f16e191]: 4,000 sqft
+                  - generic [ref=f16e192]:
+                    - generic [ref=f16e193]: Parking
+                    - generic [ref=f16e194]: 2 / unit
+                  - generic [ref=f16e195]:
+                    - generic [ref=f16e196]: Density
+                    - generic [ref=f16e197]: ≤ 8 du/ac
+              - generic [ref=f16e198]:
+                - generic [ref=f16e199]:
+                  - generic [ref=f16e200]:
+                    - paragraph [ref=f16e201]: Session documents
+                    - paragraph [ref=f16e202]: Used for this analysis only · cleared when you leave
+                  - generic [ref=f16e203]: 42 min left
+                - generic [ref=f16e207]:
+                  - generic [ref=f16e213]:
+                    - generic [ref=f16e214]: Geotech report - Ridgeview.pdf
+                    - generic [ref=f16e215]: PDF · 3.2 MB · Slope 4%, bearing 2,500 psf
+                  - generic [ref=f16e223]:
+                    - generic [ref=f16e224]: Survey 2025-11.docx
+                    - generic [ref=f16e225]: Word · 840 KB · 17,860 sqft confirmed
+                - button "Drop PDF or Word Read by the AI for this session only" [ref=f16e228]:
+                  - generic [ref=f16e232]: Drop PDF or Word
+                  - generic [ref=f16e233]: Read by the AI for this session only
+          - generic [ref=f16e234]:
+            - generic [ref=f16e235]:
+              - generic [ref=f16e236]:
+                - generic [ref=f16e237]:
+                  - paragraph [ref=f16e238]: Best option
+                  - paragraph [ref=f16e239]: Highest risk-adjusted return
+                - link "Open" [ref=f16e240] [cursor=pointer]:
+                  - /url: /app/ask
+              - generic [ref=f16e243]:
+                - generic [ref=f16e245]:
+                  - paragraph [ref=f16e246]: Duplex · 2 units
+                  - paragraph [ref=f16e247]: By-right in R2, sewer at street, 11-month cycle. No CUP risk.
+                  - generic [ref=f16e248]:
+                    - generic [ref=f16e249]: ROI 24.1%
+                    - generic [ref=f16e250]: $204k profit
+                    - generic [ref=f16e251]: recommended
+                - generic [ref=f16e253]:
+                  - paragraph [ref=f16e254]: Why not Townhome ×4
+                  - paragraph [ref=f16e255]: 18% ROI but needs a conditional-use permit - 4–6 month delay and ~35% denial risk in this district.
+                  - generic [ref=f16e256]:
+                    - generic [ref=f16e257]: CUP required
+                    - generic [ref=f16e258]: flagged
+            - generic [ref=f16e259]:
+              - generic [ref=f16e260]:
+                - generic [ref=f16e261]:
+                  - paragraph [ref=f16e262]: Projected ROI
+                  - paragraph [ref=f16e263]: Duplex on this lot
+                - button "This quarter" [ref=f16e264] [cursor=pointer]
+              - generic [ref=f16e297]:
+                - paragraph [ref=f16e298]:
+                  - generic [ref=f16e299]: 0.0%
+                - paragraph [ref=f16e300]: return on cost
+              - generic [ref=f16e301]:
+                - generic [ref=f16e302]:
+                  - button "Pause model" [ref=f16e303] [cursor=pointer]
+                  - button "Reset" [ref=f16e307] [cursor=pointer]
+                - link "Add scenario" [ref=f16e310] [cursor=pointer]:
+                  - /url: /app/lot

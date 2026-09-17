@@ -1,0 +1,17 @@
+{
+  "title": "ORDI - AI Productivity SaaS, Landing Page + Dashboard",
+  "use_case": "One product captured as both a marketing landing page and its web dashboard, plus mobile derivations. Landing: top nav (wordmark, 4 links, dark pill CTA), giant two-part uppercase display headline split left/right around a centred 3D hero object, a small 'How it works' video card under the headline, floating glass widget cards (task rows with priority pills, a 'Today's tasks' mini-card pair), a short value paragraph bottom-left, carousel dots + round arrow buttons, tiny uppercase caption bottom-right. Dashboard: top bar (wordmark, search pill + voice button, bell, avatar, solid accent 'Menu' button), floating left icon rail (4 icons + 2 utility icons at the bottom), giant uppercase page headline over the hero image, a horizontal analytics bar with stacked coloured segments and a big total, a wide timeline/schedule card with an 'AI optimised' pill, a solid-accent highlight card holding two sub-cards with count pills and avatar stacks, a right column with a 4-row table (name / priority pill / status / time) and a full-width secondary button, and a ring-gauge card with big centred number and play/pause/plus controls. Warm sand ground, white glass cards, orange + amber + black pills. Best template for any AI-assisted operations product that needs a landing page and an app that share one visual system: planning, analysis, ranking, scheduling, property or asset intelligence.",
+  "tags": {
+    "industry": ["saas", "ai", "developer-tools", "real-estate"],
+    "page_type": ["landing-page", "dashboard", "app-shell", "hero"],
+    "palette": ["earth-tone", "light", "pastel"],
+    "section": ["nav", "hero", "features", "stats"],
+    "style": ["claymorphic", "glassmorphic", "minimal", "playful"],
+    "motion": ["3d-webgl", "reveal-on-scroll"],
+    "layout": ["split-screen", "bento-grid", "sidebar"]
+  },
+  "palette": ["#E9DCC3", "#FFFFFF", "#F26B2B", "#2A2622", "#7A7268"],
+  "fonts": ["Manrope", "Manrope"],
+  "source": "Upwork portfolio - ORDI productivity SaaS",
+  "reference_url": ""
+}

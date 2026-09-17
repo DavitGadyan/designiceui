@@ -1,0 +1,49 @@
+My role. UI UX Designer, UX/UI Designer, SaaS Designer, Dashboard Designer
+
+Project description.
+
+As a UI/UX Designer, I built both the landing page and the dashboard for a productivity SaaS focused on time management and task prioritization. The landing page was delivered end-to-end — design plus development — with clean UI, soft 3D visuals, and clear hierarchy that communicate scheduling, task tracking, and AI-powered workflows. The dashboard was built for clarity under load, combining scheduling, real-time tracking, and performance insights into one system that supports fast decisions in SaaS and B2B environments.
+
+Skills and deliverables
+
+UX & UI
+UX & UI Design
+Landing Page
+Website
+SaaS
+Landing ui ux design with 3D model
+Landing ui ux design with 3D model
+SaaS dashboard UI UX design
+SaaS dashboard UI UX design
+Responsive design 
+Responsive design
+Productivity SaaS – UI/UX Design for Landing Page & Dashboard
+
+As the UI/UX Designer for this productivity SaaS, I built both sides of the product — the marketing landing page (design + development) and the in-product dashboard. The platform focuses on time management, task prioritization, and AI-powered workflows, and the goal was to carry one coherent design language from the first marketing touchpoint to daily product use.
+The idea: turn a complex productivity system into something that feels effortless on first impression and stays clear under daily load. Two surfaces, one design language — focused, structured, quietly modern.
+➡️ Process:
+UI/UX Research & Strategy:
+We started with how productivity tools are used in real work environments — where users lose focus, where interfaces add friction, what separates a tool people open daily from one they abandon. Through user flows, wireframes, and competitive benchmarks, we shaped a UX rooted in clarity and pace.
+Landing Page Design & Development:
+I designed and developed the landing page end-to-end — not just a Figma handoff. Built as a single narrative: lead with outcome (time saved, tasks done), introduce the mechanics (scheduling, tracking, AI workflows), close with trust. Soft 3D visuals and clean typography carry the product tone without overwhelming the copy.
+Dashboard Interface Design:
+Designed around one principle: stay clear under load. Scheduling, task tracking, time allocation, and performance insights live in one system, but each module earns its own visual rhythm. Users see what matters first and drill down when needed.
+Design System & Scalability:
+A shared component library underpins both surfaces, so the product stays consistent as new features roll out. Typography, spacing, and interaction patterns defined once and reused everywhere.
+Responsive & Cross-Device:
+Both landing and dashboard adapt cleanly across desktop, tablet, and mobile — tuned for real usage patterns (quick checks on mobile, deep work on desktop).
+🎯 Results:
+Covering both landing and dashboard as one designer gave the product a coherent identity from first click to long-term use. The landing communicates value in under 10 seconds; the dashboard turns a dense feature set into a calm daily workspace.
+🔑 Skills & Tools Used:
+UI/UX Designer • SaaS UI Design • Dashboard Design • Landing Page Design & Development • Productivity App Design • UX Research • Design System • Wireframing & Prototyping • Figma • Responsive Web Design
+ui ux designer, ui ux designer figma, ui designer, ux designer, ux ui designer, ux product designer, saas ux ui, saas ux designer, saas ui designer, dashboard designer, dashboard ui designer, productivity app designer, landing page designer, ui ux designer saas, ui ux web designer, web designer, figma designer, product designer, ui ux, ui ux designer figma. 💼
+Key Highlights:
+
+Built both landing page (design + development) and dashboard for one productivity SaaS
+Delivered landing as a production-ready page, end-to-end
+Designed a structured dashboard for task flow, time allocation, and real-time tracking
+Integrated soft 3D visuals with clean UI for a modern product tone
+Created one shared design system used across landing and product
+Designed for clarity under load — fast decisions in SaaS and B2B environments
+
+One design language — from marketing touchpoint to daily product use.

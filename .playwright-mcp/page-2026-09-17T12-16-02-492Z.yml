@@ -1,0 +1,166 @@
+- main [ref=f13e2]:
+  - generic [ref=f13e3]:
+    - generic [ref=f13e4]:
+      - link "LotIQ" [ref=f13e5] [cursor=pointer]:
+        - /url: /
+      - textbox "Search" [ref=f13e10]:
+        - /placeholder: "Search address, MLS #, zoning…"
+      - button "Voice search" [ref=f13e11]
+      - generic [ref=f13e15]:
+        - button "Notifications" [ref=f13e16]
+        - generic [ref=f13e21]: JH
+        - button "Menu" [ref=f13e22] [cursor=pointer]
+    - generic [ref=f13e25]:
+      - navigation "App" [ref=f13e26]:
+        - link "Dashboard" [ref=f13e27] [cursor=pointer]:
+          - /url: /app
+        - link "Lot search" [ref=f13e34] [cursor=pointer]:
+          - /url: /app/search
+        - link "Lot analysis" [ref=f13e42] [cursor=pointer]:
+          - /url: /app/lot
+        - link "AI analyst" [ref=f13e48] [cursor=pointer]:
+          - /url: /app/ask
+        - button "Support" [ref=f13e56]
+        - button "Settings" [ref=f13e62]
+      - generic [ref=f13e66]:
+        - generic [ref=f13e67]:
+          - heading "Find the lot worth building" [level=1] [ref=f13e68]:
+            - generic [ref=f13e69]: Find the lot
+            - generic [ref=f13e71]: worth building
+          - paragraph [ref=f13e73]: MLS synced Today 06:00 · 2,418 land listings · 37 new since yesterday
+        - generic [ref=f13e74]:
+          - generic [ref=f13e75]:
+            - generic [ref=f13e76]:
+              - generic [ref=f13e77]:
+                - paragraph [ref=f13e78]: Market mix · Ada County
+                - paragraph [ref=f13e79]: 2,418 lots
+                - paragraph [ref=f13e80]: by zoning, active listings
+              - generic [ref=f13e81]:
+                - generic [ref=f13e82]:
+                  - generic [ref=f13e83]: R1 single-family
+                  - generic [ref=f13e84]: R2 duplex
+                  - generic [ref=f13e85]: RM multi-unit
+                  - generic [ref=f13e86]: Mixed-use
+                - generic [ref=f13e87]:
+                  - generic: 46%
+                  - generic: 24%
+                  - generic: 18%
+                  - generic: 12%
+            - generic [ref=f13e88]:
+              - generic [ref=f13e89]:
+                - generic [ref=f13e90]:
+                  - generic [ref=f13e91]:
+                    - paragraph [ref=f13e92]: AI-ranked lots
+                    - generic [ref=f13e93]: AI ranked
+                  - link "Open search" [ref=f13e97] [cursor=pointer]:
+                    - /url: /app/search
+                - paragraph [ref=f13e100]: Scored on zoning, cost model and comps
+                - generic [ref=f13e101]:
+                  - button "1842 Ridgeview Dr, score 92":
+                    - generic:
+                      - generic: "92"
+                      - text: R2
+                  - button "4410 W Emerald St, score 88":
+                    - generic:
+                      - generic: "88"
+                      - text: RM-1
+                  - button "77 Larkspur Ln, score 81":
+                    - generic:
+                      - generic: "81"
+                      - text: R1-C
+                  - button "2205 S Vista Ave, score 76":
+                    - generic:
+                      - generic: "76"
+                      - text: MU
+                  - button "910 N Locust Grove Rd, score 64":
+                    - generic:
+                      - generic: "64"
+                      - text: R1
+                  - button "3391 E Chinden Blvd, score 58":
+                    - generic:
+                      - generic: "58"
+                      - text: R2
+                  - generic [ref=f13e114]:
+                    - generic [ref=f13e115]: score ≥ 85
+                    - generic [ref=f13e117]: 60 – 84
+              - generic [ref=f13e119]:
+                - generic [ref=f13e120]:
+                  - generic [ref=f13e121]:
+                    - paragraph [ref=f13e122]: Best options this week
+                    - paragraph [ref=f13e123]: Highest risk-adjusted ROI
+                  - link "Open" [ref=f13e124] [cursor=pointer]:
+                    - /url: /app/lot
+                - generic [ref=f13e127]:
+                  - generic [ref=f13e129]:
+                    - paragraph [ref=f13e130]: 1842 Ridgeview Dr
+                    - paragraph [ref=f13e131]: R2 · Duplex by-right · 0.41 ac
+                    - generic [ref=f13e132]:
+                      - generic [ref=f13e133]: ROI 24.1%
+                      - generic [ref=f13e134]: 92 score
+                      - generic [ref=f13e135]: 6d on market
+                  - generic [ref=f13e137]:
+                    - paragraph [ref=f13e138]: 4410 W Emerald St
+                    - paragraph [ref=f13e139]: RM-1 · Multi-unit ×6 by-right · 0.58 ac
+                    - generic [ref=f13e140]:
+                      - generic [ref=f13e141]: ROI 21.6%
+                      - generic [ref=f13e142]: 88 score
+                      - generic [ref=f13e143]: 14d on market
+          - generic [ref=f13e144]:
+            - generic [ref=f13e145]:
+              - generic [ref=f13e146]:
+                - generic [ref=f13e147]:
+                  - paragraph [ref=f13e148]: Shortlist
+                  - paragraph [ref=f13e149]: Lots your team flagged this week
+                - link "Open" [ref=f13e150] [cursor=pointer]:
+                  - /url: /app/search
+              - generic [ref=f13e153]:
+                - generic [ref=f13e154]: Lot
+                - generic [ref=f13e155]: Zoning
+                - generic [ref=f13e156]: Score
+                - generic [ref=f13e157]: Price
+              - generic [ref=f13e158]:
+                - button "1842 Ridgeview Dr Boise · 0.41 ac R2 92 $285k" [ref=f13e159]:
+                  - generic [ref=f13e160]:
+                    - generic [ref=f13e161]: 1842 Ridgeview Dr
+                    - generic [ref=f13e162]: Boise · 0.41 ac
+                  - generic [ref=f13e163]: R2
+                  - generic [ref=f13e165]: "92"
+                  - generic [ref=f13e166]: $285k
+                - button "4410 W Emerald St Meridian · 0.58 ac RM-1 88 $412k" [ref=f13e167]:
+                  - generic [ref=f13e168]:
+                    - generic [ref=f13e169]: 4410 W Emerald St
+                    - generic [ref=f13e170]: Meridian · 0.58 ac
+                  - generic [ref=f13e171]: RM-1
+                  - generic [ref=f13e173]: "88"
+                  - generic [ref=f13e174]: $412k
+                - button "77 Larkspur Ln Eagle · 0.29 ac R1-C 81 $219k" [ref=f13e175]:
+                  - generic [ref=f13e176]:
+                    - generic [ref=f13e177]: 77 Larkspur Ln
+                    - generic [ref=f13e178]: Eagle · 0.29 ac
+                  - generic [ref=f13e179]: R1-C
+                  - generic [ref=f13e181]: "81"
+                  - generic [ref=f13e182]: $219k
+                - button "2205 S Vista Ave Boise · 0.36 ac MU 76 $398k" [ref=f13e183]:
+                  - generic [ref=f13e184]:
+                    - generic [ref=f13e185]: 2205 S Vista Ave
+                    - generic [ref=f13e186]: Boise · 0.36 ac
+                  - generic [ref=f13e187]: MU
+                  - generic [ref=f13e189]: "76"
+                  - generic [ref=f13e190]: $398k
+              - button "Add lot to shortlist" [ref=f13e191] [cursor=pointer]
+            - generic [ref=f13e192]:
+              - generic [ref=f13e193]:
+                - generic [ref=f13e194]:
+                  - paragraph [ref=f13e195]: Portfolio ROI
+                  - paragraph [ref=f13e196]: Across 4 shortlisted lots
+                - button "This quarter" [ref=f13e197] [cursor=pointer]
+              - generic [ref=f13e230]:
+                - paragraph [ref=f13e231]:
+                  - generic [ref=f13e232]: 0.0%
+                - paragraph [ref=f13e233]: projected
+              - generic [ref=f13e234]:
+                - generic [ref=f13e235]:
+                  - button "Pause model" [ref=f13e236] [cursor=pointer]
+                  - button "Reset" [ref=f13e240] [cursor=pointer]
+                - link "Add scenario" [ref=f13e243] [cursor=pointer]:
+                  - /url: /app/lot

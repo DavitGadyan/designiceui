@@ -1,0 +1,45 @@
+My role. UX/UI Designer
+
+Project description.
+
+The project is a torrent system with which you can download files. The task of this project was to redesign the system according to new design standards.
+
+My role in the project
+✅ Prototype development and user flow
+✅ Development of branding and style of the project
+✅ Visual design of screens
+✅ Animation
+Skills and deliverables
+
+User Experience Design
+User Interface Design
+Prototyping
+Mobile UI Design
+Graphic Design
+
+Challenge
+
+Position a niche utility tool against entrenched competitors without leaning on the dated, ad-heavy aesthetic that dominates the torrent-client category.
+Approach
+
+- UX/UI design for the torrent system
+- Landing page narrative around real-time streaming
+- Feature surfaces that read as modern software, not freeware
+- Multi-language structure
+- Visual identity calibrated against category clichés
+Outcome
+
+A modern marketing presence that holds up next to the polished tools the category compares against.
+Dashboard
+Dashboard
+
+
+Dashboard
+Dashboard
+
+- UX/UI design for the desktop system
+- UX/UI design for the mobile app
+
+
+
+Web UX Designer at SaaS Startup

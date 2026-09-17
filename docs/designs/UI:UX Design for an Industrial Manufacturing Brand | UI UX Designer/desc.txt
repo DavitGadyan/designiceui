@@ -1,0 +1,72 @@
+My role. UI/UX Designer, Brand Designer, Web Designer
+
+Project description.
+
+⚙️ As a UI/UX Designer, I created a custom website for Carbo, a global ceramics manufacturer with 45+ years of industrial impact. The goal was to translate Carbo’s precision-built products into a bold, tech-forward digital presence that reflects their engineering depth.
+The design centered around a single ceramic bead animated on the homepage as a metaphor for durability and innovation. Every page was built from scratch: from custom navigation systems to dual-user journeys based on industry needs.
+
+| ui ux designer, web designer, ux designer, ux design, ux ui designer, b2b web design figma |
+Skills and deliverables
+
+UX & UI Design
+UX & UI
+UI Animation
+Web Design
+Website Redesign
+
+
+
+
+
+Carbo – Industrial Web Design for a Global Manufacturing Brand ⚙️🌍
+
+As the sole designer, I led the complete digital transformation for Carbo, a global industrial brand with over 45 years of manufacturing expertise. Known for their ultra-durable ceramic beads used in oil, energy, and advanced manufacturing — Carbo needed a digital presence as tough, precise, and forward-looking as their product.
+
+This wasn’t just a redesign. It was a ground-up rebuild of a 50+ page platform that helped take the company from near-bankruptcy to full capacity production — within three months of launch.
+
+➡️ Process:
+
+Brand-to-Web Strategy:
+Working from a new rebrand, I translated Carbo’s industrial legacy into a modern, tech-forward web system. Every design decision — from typography to motion — served the goal of clarity, confidence, and functional performance.
+
+Signature Visual Concept – The Bead:
+I placed the ceramic bead at the center of the digital experience. On the homepage, a 3D-rendered bead slowly rotates with a subtle red pulse — a visual metaphor for engineering precision and R&D innovation.
+
+UI/UX & Interaction Design:
+• Designed 50+ unique pages across product, industry, and content verticals
+• Created a dual-path navigation system for users: by product or by use case
+• Developed custom search, dynamic content cards, and an intuitive mega menu
+• Responsive design optimized across desktop, tablet, and mobile
+• Integrated smart forms to qualify leads and protect deep content
+
+Immersive Content Experience:
+• Art-directed industrial photography: real operators, real machines, real heat
+• Designed and scripted a full launch video with custom 3D elements
+• Built a Knowledge Hub: searchable, sortable, with downloadable resources and gated technical documents
+
+🎯 Results:
+Carbo sold out all production for the next three months post-launch. The success led to a new plant in planning and the launch of a second venture — all powered by a new digital foundation built by one designer.
+
+🔑 Skills & Tools Used:
+UI/UX Design
+Brand-to-Web Translation
+Interaction Design
+Information Architecture
+Responsive Web Design
+Webflow CMS (or alternative CMS, if applicable)
+Wireframing & Prototyping (Figma)
+3D Asset Integration
+Custom Navigation Systems
+Content Strategy
+UX Copy & Visual Storytelling
+Industrial Web Design
+
+💼 Key Highlights:
+• Designed & delivered full 50+ page custom web platform solo
+• Developed signature homepage animation featuring ceramic bead
+• Created a dual-user journey: by product & by industry
+• Built a fully responsive, CMS-powered experience
+• Turned dense technical content into clear, user-first design
+• Helped drive business from crisis to full capacity bookings in 3 months
+
+| ui ux designer, solo web designer, industrial web design, responsive ui, figma ux designer, product designer, ui designer industrial, ux ui design system, manufacturing website, b2b ux designer, complex ux flows, web designer figma, ux for enterprise, product-led web design, webflow industrial site |
