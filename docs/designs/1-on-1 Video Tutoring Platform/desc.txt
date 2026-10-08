@@ -1,0 +1,60 @@
+1-on-1 Video Tutoring Platform
+
+Project description.
+
+OVERVIEW
+Design a mobile application for a 1-on-1 video tutoring platform
+
+ROLE
+Lead Product Designer
+
+GOAL & CHALLENGE
+The goal was to design a mobile app from scratch that offered a unique experience, allowing users to instantly match with an expert for help. The main challenge was to build trust within the platform to overcome users' natural skepticism or fear and cater to the differing needs of two distinct user groups: experts and seekers.
+Skills and deliverables
+
+Product Design
+User Experience Design
+UX & UI Design
+Interaction Design
+Mobile App Design
+Product Strategy
+Journey Mapping
+User Interface Design
+User-Centered Design
+Wireframing
+Prototyping
+Motion Design
+Usability Testing
+Visual Design
+UX Research
+
+
+
+
+
+
+
+
+
+
+OVERVIEW
+Design a mobile application for a 1-on-1 video tutoring platform.
+
+ROLE
+Lead Product Designer
+
+GOAL & CHALLENGE
+The goal was to design a mobile app from scratch that offered a unique experience, allowing users to instantly match with an expert for help. The main challenge was to build trust within the platform to overcome users' natural skepticism or fear and cater to the differing needs of two distinct user groups: experts and seekers.
+
+SOLUTION
+My focus was on designing primary features such as the verification process, a smart rating system, engaging free sessions, and a user-friendly messaging system to facilitate seamless communication between experts and seekers. The key was to personalize user experiences for both user groups and refine the product design based on authentic user feedback.
+
+INVOLVEMENT
+- Design Leadership
+- User Research
+- Personas
+- Interviews/Surveys
+- Information Architecture
+- Wireframing & Prototyping
+- UI/UX Design
+- Motion Design

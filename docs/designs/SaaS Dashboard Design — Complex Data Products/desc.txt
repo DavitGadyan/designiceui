@@ -1,0 +1,12 @@
+SaaS Dashboard Design — Complex Data Products
+My role. Lead UI/UX Designer & Full Stack Developer
+
+Project description.
+
+Dashboard design for SaaS products that handle complex data — analytics platforms, workflow tools, CRMs, and operations software.
+
+We design for clarity first. Dense data needs hierarchy, not decoration. Our dashboards are built in Figma and handed off dev-ready, or we build them ourselves in React.
+
+Past work includes Interlock (workflow automation SaaS), AI-powered analytics platforms, and multi-tenant B2B tools with role-based views.
+
+For founders whose users are spending hours inside the product — the UX has to work hard.

@@ -1,0 +1,5 @@
+Project description.
+
+I designed a next-generation AI-powered Property Platform tailored specifically for the UAE real estate market. The platform brings together three core experiences in one cohesive product.
+An intelligent AI assistant guides property discovery through natural conversation, surfacing relevant listings based on preferences, budget and location without the friction of traditional search.
+For Admin, users, and agents its a fully featured backend dashboard to oversee accounts, listings, platform activity and data across the entire ecosystem.

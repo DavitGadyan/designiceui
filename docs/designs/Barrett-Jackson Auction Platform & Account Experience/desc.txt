@@ -1,0 +1,6 @@
+Barrett-Jackson Auction Platform & Account Experience
+My role. Lead Product Designer and UX Strategist
+
+Project description.
+
+I led the redesign of Barrett-Jackson’s three core software workflows: vehicle consignment, bidder registration, and a new logged-in account experience. The existing process relied on rigid forms, PDFs, and offline steps for complex, high-value transactions. Through stakeholder research and system mapping, I defined guided workflows, validation, reusable interaction patterns, and a design library. The new experience gave users a clearer way to submit accurate information, track status, and manage multiple consignments and purchases over time.

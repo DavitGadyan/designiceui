@@ -1,0 +1,6 @@
+Generac - Smart Energy Monitoring iOS App Redesign
+My role. Lead Product Designer — iOS Energy App
+
+Project description.
+
+I led the UX/UI redesign of Generac’s consumer energy app for iOS. The existing experience made it difficult for homeowners to understand how power moved between solar panels, battery storage, the grid, and the home. I reworked the information hierarchy, system-status views, energy dashboards, reports, and battery-management experiences. I also created domain-specific illustrations, icons, and color conventions for energy sources. The redesign made complex production, consumption, storage, and grid data more glanceable while bringing the software closer to Generac’s premium hardware brand.

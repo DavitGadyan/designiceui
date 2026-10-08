@@ -1,0 +1,78 @@
+Grand Canyon – Real Estate Website Redesign
+My role. UX/UI Designer
+
+Project description.
+
+I redesigned the Grand Canyon real-estate website in Figma to modernize its look and elevate property presentation. The redesign includes clear property listings, improved navigation, enhanced image galleries, and intuitive search/filter tools. I applied responsive layouts, refined typography, and a consistent visual style to help potential buyers quickly find and explore homes with ease and confidence.
+
+Grand Canyon – Real Estate Website Redesign
+
+𝗠𝘆 𝗥𝗼𝗹𝗲 & 𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲
+
+As senior designer, I led the redesign of the Grand Canyon real-estate site. My role involved defining the visual direction, structuring user flows, and delivering a UI that both attractively showcases properties and simplifies decision-making for users. The goal: increase listings visibility, reduce friction in property search, and strengthen brand trust through design.
+
+𝗞𝗲𝘆 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲𝘀
+
+The previous site suffered from inconsistent layouts, weak visual hierarchy, and poor responsiveness, which made it hard for users to compare properties or view them on mobile.
+
+Property images were not showcased well; galleries were basic and didn’t invite exploration.
+
+Search and filtering tools were buried or hard to use, reducing user engagement.
+
+Branding was unclear: typography, color, and design elements didn’t feel cohesive.
+
+Approach & Process
+
+Discovery & Research
+
+Studied competitor real-estate websites to identify layout best practices for property listings, gallery displays, search and filtering.
+
+Gathered user feedback (or personas) to understand what home-buyers care about: photos, location, price, map view, features.
+
+Wireframing & Information Architecture
+
+Built low-fidelity wireframes to plan homepage, listing pages, property detail pages, search/filter panel, and image galleries.
+
+Refined navigation so users can quickly toggle between map and list views, filter by property features, price, location.
+
+𝗨𝗜 𝗗𝗲𝘀𝗶𝗴𝗻 & 𝗩𝗶𝘀𝘂𝗮𝗹 𝗛𝗶𝗲𝗿𝗮𝗿𝗰𝗵𝘆
+
+Developed a clean, modern visual style: refined typography (headings, body text), consistent color palette, spacing and grid systems.
+
+Designed high-impact image gallery components (carousel, thumbnail previews, full-screen view) to showcase properties at their best.
+
+Prioritized visual hierarchy so the most important information (price, location, key features) stands out first.
+
+Responsive & Mobile-First Design
+
+Ensured layouts adapt from mobile through tablet to desktop. On mobile, simplified menus and optimized touch targets.
+
+Galleries scale, search/filter tools collapse smartly but remain usable.
+
+Prototyping & Testing
+
+Created interactive Figma prototypes to simulate property searches, gallery exploration, listing comparison.
+
+Iterated based on feedback: refining filter usability, image loading/performance (for design intention), adjusting layout spacing and consistency.
+
+𝗗𝗲𝘀𝗶𝗴𝗻 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀
+
+Enhanced Listing Cards with key info at glance: price, property type, small thumbnail, location & “favorites” feature.
+
+Search & Filter Panel with dynamic filtering (price range slider, number of bedrooms, map toggle).
+
+Property Detail Pages with gallery, floor plans, neighborhood info, call-to-action buttons (“schedule tour”, “contact agent”).
+
+Consistent Branding using typography (headings, body) and color accents to highlight CTAs.
+
+Performance & Accessibility Focus: optimized image assets, faster load in prototype flow; legible font sizes; contrast checks.
+
+𝗢𝘂𝘁𝗰𝗼𝗺𝗲 & 𝗜𝗺𝗽𝗮𝗰𝘁
+
+The redesign made the property search experience more intuitive, reducing friction for users trying to find, view, or compare listings.
+
+Improved trust and credibility via better visuals, consistent branding, and clearer layouts.
+
+With responsive design, mobile users can now comfortably browse listings and view high-quality images.
+
+The site is now better positioned for lead generation: contact buttons, easy tour scheduling, etc., are clearly visible.

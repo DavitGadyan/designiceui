@@ -1,0 +1,6 @@
+Imagine | UI/UX Design SaaS - AI and 3D images for product marketing
+My role. Lead UI/UX Designer
+
+Project description.
+
+I designed the UX/UI for Imagine.io, a SaaS platform that helps brands create photorealistic 3D renders, 360° spins, lifestyle product shots, and AI-generated images for e-commerce, retail, and digital marketing. The product configurator enables manual edits (materials, lighting, angles) while AI automates asset creation. Results: faster go-to-market, lower costs, higher engagement, improved conversions. Deliverables: UX flows, wireframes, prototypes, dashboards, responsive UI design system, usability testing, product strategy, mobile app UI, e-commerce UX, conversion optimization.

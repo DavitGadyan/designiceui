@@ -1,0 +1,8 @@
+UI UX Designer for a mobile bar ordering app
+My role. UI UX Mobile App Designer | SaaS Design | Mobile App Development | Mobile App Design | Mobile Design
+
+Project description.
+
+Barfli enables queue-free, contactless bar ordering to make post-lockdown nightlife safer and faster. We designed an intuitive mobile UX focused on one-tap ordering, clear menu hierarchy, real-time order status, secure payments and fast reorders—while streamlining bartender workflows.
+
+With rapid discovery for the MVP, pilot results: +38% order throughput, −62% average queue time, −28% bartender service time, +16% average check. Implemented analytics and A/B tests for quick iteration. We later introduced loyalty and order-batching to cut errors and boost repeat visits and guest satisfaction.

@@ -1,0 +1,15 @@
+Growth Marketing Platform
+
+Project description.
+
+OVERVIEW
+Design a web application for a growth marketing platform
+
+ROLE
+Lead Product Designer
+
+GOAL & CHALLENGE
+The goal was to design an innovative growth platform from scratch to efficiently plan and track marketing in one place, ensuring that any company focused on the set goals. The key challenge was making the platform appealing to various marketing workflows and removing the data import barrier for new users.
+
+SOLUTION
+My strategy was to divide the platform into independent, easy-to-use features without compromising their collective integrity.

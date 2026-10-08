@@ -1,0 +1,59 @@
+Social Network for Pilots
+
+Project description.
+
+OVERVIEW
+Design a mobile application for a social network for pilots
+
+ROLE
+Lead Product Designer
+
+GOAL & CHALLENGE
+The goal was to design a mobile app from scratch, adding a social twist to familiar logbook management. The key challenge was to strike a balance between pilots focused on logging complex technical records and those keen to casually share their flight stories, all the while empowering both to engage within the community.
+
+SOLUTION
+My approach involved creating a multifaceted experience where a social element served as a unifying space for all user types.
+Skills and deliverables
+
+Product Design
+UX & UI Design
+Interaction Design
+Journey Mapping
+Mobile App Design
+Motion Design
+Product Strategy
+User Interface Design
+User-Centered Design
+User Flow
+Prototyping
+Wireframing
+User Experience Design
+
+
+
+
+
+
+
+
+
+OVERVIEW
+Design a mobile application for a social network for pilots.
+
+ROLE
+Lead Product Designer
+
+GOAL & CHALLENGE
+The goal was to design a mobile app from scratch, adding a social twist to familiar logbook management. The key challenge was to strike a balance between pilots focused on logging complex technical records and those keen to casually share their flight stories, all the while empowering both to engage within the community.
+
+SOLUTION
+My approach involved creating a multifaceted experience where a social element served as a unifying space for all user types. Although complex technical features did not occupy a prominent spot, they were easily accessible for power users as needed. The tracking mode, designed as an effective in-flight assistant, proved successful in driving engagement.
+
+INVOLVEMENT
+- Product Strategy
+- User Research
+- Storyboards
+- Information Architecture
+- Wireframing & Prototyping
+- UI/UX Design
+- Motion Design

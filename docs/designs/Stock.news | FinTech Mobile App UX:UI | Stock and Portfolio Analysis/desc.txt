@@ -1,0 +1,6 @@
+Stock.news | FinTech Mobile App UX/UI | Stock and Portfolio Analysis
+My role. Lead UI/UX Designer
+
+Project description.
+
+I audited and redesigned Stock.news, a mobile app that helps investors track stock market trends, insider activity, and political news. The app integrates AI-powered portfolio analysis, stock comparison tools, and personalized insights to support smarter investing. My work focused on improving usability, simplifying navigation, and modernizing the interface for better engagement and retention. Deliverables: UX audit report, user flows, wireframes, interactive prototypes, responsive mobile UI design, and product strategy.

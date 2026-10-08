@@ -1,0 +1,17 @@
+{
+  "title": "Swoop - Taxi Booking App (rider + driver)",
+  "use_case": "Native iOS phone UI for a two-sided on-demand service app, captured as real screens: onboarding (isometric 3D illustration on a lime top half, black bottom sheet with title, dots and round arrow), map home (hamburger, avatar, 'Where we go?' search, three round-icon quick tiles), route + option cards (lifted accent card with illustration, name, ETA, price; Apple Pay row; full-width CTA + round secondary), 'Looking for a driver' sheet (spinner illustration, from/to rows, Cancel), Arriving card (avatar, star rating, chat/call buttons, vehicle + plate), Add payment card sheet, You-arrived rating + tip chips + Submit, side menu (avatar, Trips, Payments, Favourites, Settings, T&C, Privacy, Support, About, Share), Trips history (date, from/to rows, price, COMPLETED tag), and a full component sheet (search/input states, main/secondary buttons, pill tabs, checkboxes, toggles, radios, tags, map markers). Best template for any request-and-match mobile app: rides, deliveries, home services, bookings, marketplaces that pair a requester with a provider.",
+  "tags": {
+    "industry": ["travel", "saas", "logistics"],
+    "page_type": ["app-shell", "component"],
+    "palette": ["light", "neon", "high-contrast"],
+    "section": ["hero", "features", "pricing"],
+    "style": ["playful", "minimal", "claymorphic"],
+    "motion": ["static"],
+    "layout": ["single-column"]
+  },
+  "palette": ["#FAFAFA", "#FFFFFF", "#C0EC4E", "#030318", "#8A8A93"],
+  "fonts": ["Circular Std", "Circular Std"],
+  "source": "Upwork portfolio - Swoop taxi app, rider + driver",
+  "reference_url": ""
+}

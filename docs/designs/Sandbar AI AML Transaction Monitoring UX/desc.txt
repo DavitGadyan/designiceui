@@ -1,0 +1,6 @@
+Sandbar AI: AML Transaction Monitoring UX
+My role. Product Strategist & UX/UI Designer
+
+Project description.
+
+Sandbar.ai is an anti-money-laundering platform for transaction monitoring, suspicious-activity alerts, and case management. I shaped product and content strategy, conducted user research and journey mapping, created wireframes and UX/UI designs, and established a new design system. The work focused on giving teams a scalable, defensible way to review alerts, investigate activity, manage cases, and support safe user-base growth.

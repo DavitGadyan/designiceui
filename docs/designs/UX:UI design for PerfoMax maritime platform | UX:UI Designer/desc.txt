@@ -1,0 +1,25 @@
+My role. UI/UX Designer
+
+Project description.
+
+🚢 The client's goal: to revolutionize the maritime industry by providing a digital platform that would enable ship operators to effectively monitor and optimize fuel consumption. With sustainability at the forefront, it was necessary to utilize digital twin and artificial intelligence technologies to increase productivity and reduce environmental impact.
+
+Skills and deliverables
+
+User Experience Design
+UX & UI
+UI/UX Prototyping
+UX & UI Design
+User Experience
+
+
+
+
+
+🟡 As a UX/UI Designer who played a crucial role in the development of the PerfoMax platform, I am pleased to share my impressions of our project.
+
+🛳️ The client's goal was clear: to revolutionize the maritime industry by providing a digital platform that would enable ship operators to effectively monitor and optimize fuel consumption. With sustainability at the forefront, it was necessary to utilize digital twin and artificial intelligence technologies to increase productivity and reduce environmental impact.
+
+◾ My contribution to the project included various aspects of design. I focused on creating an intuitive and visually appealing interface that would simplify user interaction. Every step - from conducting in-depth UX research to defining the platform's information architecture - was aimed at providing a seamless user experience.
+
+🟡 In summary, the PerfoMax platform stands as a testament to our team's dedication and expertise in design. By aligning with the client's vision and leveraging cutting-edge technologies, we have created a solution that sets new standards in fuel optimization and performance monitoring for the maritime industry.

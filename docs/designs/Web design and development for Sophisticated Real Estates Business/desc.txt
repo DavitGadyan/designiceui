@@ -1,0 +1,35 @@
+
+My role. Designer and WordPress developer for the real estate agency website
+
+Project description.
+
+🇪🇸 Client:
+Real Estate and construction projects in Mallorca
+
+🏰 Challenge:
+The client was needed a website with a catalog of exclusive real estate and construction projects for sale in Mallorca. The client's capacity as brokers and consultants and project developers, work with luxury apartments, villas, design properties on the Balearic island.
+The task was to make a new design based on the structure of the old website to demonstrate the content of real estate projects to visitors in nice quality. Also, the client wished to have a new website on WordPress CMS instead of the old one.
+Skills and deliverables
+
+User Experience Design
+WordPress
+Web Design
+Real Estate
+Web Development
+
+
+
+
+
+
+
+✅ Designed a sleek and modern user interface using Figma, ensuring a seamless browsing experience for visitors.
+
+From conceptualizing homepage layouts to crafting desktop and mobile pages, every design stage was meticulously executed and approved by the client. Implemented the new design and integrated a property catalog using WordPress CMS, providing easy management and scalability.
+
+💻 Technology Stack:
+- Design: Figma
+- Frontend: HTML, CSS, JS
+- Backend: WordPress CMS, PHP
+
+Excited to elevate your online presence? Let's connect and discuss your project goals! 🚀

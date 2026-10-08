@@ -1,0 +1,43 @@
+Studiokestrel – Interior Website Design from Scratch
+My role. UX/UI Designer
+
+Project description.
+
+I designed the Studiokestrel website entirely from scratch, building a complete digital identity in Figma. This included brand guidelines, color palettes, and typography systems tailored to the brand’s vision. The final design features clean UI components, responsive layouts, and intuitive navigation, delivering a polished, user-friendly experience that establishes a strong online presence.
+Skills and deliverables
+
+Brand Guidelines
+UX & UI Design
+Responsive Design
+Prototyping
+Brand Identity & Guidelines
+
+
+
+
+
+Studiokestrel – Website Design from Scratch (Interior Design)
+
+For Studiokestrel, I was tasked with creating a website from the ground up—no existing layouts, brand systems, or visual direction. My responsibility was to define a complete digital identity and translate it into a cohesive, scalable design system that aligned with the client’s vision.
+
+𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲:
+The main challenge was starting without any structured brand elements. Studiokestrel needed not only a functional website but also a visual language that would represent their identity consistently across platforms.
+
+𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵:
+I began with discovery workshops to understand the brand’s goals, tone, and target audience. Using this insight, I developed a brand guideline that included a custom color palette, typography pairings, and a UI component library. I designed responsive grids and navigation structures to ensure seamless user journeys. Each decision was guided by usability principles, visual hierarchy, and accessibility standards.
+
+𝗗𝗲𝘀𝗶𝗴𝗻 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀:
+
+Brand Guidelines: Established fonts, colors, and UI standards tailored to Studiokestrel’s personality.
+
+Figma Components: Created scalable design systems for buttons, cards, forms, and navigation.
+
+Responsive Grids: Structured layouts for optimal viewing across mobile, tablet, and desktop.
+
+Typography: Balanced modern aesthetics with readability for headings, body text, and callouts.
+
+Interactive Prototyping: Built clickable flows in Figma to validate navigation and usability.
+
+𝗢𝘂𝘁𝗰𝗼𝗺𝗲:
+
+The result was a professional website that not only communicates Studiokestrel’s creative essence but also provides a seamless, engaging experience for users. By delivering both a visual identity and a functional website, the project positioned the brand with a strong digital presence and a future-proof design system.

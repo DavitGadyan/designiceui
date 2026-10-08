@@ -1,0 +1,6 @@
+Fraxion: Enterprise Procurement SaaS Modernization
+My role. Lead Product Designer & UX Strategist
+
+Project description.
+
+Fraxion’s enterprise procurement platform had grown dense and inconsistent as features expanded, making dashboards and approval workflows harder to navigate. I led UX strategy and experience direction with the CEO, engineering team, and an additional designer. I restructured core workflows into clearer step-based interactions, improved dashboard hierarchy, supported invoice extraction and payment flows, and refined the visual system and component framework for a more consistent, scalable product experience.

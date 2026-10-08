@@ -1,0 +1,6 @@
+Healthcare Logistics SaaS Platform Redesign
+My role. Healthcare Logistics SaaS Platform Redesign
+
+Project description.
+
+Led the end-to-end redesign of VPL’s healthcare logistics platform, transforming slow, outdated legacy software into a modern, scalable SaaS experience. Began with a comprehensive UX audit, then defined the future-state product vision, redesigned complex shipping workflows, created a new UI and design system, and partnered closely with engineering and stakeholders through implementation. The new experience reduced friction and cognitive load, supported revenue-generating features, and led to a follow-on product engagement.

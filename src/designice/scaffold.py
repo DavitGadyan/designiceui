@@ -433,7 +433,8 @@ def _expo_font_plan(fonts: list[str]) -> dict[str, Any]:
     for role, font in (("display", display), ("body", body)):
         if font in GOOGLE_FONTS:
             kebab = re.sub(r"[^a-z0-9]+", "-", font.lower()).strip("-")
-            pascal = "".join(part.capitalize() for part in re.split(r"[^A-Za-z0-9]+", font) if part)
+            # Keep all-caps parts as-is: "DM Sans" exports DMSans_400Regular, not DmSans_.
+            pascal = "".join(part if part.isupper() else part.capitalize() for part in re.split(r"[^A-Za-z0-9]+", font) if part)
             regular = f"{pascal}_400Regular"
             bold = regular if font in SINGLE_WEIGHT else f"{pascal}_700Bold"
             pkg = f"@expo-google-fonts/{kebab}"

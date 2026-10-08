@@ -1,0 +1,6 @@
+HealMind - Configurable Collaborative-care EHR
+My role. Lead/Founding Product Designer
+
+Project description.
+
+I led product strategy and design direction for a 0→1 EHR built for HealMind and partner clinics delivering ketamine-assisted treatment. The work began with an audit of an early design direction, then expanded into more than 300 unique screens across clinical records, charting, scheduling, telehealth, billing, referrals, role-based permissions, analytics, reporting, and administration. I worked directly with the CEO and CTO to define the product architecture, user journeys, hierarchy, UX framework, and design direction.

@@ -1,0 +1,10 @@
+UI UX Designer & Mobile App Design for a nightlife utility app
+My role. UI UX Mobile App Designer | SaaS Design | Mobile App Development | Mobile App Design | Mobile Design
+
+Project description.
+
+I’ve been working on the UX/UI design for the first product of a U.S.-focused startup building nightlife utility apps.
+
+The app uses live foot-traffic data to show which venues are busiest through a real-time map, rankings, and insights, helping users aged 18–30 decide where to go out.
+
+I designed an iOS-first mobile experience and custom design system, balancing clarity with a sharp, playful tone, while supporting monetization via ads and premium analytics.

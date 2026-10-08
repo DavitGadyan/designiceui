@@ -1,0 +1,65 @@
+Northwell Health – Clinical Dashboard Design
+My role. UX/UI Designer
+
+Project description.
+
+I designed a clinical dashboard for Northwell Health in Figma, building a clean, intuitive interface tailored for medical professionals. The design features clear data visualizations, accessible layout, and interactive filters that prioritize patient metrics. I also established UI components and responsive grid systems to ensure usability across devices while adhering to healthcare data best practices.
+Skills and deliverables
+
+Data Visualization
+Dashboard
+UX & UI
+Web Accessibility
+HIPAA
+
+
+
+
+
+Northwell Health – Clinical Dashboard Design
+
+𝗠𝘆 𝗥𝗼𝗹𝗲 𝗮𝘀 𝗦𝗲𝗻𝗶𝗼𝗿 𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗿
+
+As the lead designer, I crafted a clinical dashboard from the ground up in Figma no preexisting template. My mission was to make complex patient data accessible, actionable, and trustworthy for healthcare professionals, while ensuring compliance and usability across devices.
+
+𝗗𝗲𝘀𝗶𝗴𝗻 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲
+
+Northwell Health needed a dashboard that could present real-time patient metrics in a clean, digestible format. The challenge was balancing clarity with complexity distilling dense data into visuals that inform critical decisions without overwhelming users.
+
+𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵
+
+User-Centered Design: Prioritized user flows early, focusing on what clinicians need most patient vitals, trends, alerts.
+
+Data Visualization Principles: Applied diverse chart types (e.g., line graphs for trends, bar charts for comparisons) and clear labels to reduce cognitive load, following best practices
+PMC
+HIMSS
+.
+Accessibility & Compliance: Ensured high contrast, legible text sizes, and intuitive layout. Adhered to healthcare data standards like HIPAA and usability guidelines
+Sidekick Interactive
+PubMed
+.
+Interactive Features: Built adjustable filters and thresholds to empower users e.g., date ranges for data trends supported by best practices
+PMC
+.
+
+Scalable UI System: Developed Figma-based components (cards, tooltips, dropdowns) and responsive grid systems to maintain consistency and enable efficient iterations.
+
+𝗗𝗲𝘀𝗶𝗴𝗻 𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀
+
+Conducted stakeholder workshops to align on key metrics and use cases.
+
+Mapped user journeys for different roles: clinicians, administrators, operations.
+
+Iterated low-to-high fidelity prototypes with interactive filters and hover info.
+
+Included real-world data simulations for context (e.g., patient volume, avg. wait times).
+
+Added explanatory tooltips to minimize misinterpretation and enhance clarity.
+
+𝗢𝘂𝘁𝗰𝗼𝗺𝗲 & 𝗜𝗺𝗽𝗮𝗰𝘁
+
+Enabled quick insights via a streamlined interface clinicians can access vital metrics at a glance.
+
+Interactive filtering and responsive design enhanced adaptability across devices (desktop/tablet).
+
+A scalable design system laid the foundation for future Northwell Health dashboard extensions (e.g., operational KPIs, financial metrics).

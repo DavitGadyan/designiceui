@@ -1,0 +1,60 @@
+Workplace Safety HR Platform
+
+Project description.
+
+OVERVIEW
+Design a web and mobile application for a workplace safety HR platform
+
+ROLE
+Lead Product Designer
+
+GOAL & CHALLENGE
+The goal was to design a web admin panel and client mobile app to assist offices in safely reopening during the pandemic. The primary challenge involved the sensitive task of monitoring employees' health while preserving their privacy. Furthermore, adapting to the constantly evolving health guidelines was also a critical aspect.
+Skills and deliverables
+
+Product Design
+Interaction Design
+User Experience Design
+Product Strategy
+Journey Mapping
+Mobile App Design
+Motion Design
+User-Centered Design
+User Flow
+User Interface Design
+Usability Testing
+UX Research
+Wireframing
+Prototyping
+UX Writing
+
+
+
+
+
+
+
+
+
+
+
+OVERVIEW
+Design a web and mobile application for a workplace safety HR platform.
+
+ROLE
+Lead Product Designer
+
+GOAL & CHALLENGE
+The goal was to design a web admin panel and client mobile app to assist offices in safely reopening during the pandemic. The primary challenge involved the sensitive task of monitoring employees' health while preserving their privacy. Furthermore, adapting to the constantly evolving health guidelines was also a critical aspect.
+
+SOLUTION
+My design approach prioritized user privacy and trust, with a strong emphasis on transparent communication during the onboarding process. A primary focus was the automation of most features, coupled by a robust notification system. Additionally, the apps were designed with modular feature components to ensure flexibility in response to shifting regulations.
+
+INVOLVEMENT
+- User Research
+- Journey Maps
+- Storyboards
+- Information Architecture
+- Wireframing & Prototyping
+- UI/UX Design
+- Motion Design

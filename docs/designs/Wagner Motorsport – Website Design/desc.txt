@@ -1,0 +1,41 @@
+Wagner Motorsport – Website Design
+My role. Lead UX/UI Designer
+
+Project description.
+
+I redesigned the Wagner Motorsport website using Figma, focusing on delivering a high-performance, visually striking interface. The redesign emphasizes the brand’s motorsport legacy, with dynamic layouts, intuitive navigation, and engaging visuals that showcase their vehicles and services. The new design creates an immersive experience for enthusiasts and customers alike.
+Skills and deliverables
+
+UX & UI Design
+Wireframe
+Prototype
+Figma
+WordPress
+
+
+
+
+
+Wagner Motorsport – Website Design
+
+As the lead designer for Wagner Motorsport’s website redesign, my goal was to craft a digital experience that reflects the thrill and precision of motorsports while enhancing usability for visitors.
+
+𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲:
+The existing website felt outdated, lacked cohesion, and didn’t effectively convey the brand’s identity or showcase its vehicles. Navigation was confusing, and key offerings were buried under cluttered layouts, reducing user engagement.
+
+𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵:
+I began by analyzing the brand’s core values and competitors’ digital presence. Using Figma, I created wireframes focusing on a clean, modular layout that highlights featured vehicles, services, and motorsport achievements. Visual hierarchy was established through bold typography, dynamic imagery, and interactive elements. I ensured the interface was responsive, providing seamless experiences across desktops, tablets, and mobile devices.
+
+𝗗𝗲𝘀𝗶𝗴𝗻 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀:
+
+Dynamic Hero Section: Immersive visuals that instantly communicate the excitement of motorsports.
+
+Intuitive Navigation: Clear categories for vehicles, services, and events, improving findability.
+
+Visual Storytelling: High-quality images and subtle animations convey the brand’s energy and expertise.
+
+Responsive Design: Optimized for all devices, ensuring accessibility and engagement.
+
+𝗢𝘂𝘁𝗰𝗼𝗺𝗲:
+
+The redesign successfully transformed Wagner Motorsport’s website into a visually compelling and user-friendly platform. Engagement metrics improved, visitors spent more time exploring the vehicles and services, and the site now reflects the brand’s performance-driven identity while creating a lasting impression for motorsport enthusiasts.

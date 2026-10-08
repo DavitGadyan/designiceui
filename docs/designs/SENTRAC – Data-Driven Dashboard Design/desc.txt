@@ -1,0 +1,26 @@
+SENTRAC – Data-Driven Dashboard Design
+My role. UX UI Designer
+
+Project description.
+
+For SENTRAC, I designed a modern, data-centric dashboard that transforms complex analytics into clear, actionable insights. The challenge was to present real-time campaign performance, sentiment analysis, and cross-platform tracking in a way that is both visually engaging and functionally intuitive.
+
+SENTRAC – Data-Driven Dashboard Design
+
+For SENTRAC, I designed a modern, data-centric dashboard that transforms complex analytics into clear, actionable insights. The challenge was to present real-time campaign performance, sentiment analysis, and cross-platform tracking in a way that is both visually engaging and functionally intuitive.
+
+𝗜 𝗳𝗼𝗰𝘂𝘀𝗲𝗱 𝗼𝗻:
+
+Information Hierarchy – Structuring KPIs (active tracks, sentiment score, data points analyzed) at the top for instant visibility.
+
+Data Visualization – Using bar graphs, sentiment rings, and ranked lists to make trends and performance metrics easy to interpret.
+
+UI/UX Consistency – Creating a clean, minimal design system with modular cards, ensuring scalability across future product features.
+
+User Control – Built-in light/dark mode toggles and simplified navigation to enhance usability.
+
+Brand Identity – Balanced professional aesthetics with an approachable feel through typography, iconography, and layout choices.
+
+𝗥𝗲𝘀𝘂𝗹𝘁:
+
+The result was a conversion-friendly, analytics-focused SaaS dashboard that empowers users to make better data-driven decisions without feeling overwhelmed.
